@@ -101,3 +101,7 @@ def article_df2article_config(df):
 
     #print('- ' * 200)
     # input('.')
+
+
+def extract_prop_value_from_text_line_df(df):
+    ...
