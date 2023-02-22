@@ -3,6 +3,8 @@
 # Press Umschalt+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 import cv2
+
+from gui import show_gui
 from pdf_parser import parse, show
 
 
@@ -14,6 +16,8 @@ def main():
         img = parse(img_path)
         images_result.append((img, img_path))
 
+    # show_gui([_[0] for _ in images_result])
+
     for img, path in images_result:
         show(img, path)
     cv2.waitKey(0)
@@ -22,3 +26,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+
+
+
+
+
+
