@@ -294,8 +294,11 @@ def align_col_chunks_horizontally(cols: dict[pd.DataFrame]):
         articles_df = [_ for _ in [token2article_data(_) for _ in possible_article_tokens] if _ is not None]
 
         if len(possible_article_tokens) != len(articles_df):
-            logging.debug(f'token found that passed possible_article_tokens() but not found in data {possible_article_tokens}')
-
+            logging.debug(
+                f'token found that passed possible_article_tokens() but not found in data {possible_article_tokens}')
+        if len(articles_df) > 1:
+            logging.debug(
+                f'found {len(articles_df)} article_dfs for tokens (expected: 1): {possible_article_tokens}')
 
         print('article df')
         print(articles_df)
