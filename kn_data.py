@@ -1,3 +1,4 @@
+import re
 from os.path import join
 
 import pandas as pd
@@ -14,6 +15,7 @@ _program_id2program_data = {
     'B4': ['basic4', 'basic4bench'],
     'PK': ['plenumk'],
     'AJ': ['astra'],
+    'BT': ['besprechungstische'],
     # container
     'CO': ['co2'],
     # cabinets
@@ -31,7 +33,10 @@ _program_id2program_data = {
 
 
 def pre_condition_is_token_article(token):
-    pre = 2 < len(token) < 20 and token[0].isalpha() and token[1].isalnum()
+    # 3 <= len <= 20
+    pattern = r'^[A-Z0-9][A-Z0-9]([A-Z0-9-_]){1,18}$'
+    pre = re.match(pattern, token)
+    # pre = 2 < len(token) < 20 and token[0].isalpha() and token[1].isalnum()
     if pre:
         program_id = token[:2]
         return _program_id2program_data.get(program_id, None) is not None
