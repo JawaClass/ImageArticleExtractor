@@ -1,0 +1,1181 @@
+,article_nr,art_type,manufacturer,series,rel_obj_x,pos_class,prop_class,property,pos_prop,need_input,restrictable,scope,pos_pval,is_default,value_from,value_to,prop_text,pval_text
+0,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,FARBKONZEPT,1,1,0,C,1,1,DES1,,Farbdesign,Designkonzept 1
+1,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,FARBKONZEPT,1,1,0,C,1,1,DES1,,Farbdesign,Designkonzept 1
+2,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,FARBKONZEPT,1,1,0,C,2,0,DES2,,Farbdesign,Designkonzept 2
+3,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,FARBKONZEPT,1,1,0,C,2,0,DES2,,Farbdesign,Designkonzept 2
+4,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F1,2,1,1,C,1,0,7I,,Farbe Platte,Softtouch Beige 0717
+5,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F1,2,1,1,C,1,0,7I,,Farbe Platte,Softtouch Beige 0717
+6,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F1,2,1,1,C,2,0,7J,,Farbe Platte,Softtouch Grau 0718
+7,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F1,2,1,1,C,2,0,7J,,Farbe Platte,Softtouch Grau 0718
+8,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F105,3,1,1,C,1,0,LBB,,Farbe Armlehnenauflage,Sattelleder Braun
+9,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F105,3,1,1,C,1,0,LBB,,Farbe Armlehnenauflage,Sattelleder Braun
+10,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F105,3,1,1,C,2,0,LBS,,Farbe Armlehnenauflage,Sattelleder Schwarz
+11,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F105,3,1,1,C,2,0,LBS,,Farbe Armlehnenauflage,Sattelleder Schwarz
+12,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F176,4,1,1,C,1,0,KS,,Farbe Elektrifizierung,Schwarz
+13,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F176,4,1,1,C,1,0,KS,,Farbe Elektrifizierung,Schwarz
+14,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F176,4,1,1,C,2,0,WI,,Farbe Elektrifizierung,Reinweiss RAL 9010
+15,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F176,4,1,1,C,2,0,WI,,Farbe Elektrifizierung,Reinweiss RAL 9010
+16,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F2,5,1,1,C,1,0,KS,,Farbe Gestell,Schwarz
+17,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F2,5,1,1,C,1,0,KS,,Farbe Gestell,Schwarz
+18,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F2,5,1,1,C,2,1,WI,,Farbe Gestell,Reinweiss RAL 9010
+19,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F2,5,1,1,C,2,1,WI,,Farbe Gestell,Reinweiss RAL 9010
+20,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F93,6,1,1,C,1,0,FLF,,Farbe Filz,Filz Grau
+21,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F93,6,1,1,C,1,0,FLF,,Farbe Filz,Filz Grau
+22,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,H_VERSTELL,7,0,0,C,1,0,HV38,,Höhenverstellung,Motorverst. 630-1270 mm
+23,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,H_VERSTELL,7,0,0,C,1,0,HV38,,Höhenverstellung,Motorverst. 630-1270 mm
+24,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,1,0,WCS0,,Wireless Charger,ohne Wireless Charger
+25,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,1,0,WCS0,,Wireless Charger,ohne Wireless Charger
+26,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,2,0,WCS1,,Wireless Charger,Charger+Steckd./Zufuhr/Wanne
+27,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,2,0,WCS1,,Wireless Charger,Charger+Steckd./Zufuhr/Wanne
+28,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,3,0,WCS2,,Wireless Charger,Charger+Steckd./K-Kabel 225mm
+29,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,3,0,WCS2,,Wireless Charger,Charger+Steckd./K-Kabel 225mm
+30,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,4,0,WCS3,,Wireless Charger,Charger+Steckd./Zufuhr
+31,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,4,0,WCS3,,Wireless Charger,Charger+Steckd./Zufuhr
+32,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,5,0,WCS4,,Wireless Charger,Wireless Charger
+33,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,W_CHARGER,8,0,0,C,5,0,WCS4,,Wireless Charger,Wireless Charger
+34,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,KABELWANNE,9,0,0,C,1,0,KW13,,Kabelwanne,"Kabelwanne, klappbar"
+35,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,KABELWANNE,9,0,0,C,1,0,KW13,,Kabelwanne,"Kabelwanne, klappbar"
+36,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ABSORBER,10,0,0,C,1,0,ABS2,,Akustikabsorber,Paar Akustikblattabsorber
+37,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ABSORBER,10,0,0,C,1,0,ABS2,,Akustikabsorber,Paar Akustikblattabsorber
+38,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ABSORBER,10,0,0,C,2,0,ABS3,,Akustikabsorber,Paar Akustikblattabsorber inkl. Beleuchtung
+39,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ABSORBER,10,0,0,C,2,0,ABS3,,Akustikabsorber,Paar Akustikblattabsorber inkl. Beleuchtung
+40,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F180,11,1,1,C,1,0,GRB,,Farbe Absorber,Grün mit brauner Ledereinlage
+41,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F180,11,1,1,C,1,0,GRB,,Farbe Absorber,Grün mit brauner Ledereinlage
+42,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F180,11,1,1,C,2,0,GRG,,Farbe Absorber,Grau mit grauer Ledereinlage
+43,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F180,11,1,1,C,2,0,GRG,,Farbe Absorber,Grau mit grauer Ledereinlage
+44,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MONITORHALTER,12,0,0,C,1,0,MOH1,,Monitorhalter,mit Monitorhalter
+45,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MONITORHALTER,12,0,0,C,1,0,MOH1,,Monitorhalter,mit Monitorhalter
+46,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F181,13,1,1,C,1,0,KS,,Farbe Monitorhalter,Schwarz
+47,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F181,13,1,1,C,1,0,KS,,Farbe Monitorhalter,Schwarz
+48,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F181,13,1,1,C,2,0,WI,,Farbe Monitorhalter,Reinweiss RAL 9010
+49,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F181,13,1,1,C,2,0,WI,,Farbe Monitorhalter,Reinweiss RAL 9010
+50,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,CPU_HALTER,14,0,0,C,1,0,CPU1,,CPU Halter,mit CPU Halter
+51,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,CPU_HALTER,14,0,0,C,1,0,CPU1,,CPU Halter,mit CPU Halter
+52,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F182,15,1,1,C,1,0,KS,,Farbe CPU-Halter,Schwarz
+53,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F182,15,1,1,C,1,0,KS,,Farbe CPU-Halter,Schwarz
+54,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F182,15,1,1,C,2,0,WI,,Farbe CPU-Halter,Reinweiss RAL 9010
+55,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F182,15,1,1,C,2,0,WI,,Farbe CPU-Halter,Reinweiss RAL 9010
+56,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,STAURAUMBOX,16,0,0,C,1,0,STRBL,,Stauraumbox,Stauraumbox links
+57,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,STAURAUMBOX,16,0,0,C,1,0,STRBL,,Stauraumbox,Stauraumbox links
+58,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,STAURAUMBOX,16,0,0,C,2,0,STRBR,,Stauraumbox,Stauraumbox rechts
+59,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,STAURAUMBOX,16,0,0,C,2,0,STRBR,,Stauraumbox,Stauraumbox rechts
+60,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F188,17,1,1,C,1,0,EN,,Farbe Stauraumbox,Eiche natur
+61,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F188,17,1,1,C,1,0,EN,,Farbe Stauraumbox,Eiche natur
+62,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,1,0,WF0,,Wertfach,ohne Wertfach
+63,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,1,0,WF0,,Wertfach,ohne Wertfach
+64,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,2,0,WF1,,Wertfach,Wertfach+Ladestation RW o.Ausp
+65,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,2,0,WF1,,Wertfach,Wertfach+Ladestation RW o.Ausp
+66,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,3,0,WF2,,Wertfach,Wertfach+Ladestation RW m.Ausp
+67,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,3,0,WF2,,Wertfach,Wertfach+Ladestation RW m.Ausp
+68,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,4,0,WF3,,Wertfach,Wertfach abschließbar
+69,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,4,0,WF3,,Wertfach,Wertfach abschließbar
+70,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,5,0,WF4,,Wertfach,Wertfach mittlere Stauraumbox
+71,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERTFACH,18,0,0,C,5,0,WF4,,Wertfach,Wertfach mittlere Stauraumbox
+72,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F87,19,1,1,C,1,0,KS,,Farbe Wertfach,Schwarz
+73,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F87,19,1,1,C,1,0,KS,,Farbe Wertfach,Schwarz
+74,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F87,19,1,1,C,2,0,WI,,Farbe Wertfach,Reinweiss RAL 9010
+75,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F87,19,1,1,C,2,0,WI,,Farbe Wertfach,Reinweiss RAL 9010
+76,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,STIFTBOX,20,0,0,C,1,0,STBO1,,Stiftbox,Stiftbox links
+77,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,STIFTBOX,20,0,0,C,1,0,STBO1,,Stiftbox,Stiftbox links
+78,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,STIFTBOX,20,0,0,C,2,0,STBO2,,Stiftbox,Stiftbox rechts
+79,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,STIFTBOX,20,0,0,C,2,0,STBO2,,Stiftbox,Stiftbox rechts
+80,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,STIFTBOX,20,0,0,C,3,0,STBO3,,Stiftbox,Stiftbox beidseitig
+81,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,STIFTBOX,20,0,0,C,3,0,STBO3,,Stiftbox,Stiftbox beidseitig
+82,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,KABELSCHLAUCH,21,0,0,C,1,0,KSL,,Kabelschlauch,mit Kabelschlauch
+83,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,KABELSCHLAUCH,21,0,0,C,1,0,KSL,,Kabelschlauch,mit Kabelschlauch
+84,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F179,22,1,1,C,1,0,KS,,Farbe Kabelschlauch,Schwarz
+85,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F179,22,1,1,C,1,0,KS,,Farbe Kabelschlauch,Schwarz
+86,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,F179,22,1,1,C,2,0,WI,,Farbe Kabelschlauch,Weiss
+87,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,F179,22,1,1,C,2,0,WI,,Farbe Kabelschlauch,Weiss
+88,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,1,0,E01,,Elektrifizierung,Set Steckdose/Zufuhrkabel
+89,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,1,0,E01,,Elektrifizierung,Set Steckdose/Zufuhrkabel
+90,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,2,0,E02,,Elektrifizierung,Set Steckd./K-kabel 4000
+91,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,2,0,E02,,Elektrifizierung,Set Steckd./K-kabel 4000
+92,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,3,0,E03,,Elektrifizierung,Set Steckd./K-kabel 2000
+93,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,3,0,E03,,Elektrifizierung,Set Steckd./K-kabel 2000
+94,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,4,0,E10,,Elektrifizierung,Steckdosenelement
+95,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,4,0,E10,,Elektrifizierung,Steckdosenelement
+96,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,5,0,E11,,Elektrifizierung,Stromzuführungskabel 3500
+97,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,5,0,E11,,Elektrifizierung,Stromzuführungskabel 3500
+98,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,6,0,E13,,Elektrifizierung,Kupplungskabel 2000 mm
+99,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,6,0,E13,,Elektrifizierung,Kupplungskabel 2000 mm
+100,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,7,0,E21,,Elektrifizierung,Steckdosenbox 3-fach/Zufuhrk.
+101,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,7,0,E21,,Elektrifizierung,Steckdosenbox 3-fach/Zufuhrk.
+102,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,8,0,E22,,Elektrifizierung,Steckdosenbox 4-fach/Zufuhrk.
+103,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,8,0,E22,,Elektrifizierung,Steckdosenbox 4-fach/Zufuhrk.
+104,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,9,0,E28,,Elektrifizierung,Kupplungskabel 4000mm
+105,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,9,0,E28,,Elektrifizierung,Kupplungskabel 4000mm
+106,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,10,0,E29,,Elektrifizierung,"2x3fach Steckdo,1xZuFuhr,1xKup"
+107,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,10,0,E29,,Elektrifizierung,"2x3fach Steckdo,1xZuFuhr,1xKup"
+108,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,11,0,E30,,Elektrifizierung,"2x3fach Steckdo.box,1xZufu,1xK"
+109,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,11,0,E30,,Elektrifizierung,"2x3fach Steckdo.box,1xZufu,1xK"
+110,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,12,0,E31,,Elektrifizierung,1-fach elektrifiziert links
+111,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,12,0,E31,,Elektrifizierung,1-fach elektrifiziert links
+112,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,13,0,E32,,Elektrifizierung,3-fach elektrifiziert links
+113,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,13,0,E32,,Elektrifizierung,3-fach elektrifiziert links
+114,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,14,0,E33,,Elektrifizierung,1-fach elektrifiziert rechts
+115,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,14,0,E33,,Elektrifizierung,1-fach elektrifiziert rechts
+116,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,15,0,E34,,Elektrifizierung,3-fach elektrifiziert rechts
+117,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,15,0,E34,,Elektrifizierung,3-fach elektrifiziert rechts
+118,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,16,0,E35,,Elektrifizierung,4-fach Drehsteckd.Set
+119,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,16,0,E35,,Elektrifizierung,4-fach Drehsteckd.Set
+120,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,17,0,E36,,Elektrifizierung,"Elektroset (2XStrom,1X2 USB)"
+121,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,17,0,E36,,Elektrifizierung,"Elektroset (2XStrom,1X2 USB)"
+122,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,18,0,E37,,Elektrifizierung,Elektronische Schliessung
+123,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,18,0,E37,,Elektrifizierung,Elektronische Schliessung
+124,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,19,0,E38,,Elektrifizierung,1x230V /2er USB
+125,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,19,0,E38,,Elektrifizierung,1x230V /2er USB
+126,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,20,0,E39,,Elektrifizierung,2x1-fach Steckdose+Zufuhr
+127,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,20,0,E39,,Elektrifizierung,2x1-fach Steckdose+Zufuhr
+128,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,21,0,E40,,Elektrifizierung,"4fach Steckdo.box,1xZufuhrk."
+129,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,21,0,E40,,Elektrifizierung,"4fach Steckdo.box,1xZufuhrk."
+130,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,22,0,E92,,Elektrifizierung,Coni Klappe 3xSchuko
+131,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,22,0,E92,,Elektrifizierung,Coni Klappe 3xSchuko
+132,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,23,0,E93,,Elektrifizierung,Coni Klappe 2xSchuko 1x2RJ45
+133,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,23,0,E93,,Elektrifizierung,Coni Klappe 2xSchuko 1x2RJ45
+134,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,24,0,E94,,Elektrifizierung,Coni Kl.1xSchuko 1x2RJ45 1xVGA
+135,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,24,0,E94,,Elektrifizierung,Coni Kl.1xSchuko 1x2RJ45 1xVGA
+136,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,25,0,E95,,Elektrifizierung,"Elektro-Set 1xASA Plastici,33"
+137,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,25,0,E95,,Elektrifizierung,"Elektro-Set 1xASA Plastici,33"
+138,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,26,0,E96,,Elektrifizierung,"Elektro-Set 1xASA Plastici,40"
+139,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,26,0,E96,,Elektrifizierung,"Elektro-Set 1xASA Plastici,40"
+140,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,27,0,E97,,Elektrifizierung,Elektro-Set 2x3fach Steckdose
+141,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,27,0,E97,,Elektrifizierung,Elektro-Set 2x3fach Steckdose
+142,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,28,0,E98,,Elektrifizierung,Elektro-Set 1xASA Plastici
+143,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,28,0,E98,,Elektrifizierung,Elektro-Set 1xASA Plastici
+144,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,29,0,E99,,Elektrifizierung,Move Dose 1
+145,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,29,0,E99,,Elektrifizierung,Move Dose 1
+146,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,30,0,E100,,Elektrifizierung,Move Dose 2
+147,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,30,0,E100,,Elektrifizierung,Move Dose 2
+148,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,31,0,E101,,Elektrifizierung,Move Dose 3
+149,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO,23,0,0,R,31,0,E101,,Elektrifizierung,Move Dose 3
+150,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,1,0,EVA,,Exportverpackung,Spedition gem.QMV
+151,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,1,0,EVA,,Exportverpackung,Spedition gem.QMV
+152,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,2,0,EVB,,Exportverpackung,Osteuropa gem.QMV
+153,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,2,0,EVB,,Exportverpackung,Osteuropa gem.QMV
+154,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,3,0,EVC,,Exportverpackung,Sonder gem.Absprache
+155,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,3,0,EVC,,Exportverpackung,Sonder gem.Absprache
+156,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,4,0,EVD,,Exportverpackung,Seefracht gem.QMV
+157,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,4,0,EVD,,Exportverpackung,Seefracht gem.QMV
+158,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,5,0,EVE,,Exportverpackung,Luftfracht gem.QMV
+159,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,5,0,EVE,,Exportverpackung,Luftfracht gem.QMV
+160,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,6,0,EVF,,Exportverpackung,Australien gem.QMV
+161,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,6,0,EVF,,Exportverpackung,Australien gem.QMV
+162,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,7,0,EVX,,Exportverpackung,Verpackung gebändert
+163,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,7,0,EVX,,Exportverpackung,Verpackung gebändert
+164,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,8,0,EVP,,Exportverpackung,Verpackung / palettiert
+165,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,8,0,EVP,,Exportverpackung,Verpackung / palettiert
+166,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,9,0,EVK,,Exportverpackung,Verpackung im Karton
+167,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,EXPORT,24,0,0,R,9,0,EVK,,Exportverpackung,Verpackung im Karton
+168,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,1,0,GB,,Elektro Länderspezifisch,England
+169,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,1,0,GB,,Elektro Länderspezifisch,England
+170,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,2,0,BE,,Elektro Länderspezifisch,Belgien/Frankreich
+171,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,2,0,BE,,Elektro Länderspezifisch,Belgien/Frankreich
+172,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,3,0,CH,,Elektro Länderspezifisch,Schweiz
+173,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,3,0,CH,,Elektro Länderspezifisch,Schweiz
+174,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,4,0,DE,,Elektro Länderspezifisch,Deutschland
+175,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ELEKTRO_LAND,26,0,0,R,4,0,DE,,Elektro Länderspezifisch,Deutschland
+176,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERANFERTIGUNG,27,0,0,R,1,0,S,,Sonderanfertigung,Sonderanfertigung
+177,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERANFERTIGUNG,27,0,0,R,1,0,S,,Sonderanfertigung,Sonderanfertigung
+178,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,1,0,V00,,Konfigurationsversion(Altkonf),Neue Version 2007
+179,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,1,0,V00,,Konfigurationsversion(Altkonf),Neue Version 2007
+180,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,2,0,V01,,Konfigurationsversion(Altkonf),Version Herbst 2003
+181,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,2,0,V01,,Konfigurationsversion(Altkonf),Version Herbst 2003
+182,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,3,0,V02,,Konfigurationsversion(Altkonf),Schloßumstellung 7/2004
+183,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,3,0,V02,,Konfigurationsversion(Altkonf),Schloßumstellung 7/2004
+184,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,4,0,V06,,Konfigurationsversion(Altkonf),Alte Ausführung ST-Front
+185,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,4,0,V06,,Konfigurationsversion(Altkonf),Alte Ausführung ST-Front
+186,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,5,0,V07,,Konfigurationsversion(Altkonf),Eco´s Version 2006
+187,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,5,0,V07,,Konfigurationsversion(Altkonf),Eco´s Version 2006
+188,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,6,0,V08,,Konfigurationsversion(Altkonf),Uno´s Version 2006
+189,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,6,0,V08,,Konfigurationsversion(Altkonf),Uno´s Version 2006
+190,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,7,0,V09,,Konfigurationsversion(Altkonf),OS Version 2006
+191,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,7,0,V09,,Konfigurationsversion(Altkonf),OS Version 2006
+192,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,8,0,V10,,Konfigurationsversion(Altkonf),D4 Version 2006
+193,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,8,0,V10,,Konfigurationsversion(Altkonf),D4 Version 2006
+194,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,9,0,V11,,Konfigurationsversion(Altkonf),B4 Version 2006
+195,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,9,0,V11,,Konfigurationsversion(Altkonf),B4 Version 2006
+196,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,10,0,V12,,Konfigurationsversion(Altkonf),CO Front Kantenradius R12
+197,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,10,0,V12,,Konfigurationsversion(Altkonf),CO Front Kantenradius R12
+198,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,11,0,V13,,Konfigurationsversion(Altkonf),R3 Vorderstück KT coloriert
+199,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,11,0,V13,,Konfigurationsversion(Altkonf),R3 Vorderstück KT coloriert
+200,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,12,0,V14,,Konfigurationsversion(Altkonf),"Alte Gestellversion CI,TL,LO"
+201,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,ALTKONFIGURATION,28,0,0,R,12,0,V14,,Konfigurationsversion(Altkonf),"Alte Gestellversion CI,TL,LO"
+202,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,SONDER_TECHNISCH,29,0,0,R,1,0,T,,Sonder: Techn.Bearbeitung,Sonder: Techn.Bearbeitung
+203,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,SONDER_TECHNISCH,29,0,0,R,1,0,T,,Sonder: Techn.Bearbeitung,Sonder: Techn.Bearbeitung
+204,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,1,0,WERK1,,WERKSBELEGUNG,Werk 1
+205,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,1,0,WERK1,,WERKSBELEGUNG,Werk 1
+206,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,2,0,WERK2,,WERKSBELEGUNG,Werk 2
+207,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,2,0,WERK2,,WERKSBELEGUNG,Werk 2
+208,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,3,0,WERK3,,WERKSBELEGUNG,Werk 3
+209,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,3,0,WERK3,,WERKSBELEGUNG,Werk 3
+210,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,4,0,WERK4,,WERKSBELEGUNG,Werk 4
+211,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,4,0,WERK4,,WERKSBELEGUNG,Werk 4
+212,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,5,0,WERK6,,WERKSBELEGUNG,Werk 6
+213,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,5,0,WERK6,,WERKSBELEGUNG,Werk 6
+214,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,6,0,WERK9,,WERKSBELEGUNG,Werk 9
+215,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,WERKSBELEGUNG,35,0,0,R,6,0,WERK9,,WERKSBELEGUNG,Werk 9
+216,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,1,0,N,,Sonderberechtigung für SD,Nur Basisartikelwerte
+217,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,1,0,N,,Sonderberechtigung für SD,Nur Basisartikelwerte
+218,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,2,0,L,,Sonderberechtigung für SD,Farb- und Maßänderung
+219,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,2,0,L,,Sonderberechtigung für SD,Farb- und Maßänderung
+220,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,3,0,M,,Sonderberechtigung für SD,Konfiguration ohne Regeln
+221,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,3,0,M,,Sonderberechtigung für SD,Konfiguration ohne Regeln
+222,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,4,0,K,,Sonderberechtigung für SD,Stücklistenänderung erforderl.
+223,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,SONDERBERECHTIGUNG,36,0,0,R,4,0,K,,Sonderberechtigung für SD,Stücklistenänderung erforderl.
+224,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,1,0,ALLIANZ UNGARN,,Objekt,Allianz Ungarn
+225,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,1,0,ALLIANZ UNGARN,,Objekt,Allianz Ungarn
+226,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,2,0,ARUP,,Objekt,ARUP Ing.Büro (UK)
+227,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,2,0,ARUP,,Objekt,ARUP Ing.Büro (UK)
+228,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,3,0,AST,,Objekt,ALTENSTEIG
+229,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,3,0,AST,,Objekt,ALTENSTEIG
+230,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,4,0,BFD,,Objekt,Bundesfinanzdirektion Südwest
+231,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,4,0,BFD,,Objekt,Bundesfinanzdirektion Südwest
+232,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,5,0,BOSCH,,Objekt,Bosch
+233,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,5,0,BOSCH,,Objekt,Bosch
+234,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,6,0,BSV,,Objekt,Basler Versicherung
+235,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,6,0,BSV,,Objekt,Basler Versicherung
+236,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,7,0,CDJ,,Objekt,Cour de Justice
+237,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,7,0,CDJ,,Objekt,Cour de Justice
+238,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,8,0,CG,,Objekt,Canton Geneve
+239,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,8,0,CG,,Objekt,Canton Geneve
+240,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,9,0,CTI,,Objekt,Com T-Interim Belgien
+241,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,9,0,CTI,,Objekt,Com T-Interim Belgien
+242,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,10,0,COM,,Objekt,Components
+243,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,10,0,COM,,Objekt,Components
+244,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,11,0,CON,,Objekt,Continental Automotive
+245,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,11,0,CON,,Objekt,Continental Automotive
+246,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,12,0,DCCI,,Objekt,Daimler Chrysler Corp.Ident.
+247,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,12,0,DCCI,,Objekt,Daimler Chrysler Corp.Ident.
+248,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,13,0,DAT,,Objekt,Date Behring
+249,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,13,0,DAT,,Objekt,Date Behring
+250,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,14,0,EIR,,Objekt,EIRCOM (IRSCHE TELECOM)
+251,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,14,0,EIR,,Objekt,EIRCOM (IRSCHE TELECOM)
+252,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,15,0,ECM,,Objekt,Education Market
+253,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,15,0,ECM,,Objekt,Education Market
+254,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,16,0,ENB,,Objekt,EnBW
+255,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,16,0,ENB,,Objekt,EnBW
+256,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,17,0,EON,,Objekt,E.ON
+257,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,17,0,EON,,Objekt,E.ON
+258,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,18,0,EPA,,Objekt,Europ.Patentamt München
+259,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,18,0,EPA,,Objekt,Europ.Patentamt München
+260,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,19,0,FIT,,Objekt,Financial Times
+261,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,19,0,FIT,,Objekt,Financial Times
+262,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,20,0,FORTIS,,Objekt,Fortis
+263,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,20,0,FORTIS,,Objekt,Fortis
+264,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,21,0,GLO,,Objekt,Germanischer Lloyd
+265,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,21,0,GLO,,Objekt,Germanischer Lloyd
+266,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,22,0,GMF,,Objekt,GMF- Paris
+267,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,22,0,GMF,,Objekt,GMF- Paris
+268,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,23,0,HASPA,,Objekt,HaSpa / Hamburger Sparkasse
+269,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,23,0,HASPA,,Objekt,HaSpa / Hamburger Sparkasse
+270,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,24,0,HITACHI,,Objekt,Hitachi
+271,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,24,0,HITACHI,,Objekt,Hitachi
+272,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,25,0,JTI,,Objekt,Japan Tobacco /Genf
+273,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,25,0,JTI,,Objekt,Japan Tobacco /Genf
+274,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,26,0,KGAL,,Objekt,KGAL
+275,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,26,0,KGAL,,Objekt,KGAL
+276,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,27,0,LSP,,Objekt,Land Securities Plc
+277,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,27,0,LSP,,Objekt,Land Securities Plc
+278,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,28,0,LVM,,Objekt,LVM-Versicherung
+279,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,28,0,LVM,,Objekt,LVM-Versicherung
+280,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,29,0,MAF,,Objekt,Masterfood
+281,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,29,0,MAF,,Objekt,Masterfood
+282,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,30,0,MONSTER,,Objekt,Monster
+283,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,30,0,MONSTER,,Objekt,Monster
+284,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,31,0,MAR,,Objekt,Marenco
+285,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,31,0,MAR,,Objekt,Marenco
+286,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,32,0,MUECHNER RUECK,,Objekt,Münchner Rück Versicherung
+287,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,32,0,MUECHNER RUECK,,Objekt,Münchner Rück Versicherung
+288,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,33,0,O2,,Objekt,O2 München
+289,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,33,0,O2,,Objekt,O2 München
+290,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,34,0,OEV,,Objekt,Öffentliche Versicherungen
+291,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,34,0,OEV,,Objekt,Öffentliche Versicherungen
+292,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,35,0,OPAC,,Objekt,OPAC- Paris
+293,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,35,0,OPAC,,Objekt,OPAC- Paris
+294,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,36,0,PBA,,Objekt,Postbank
+295,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,36,0,PBA,,Objekt,Postbank
+296,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,37,0,QN,,Objekt,Quelle Neckermann
+297,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,37,0,QN,,Objekt,Quelle Neckermann
+298,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,38,0,ROCHE,,Objekt,Hoffmann LaRoche Basel
+299,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,38,0,ROCHE,,Objekt,Hoffmann LaRoche Basel
+300,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,39,0,SAP,,Objekt,SAP
+301,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,39,0,SAP,,Objekt,SAP
+302,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,40,0,SIEMENS MZ,,Objekt,Siemens Mittelzone
+303,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,40,0,SIEMENS MZ,,Objekt,Siemens Mittelzone
+304,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,41,0,SL,,Objekt,Standard Life
+305,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,41,0,SL,,Objekt,Standard Life
+306,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,42,0,THO,,Objekt,Thomson
+307,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,42,0,THO,,Objekt,Thomson
+308,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,43,0,TLX,,Objekt,Talanx
+309,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,43,0,TLX,,Objekt,Talanx
+310,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,44,0,TOTAL,,Objekt,TOTAL
+311,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,44,0,TOTAL,,Objekt,TOTAL
+312,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,45,0,U_TEAM,,Objekt,U_Team China
+313,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,45,0,U_TEAM,,Objekt,U_Team China
+314,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,46,0,UWB,,Objekt,Universität Würzburg
+315,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,46,0,UWB,,Objekt,Universität Würzburg
+316,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,47,0,UUL,,Objekt,Universität Ulm
+317,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,47,0,UUL,,Objekt,Universität Ulm
+318,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,48,0,VGF,,Objekt,Verkehrsbetriebe Frankfurt/M.
+319,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,48,0,VGF,,Objekt,Verkehrsbetriebe Frankfurt/M.
+320,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,49,0,VW,,Objekt,Volkswagen
+321,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,49,0,VW,,Objekt,Volkswagen
+322,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,50,0,ZOLL,,Objekt,Bundeszollverwaltung
+323,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,OBJEKT,38,0,0,R,50,0,ZOLL,,Objekt,Bundeszollverwaltung
+324,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,1,0,A4,,Modell,Astra-4
+325,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,1,0,A4,,Modell,Astra-4
+326,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,2,0,AA,,Modell,King Aera - A
+327,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,2,0,AA,,Modell,King Aera - A
+328,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,3,0,AC,,Modell,King Aera - C
+329,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,3,0,AC,,Modell,King Aera - C
+330,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,4,0,AE,,Modell,King Astra E
+331,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,4,0,AE,,Modell,King Astra E
+332,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,5,0,AG,,Modell,Agenda
+333,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,5,0,AG,,Modell,Agenda
+334,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,6,0,AJ,,Modell,King Astra J
+335,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,6,0,AJ,,Modell,King Astra J
+336,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,7,0,AR,,Modell,Arc
+337,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,7,0,AR,,Modell,Arc
+338,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,8,0,AT,,Modell,King Arte
+339,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,8,0,AT,,Modell,King Arte
+340,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,9,0,AY,,Modell,Auray
+341,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,9,0,AY,,Modell,Auray
+342,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,10,0,AZ,,Modell,Agenda 2
+343,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,10,0,AZ,,Modell,Agenda 2
+344,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,11,0,B4,,Modell,Basic-4
+345,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,11,0,B4,,Modell,Basic-4
+346,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,12,0,BC,,Modell,Balance Chair
+347,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,12,0,BC,,Modell,Balance Chair
+348,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,13,0,BF,,Modell,Ferro
+349,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,13,0,BF,,Modell,Ferro
+350,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,14,0,BO,,Modell,Balance Office
+351,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,14,0,BO,,Modell,Balance Office
+352,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,15,0,BP,,Modell,King Paso
+353,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,15,0,BP,,Modell,King Paso
+354,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,16,0,BT,,Modell,Besprechungstische
+355,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,16,0,BT,,Modell,Besprechungstische
+356,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,17,0,BY,,Modell,SYS
+357,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,17,0,BY,,Modell,SYS
+358,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,18,0,CA,,Modell,Candela
+359,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,18,0,CA,,Modell,Candela
+360,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,19,0,CE,,Modell,Centra
+361,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,19,0,CE,,Modell,Centra
+362,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,20,0,CI,,Modell,Cito.S
+363,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,20,0,CI,,Modell,Cito.S
+364,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,21,0,CK,,Modell,Charta
+365,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,21,0,CK,,Modell,Charta
+366,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,22,0,CL,,Modell,Clip One
+367,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,22,0,CL,,Modell,Clip One
+368,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,23,0,CN,,Modell,ConLine
+369,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,23,0,CN,,Modell,ConLine
+370,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,24,0,CO,,Modell,Container allgemein
+371,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,24,0,CO,,Modell,Container allgemein
+372,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,25,0,CP,,Modell,King Centra Plus
+373,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,25,0,CP,,Modell,King Centra Plus
+374,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,26,0,CR,,Modell,Cora
+375,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,26,0,CR,,Modell,Cora
+376,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,27,0,CS,,Modell,COMO.S
+377,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,27,0,CS,,Modell,COMO.S
+378,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,28,0,CT,,Modell,Continental
+379,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,28,0,CT,,Modell,Continental
+380,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,29,0,CU,,Modell,comyounity Möbel
+381,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,29,0,CU,,Modell,comyounity Möbel
+382,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,30,0,CX,,Modell,CLIP.X
+383,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,30,0,CX,,Modell,CLIP.X
+384,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,31,0,CY,,Modell,comyounity Stühle
+385,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,31,0,CY,,Modell,comyounity Stühle
+386,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,32,0,D1,,Modell,King Delta 1
+387,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,32,0,D1,,Modell,King Delta 1
+388,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,33,0,D2,,Modell,King Delta 2
+389,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,33,0,D2,,Modell,King Delta 2
+390,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,34,0,D4,,Modell,DO IT.S
+391,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,34,0,D4,,Modell,DO IT.S
+392,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,35,0,DC,,Modell,Tische - Daimler AG
+393,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,35,0,DC,,Modell,Tische - Daimler AG
+394,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,36,0,DF,,Modell,Diva F
+395,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,36,0,DF,,Modell,Diva F
+396,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,37,0,DK,,Modell,Diva K
+397,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,37,0,DK,,Modell,Diva K
+398,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,38,0,DO,,Modell,Do It - Team Office
+399,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,38,0,DO,,Modell,Do It - Team Office
+400,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,39,0,DP,,Modell,Diva P
+401,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,39,0,DP,,Modell,Diva P
+402,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,40,0,DS,,Modell,Diva S
+403,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,40,0,DS,,Modell,Diva S
+404,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,41,0,E2,,Modell,Eco 2
+405,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,41,0,E2,,Modell,Eco 2
+406,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,42,0,EC,,Modell,Economy
+407,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,42,0,EC,,Modell,Economy
+408,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,43,0,EL,,Modell,Elektro Konfigurator
+409,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,43,0,EL,,Modell,Elektro Konfigurator
+410,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,44,0,EN,,Modell,Enjoy
+411,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,44,0,EN,,Modell,Enjoy
+412,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,45,0,ET,,Modell,Ersatzteilmanagement
+413,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,45,0,ET,,Modell,Ersatzteilmanagement
+414,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,46,0,EX,,Modell,Excite
+415,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,46,0,EX,,Modell,Excite
+416,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,47,0,EY,,Modell,Economy Stühle
+417,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,47,0,EY,,Modell,Economy Stühle
+418,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,48,0,HO,,Modell,Horizonte
+419,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,48,0,HO,,Modell,Horizonte
+420,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,49,0,IF,,Modell,Inside 50
+421,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,49,0,IF,,Modell,Inside 50
+422,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,50,0,II,,Modell,King Inside
+423,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,50,0,II,,Modell,King Inside
+424,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,51,0,IN,,Modell,Inside 25
+425,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,51,0,IN,,Modell,Inside 25
+426,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,52,0,IR,,Modell,King Inside - RiR
+427,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,52,0,IR,,Modell,King Inside - RiR
+428,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,53,0,IS,,Modell,Inside 60
+429,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,53,0,IS,,Modell,Inside 60
+430,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,54,0,JA,,Modell,Jet.A
+431,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,54,0,JA,,Modell,Jet.A
+432,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,55,0,JP,,Modell,JET (NPR)
+433,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,55,0,JP,,Modell,JET (NPR)
+434,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,56,0,JT,,Modell,JET
+435,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,56,0,JT,,Modell,JET
+436,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,57,0,JU,,Modell,Juventa
+437,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,57,0,JU,,Modell,Juventa
+438,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,58,0,JZ,,Modell,Jet 2
+439,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,58,0,JZ,,Modell,Jet 2
+440,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,59,0,KA,,Modell,King Alpha
+441,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,59,0,KA,,Modell,King Alpha
+442,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,60,0,KB,,Modell,King Beta
+443,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,60,0,KB,,Modell,King Beta
+444,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,61,0,KC,,Modell,King Centra
+445,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,61,0,KC,,Modell,King Centra
+446,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,62,0,KI,,Modell,Kineta
+447,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,62,0,KI,,Modell,Kineta
+448,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,63,0,KP,,Modell,King Privat (Home Office)
+449,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,63,0,KP,,Modell,King Privat (Home Office)
+450,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,64,0,KS,,Modell,Sigma 1 + 100
+451,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,64,0,KS,,Modell,Sigma 1 + 100
+452,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,65,0,LA,,Modell,Lamiga
+453,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,65,0,LA,,Modell,Lamiga
+454,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,66,0,LO,,Modell,Logo.s
+455,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,66,0,LO,,Modell,Logo.s
+456,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,67,0,LS,,Modell,Life.S
+457,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,67,0,LS,,Modell,Life.S
+458,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,68,0,LZ,,Modell,Lizenzteile
+459,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,68,0,LZ,,Modell,Lizenzteile
+460,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,69,0,ME,,Modell,King Media
+461,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,69,0,ME,,Modell,King Media
+462,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,70,0,MM,,Modell,Move.Mix
+463,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,70,0,MM,,Modell,Move.Mix
+464,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,71,0,MO,,Modell,MEMO
+465,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,71,0,MO,,Modell,MEMO
+466,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,72,0,MT,,Modell,King Metra
+467,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,72,0,MT,,Modell,King Metra
+468,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,73,0,MX,,Modell,Meeting Tische
+469,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,73,0,MX,,Modell,Meeting Tische
+470,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,74,0,MY,,Modell,Meeting Stühle
+471,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,74,0,MY,,Modell,Meeting Stühle
+472,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,75,0,MZ,,Modell,Mittelzone
+473,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,75,0,MZ,,Modell,Mittelzone
+474,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,76,0,NE,,Modell,Net.Work.Place
+475,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,76,0,NE,,Modell,Net.Work.Place
+476,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,77,0,NO,,Modell,Net.Work.Place ORGANIC
+477,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,77,0,NO,,Modell,Net.Work.Place ORGANIC
+478,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,78,0,OC,,Modell,OKAY KONFERENZSTUHL
+479,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,78,0,OC,,Modell,OKAY KONFERENZSTUHL
+480,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,79,0,OK,,Modell,Optima kompakt
+481,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,79,0,OK,,Modell,Optima kompakt
+482,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,80,0,OP,,Modell,King Optima (Ausläufer)
+483,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,80,0,OP,,Modell,King Optima (Ausläufer)
+484,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,81,0,OS,,Modell,King Optima Plus
+485,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,81,0,OS,,Modell,King Optima Plus
+486,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,82,0,OT,,Modell,Objekttisch
+487,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,82,0,OT,,Modell,Objekttisch
+488,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,83,0,OY,,Modell,Okay
+489,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,83,0,OY,,Modell,Okay
+490,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,84,0,OZ,,Modell,Okay II
+491,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,84,0,OZ,,Modell,Okay II
+492,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,85,0,P1,,Modell,King Classic Plus 1
+493,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,85,0,P1,,Modell,King Classic Plus 1
+494,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,86,0,P2,,Modell,King Classic Plus 2
+495,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,86,0,P2,,Modell,King Classic Plus 2
+496,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,87,0,P3,,Modell,King Classic Plus 3
+497,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,87,0,P3,,Modell,King Classic Plus 3
+498,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,88,0,P4,,Modell,King Classic Plus 4
+499,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,88,0,P4,,Modell,King Classic Plus 4
+500,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,89,0,P5,,Modell,King Classic Plus 5
+501,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,89,0,P5,,Modell,King Classic Plus 5
+502,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,90,0,PA,,Modell,Publica
+503,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,90,0,PA,,Modell,Publica
+504,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,91,0,PE,,Modell,Penso.M
+505,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,91,0,PE,,Modell,Penso.M
+506,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,92,0,PK,,Modell,Plenum K
+507,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,92,0,PK,,Modell,Plenum K
+508,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,93,0,QA,,Modell,King Quanta
+509,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,93,0,QA,,Modell,King Quanta
+510,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,94,0,QB,,Modell,QUIET.Box
+511,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,94,0,QB,,Modell,QUIET.Box
+512,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,95,0,QI,,Modell,Quick
+513,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,95,0,QI,,Modell,Quick
+514,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,96,0,RG,,Modell,Rega
+515,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,96,0,RG,,Modell,Rega
+516,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,97,0,RL,,Modell,Re.Lounge
+517,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,97,0,RL,,Modell,Re.Lounge
+518,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,98,0,S1,,Modell,King Acta S1
+519,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,98,0,S1,,Modell,King Acta S1
+520,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,99,0,S5,,Modell,Acta.Modul
+521,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,99,0,S5,,Modell,Acta.Modul
+522,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,100,0,S6,,Modell,King Acta S6
+523,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,100,0,S6,,Modell,King Acta S6
+524,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,101,0,S7,,Modell,King Acta S7
+525,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,101,0,S7,,Modell,King Acta S7
+526,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,102,0,S8,,Modell,King Acta S8
+527,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,102,0,S8,,Modell,King Acta S8
+528,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,103,0,S9,,Modell,Gehrungsschränke
+529,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,103,0,S9,,Modell,Gehrungsschränke
+530,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,104,0,SC,,Modell,Sigma 200
+531,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,104,0,SC,,Modell,Sigma 200
+532,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,105,0,SE,,Modell,Sella - keine Verwendung-
+533,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,105,0,SE,,Modell,Sella - keine Verwendung-
+534,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,106,0,SG,,Modell,Signeta
+535,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,106,0,SG,,Modell,Signeta
+536,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,107,0,SI,,Modell,Siesta
+537,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,107,0,SI,,Modell,Siesta
+538,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,108,0,SK,,Modell,Skye
+539,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,108,0,SK,,Modell,Skye
+540,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,109,0,SM,,Modell,Summa
+541,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,109,0,SM,,Modell,Summa
+542,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,110,0,SN,,Modell,Sensona
+543,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,110,0,SN,,Modell,Sensona
+544,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,111,0,SO,,Modell,St@ndby Office
+545,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,111,0,SO,,Modell,St@ndby Office
+546,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,112,0,ST,,Modell,QUICK II (Stehhilfe)
+547,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,112,0,ST,,Modell,QUICK II (Stehhilfe)
+548,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,113,0,SU,,Modell,Set-Up
+549,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,113,0,SU,,Modell,Set-Up
+550,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,114,0,SZ,,Modell,Siemens Mittelzone
+551,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,114,0,SZ,,Modell,Siemens Mittelzone
+552,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,115,0,T1,,Modell,Targa S
+553,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,115,0,T1,,Modell,Targa S
+554,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,116,0,TA,,Modell,Tria
+555,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,116,0,TA,,Modell,Tria
+556,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,117,0,TB,,Modell,Table T
+557,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,117,0,TB,,Modell,Table T
+558,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,118,0,TE,,Modell,Tensa
+559,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,118,0,TE,,Modell,Tensa
+560,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,119,0,TH,,Modell,Table.H
+561,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,119,0,TH,,Modell,Table.H
+562,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,120,0,TK,,Modell,Take One
+563,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,120,0,TK,,Modell,Take One
+564,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,121,0,TL,,Modell,Talo.S
+565,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,121,0,TL,,Modell,Talo.S
+566,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,122,0,TN,,Modell,Tensa.NEXT
+567,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,122,0,TN,,Modell,Tensa.NEXT
+568,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,123,0,TP,,Modell,Targa Plus
+569,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,123,0,TP,,Modell,Targa Plus
+570,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,124,0,TS,,Modell,Team Work Space
+571,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,124,0,TS,,Modell,Team Work Space
+572,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,125,0,TT,,Modell,Talent.S
+573,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,125,0,TT,,Modell,Talent.S
+574,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,126,0,TW,,Modell,Trennwand 2T1
+575,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,126,0,TW,,Modell,Trennwand 2T1
+576,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,127,0,U1,,Modell,King Universal Schrankwand
+577,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,127,0,U1,,Modell,King Universal Schrankwand
+578,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,128,0,U8,,Modell,Universal/S8-Schrank
+579,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,128,0,U8,,Modell,Universal/S8-Schrank
+580,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,129,0,UN,,Modell,Unos Tischsystem
+581,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,129,0,UN,,Modell,Unos Tischsystem
+582,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,130,0,UO,,Modell,Unos Schranksystem
+583,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,130,0,UO,,Modell,Unos Schranksystem
+584,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,131,0,UP,,Modell,Unos Paneel-/Paraventsystem
+585,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,131,0,UP,,Modell,Unos Paneel-/Paraventsystem
+586,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,132,0,UX,,Modell,UX-Schränke
+587,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,132,0,UX,,Modell,UX-Schränke
+588,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,133,0,VS,,Modell,Vista
+589,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,133,0,VS,,Modell,Vista
+590,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,134,0,VY,,Modell,Valyou
+591,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,134,0,VY,,Modell,Valyou
+592,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,135,0,XT,,Modell,X-tra
+593,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,135,0,XT,,Modell,X-tra
+594,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,136,0,XX,,Modell,Klein-und Reparaturmaterialien
+595,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,136,0,XX,,Modell,Klein-und Reparaturmaterialien
+596,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,137,0,YY,,Modell,Zulieferteile
+597,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,137,0,YY,,Modell,Zulieferteile
+598,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,138,0,ZU,,Modell,Zubehör (M-Brace) Flachbildsch
+599,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,MODELL,39,0,0,R,138,0,ZU,,Modell,Zubehör (M-Brace) Flachbildsch
+600,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,1,0,**** T ***,,Produkttyp,*********T I S C H E *********
+601,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,1,0,**** T ***,,Produkttyp,*********T I S C H E *********
+602,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,2,0,BTISCH,,Produkttyp,Besprechungstische
+603,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,2,0,BTISCH,,Produkttyp,Besprechungstische
+604,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,3,0,BTISCH_1,,Produkttyp,Besprechungstische A-Fuss
+605,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,3,0,BTISCH_1,,Produkttyp,Besprechungstische A-Fuss
+606,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,4,0,BENCH,,Produkttyp,Bench-Anlage
+607,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,4,0,BENCH,,Produkttyp,Bench-Anlage
+608,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,5,0,BENCH_ANBAUT,,Produkttyp,Bench-Anbautisch
+609,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,5,0,BENCH_ANBAUT,,Produkttyp,Bench-Anbautisch
+610,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,6,0,DTISCH,,Produkttyp,Druckertische
+611,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,6,0,DTISCH,,Produkttyp,Druckertische
+612,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,7,0,STISCH,,Produkttyp,Schreibtische
+613,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,7,0,STISCH,,Produkttyp,Schreibtische
+614,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,8,0,FTISCH_1,,Produkttyp,Freiformtisch / Freiform links
+615,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,8,0,FTISCH_1,,Produkttyp,Freiformtisch / Freiform links
+616,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,9,0,FTISCH_2,,Produkttyp,Freiformtisch/Freiform beids.
+617,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,9,0,FTISCH_2,,Produkttyp,Freiformtisch/Freiform beids.
+618,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,10,0,FTISCH_3,,Produkttyp,Freiformtisch /Freiform rechts
+619,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,10,0,FTISCH_3,,Produkttyp,Freiformtisch /Freiform rechts
+620,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,11,0,FTISCH_4,,Produkttyp,Freiform links R53 UNOS 4-Fuss
+621,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,11,0,FTISCH_4,,Produkttyp,Freiform links R53 UNOS 4-Fuss
+622,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,12,0,FTISCH_5,,Produkttyp,Freiform beids.R53 UNOS 4-Fuss
+623,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,12,0,FTISCH_5,,Produkttyp,Freiform beids.R53 UNOS 4-Fuss
+624,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,13,0,FTISCH_6,,Produkttyp,Freiform rechts R53 UNOS 4Fuss
+625,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,13,0,FTISCH_6,,Produkttyp,Freiform rechts R53 UNOS 4Fuss
+626,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,14,0,CAD_TISCH,,Produkttyp,CAD-Tisch
+627,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,14,0,CAD_TISCH,,Produkttyp,CAD-Tisch
+628,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,15,0,KTISCH,,Produkttyp,Konferenztisch
+629,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,15,0,KTISCH,,Produkttyp,Konferenztisch
+630,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,16,0,MTISCH,,Produkttyp,Motortisch
+631,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,16,0,MTISCH,,Produkttyp,Motortisch
+632,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,17,0,MTISCH_1,,Produkttyp,Motortisch /Freiform links
+633,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,17,0,MTISCH_1,,Produkttyp,Motortisch /Freiform links
+634,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,18,0,MTISCH_2,,Produkttyp,Motortisch /Freiform beids.
+635,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,18,0,MTISCH_2,,Produkttyp,Motortisch /Freiform beids.
+636,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,19,0,MTISCH_3,,Produkttyp,Motortisch /Freiform rechts
+637,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,19,0,MTISCH_3,,Produkttyp,Motortisch /Freiform rechts
+638,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,20,0,ZUBEHÖR,,Produkttyp,Zubehör
+639,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,20,0,ZUBEHÖR,,Produkttyp,Zubehör
+640,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,21,0,STEHPULT,,Produkttyp,Stehpult
+641,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,21,0,STEHPULT,,Produkttyp,Stehpult
+642,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,22,0,RÜCKWAND,,Produkttyp,Rückwand
+643,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,22,0,RÜCKWAND,,Produkttyp,Rückwand
+644,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,23,0,LOCH_RÜCKW,,Produkttyp,Lochblechrückwand
+645,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,23,0,LOCH_RÜCKW,,Produkttyp,Lochblechrückwand
+646,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,24,0,VERKETTUNG,,Produkttyp,Verkettungselement
+647,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,24,0,VERKETTUNG,,Produkttyp,Verkettungselement
+648,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,25,0,VERK_ANBAU,,Produkttyp,Verkettungsanbau
+649,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,25,0,VERK_ANBAU,,Produkttyp,Verkettungsanbau
+650,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,26,0,VERK_TISCH,,Produkttyp,Verkettungstisch
+651,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,26,0,VERK_TISCH,,Produkttyp,Verkettungstisch
+652,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,27,0,CAD_VERK,,Produkttyp,CAD-Verkettungstisch
+653,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,27,0,CAD_VERK,,Produkttyp,CAD-Verkettungstisch
+654,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,28,0,KOMBI,,Produkttyp,Kombianbau
+655,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,28,0,KOMBI,,Produkttyp,Kombianbau
+656,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,29,0,ANBAU,,Produkttyp,Anbauelement
+657,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,29,0,ANBAU,,Produkttyp,Anbauelement
+658,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,30,0,TA_ABLAGE,,Produkttyp,Taschenablage
+659,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,30,0,TA_ABLAGE,,Produkttyp,Taschenablage
+660,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,31,0,SAEULENTI,,Produkttyp,Saeulentisch
+661,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,31,0,SAEULENTI,,Produkttyp,Saeulentisch
+662,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,32,0,SAEULENT_1,,Produkttyp,Saeulentisch / Lift
+663,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,32,0,SAEULENT_1,,Produkttyp,Saeulentisch / Lift
+664,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,33,0,ORGBRÜCKE,,Produkttyp,Organisationsbrücke
+665,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,33,0,ORGBRÜCKE,,Produkttyp,Organisationsbrücke
+666,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,34,0,THEKE,,Produkttyp,Thekenaufbau
+667,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,34,0,THEKE,,Produkttyp,Thekenaufbau
+668,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,35,0,SBLENDE,,Produkttyp,Stoffsichtblende
+669,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,35,0,SBLENDE,,Produkttyp,Stoffsichtblende
+670,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,36,0,AUFBAUTEIL,,Produkttyp,Div. Aufbauteil
+671,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,36,0,AUFBAUTEIL,,Produkttyp,Div. Aufbauteil
+672,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,37,0,E_TEIL,,Produkttyp,"Einzelteil ( Take-1,Standby )"
+673,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,37,0,E_TEIL,,Produkttyp,"Einzelteil ( Take-1,Standby )"
+674,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,38,0,REELING,,Produkttyp,Reeling
+675,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,38,0,REELING,,Produkttyp,Reeling
+676,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,39,0,TISCHBRUECKE,,Produkttyp,Tischbruecke
+677,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,39,0,TISCHBRUECKE,,Produkttyp,Tischbruecke
+678,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,40,0,*** CO ***,,Produkttyp,*****C O N T A I N E R *******
+679,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,40,0,*** CO ***,,Produkttyp,*****C O N T A I N E R *******
+680,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,41,0,CN8,,Produkttyp,Normal-Container 8 HE
+681,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,41,0,CN8,,Produkttyp,Normal-Container 8 HE
+682,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,42,0,CN9,,Produkttyp,Normal-Container 9 HE
+683,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,42,0,CN9,,Produkttyp,Normal-Container 9 HE
+684,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,43,0,CN9_1,,Produkttyp,Normal-Cont.9 HE/EC verleimt
+685,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,43,0,CN9_1,,Produkttyp,Normal-Cont.9 HE/EC verleimt
+686,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,44,0,CN12,,Produkttyp,Normal-Container 12 HE
+687,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,44,0,CN12,,Produkttyp,Normal-Container 12 HE
+688,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,45,0,CN12_1,,Produkttyp,Normal-Cont. 12 HE/PL_Tiefe
+689,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,45,0,CN12_1,,Produkttyp,Normal-Cont. 12 HE/PL_Tiefe
+690,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,46,0,CN12_2,,Produkttyp,Normal-Cont.12 HE/EC verleimt
+691,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,46,0,CN12_2,,Produkttyp,Normal-Cont.12 HE/EC verleimt
+692,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,47,0,CS9,,Produkttyp,Schmal-Container 9 HE
+693,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,47,0,CS9,,Produkttyp,Schmal-Container 9 HE
+694,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,48,0,CS9_1,,Produkttyp,Blende Schmalcontainer CO
+695,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,48,0,CS9_1,,Produkttyp,Blende Schmalcontainer CO
+696,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,49,0,CS12,,Produkttyp,Schmal-Container 12 HE
+697,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,49,0,CS12,,Produkttyp,Schmal-Container 12 HE
+698,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,50,0,CT,,Produkttyp,Technik-Container 800mm
+699,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,50,0,CT,,Produkttyp,Technik-Container 800mm
+700,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,51,0,CT12,,Produkttyp,Technik-Container 1200mm
+701,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,51,0,CT12,,Produkttyp,Technik-Container 1200mm
+702,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,52,0,CT14,,Produkttyp,Technik-Container 1400mm
+703,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,52,0,CT14,,Produkttyp,Technik-Container 1400mm
+704,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,53,0,CT18,,Produkttyp,Technik-Container 1800mm
+705,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,53,0,CT18,,Produkttyp,Technik-Container 1800mm
+706,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,54,0,CD,,Produkttyp,Doppel-Container
+707,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,54,0,CD,,Produkttyp,Doppel-Container
+708,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,55,0,CV9,,Produkttyp,Container-Vertikalauszug 9 HE
+709,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,55,0,CV9,,Produkttyp,Container-Vertikalauszug 9 HE
+710,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,56,0,UB8,,Produkttyp,Unterbau 8 HE
+711,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,56,0,UB8,,Produkttyp,Unterbau 8 HE
+712,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,57,0,UB9,,Produkttyp,Unterbau 9 HE
+713,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,57,0,UB9,,Produkttyp,Unterbau 9 HE
+714,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,58,0,UB10,,Produkttyp,Unterbau 10 HE
+715,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,58,0,UB10,,Produkttyp,Unterbau 10 HE
+716,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,59,0,U_BAU,,Produkttyp,Unterbau (nur f. ARTE !!!!)
+717,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,59,0,U_BAU,,Produkttyp,Unterbau (nur f. ARTE !!!!)
+718,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,60,0,CADDY_1,,Produkttyp,Caddy schmal ( 450 mm )
+719,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,60,0,CADDY_1,,Produkttyp,Caddy schmal ( 450 mm )
+720,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,61,0,CADDY_2,,Produkttyp,Caddy breit  ( 800 mm )
+721,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,61,0,CADDY_2,,Produkttyp,Caddy breit  ( 800 mm )
+722,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,62,0,CADDY_3,,Produkttyp,EDV-Caddy
+723,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,62,0,CADDY_3,,Produkttyp,EDV-Caddy
+724,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,63,0,*** T Z **,,Produkttyp,** T I S C H E Zubehör********
+725,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,63,0,*** T Z **,,Produkttyp,** T I S C H E Zubehör********
+726,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,64,0,PFLANZENK,,Produkttyp,Pflanzenkasten
+727,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,64,0,PFLANZENK,,Produkttyp,Pflanzenkasten
+728,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,65,0,AKTENWAGEN,,Produkttyp,Aktenwagen
+729,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,65,0,AKTENWAGEN,,Produkttyp,Aktenwagen
+730,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,66,0,** SCHR **,,Produkttyp,****** S C H R Ä N K E *******
+731,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,66,0,** SCHR **,,Produkttyp,****** S C H R Ä N K E *******
+732,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,67,0,ARTE_SCHR,,Produkttyp,Arte-Schrank (nur für ARTE !!)
+733,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,67,0,ARTE_SCHR,,Produkttyp,Arte-Schrank (nur für ARTE !!)
+734,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,68,0,F_SCHR,,Produkttyp,Freiformschrank
+735,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,68,0,F_SCHR,,Produkttyp,Freiformschrank
+736,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,69,0,SR_SCHR,,Produkttyp,Seitenrollschrank
+737,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,69,0,SR_SCHR,,Produkttyp,Seitenrollschrank
+738,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,70,0,ST_SCHR,,Produkttyp,Schiebetürschrank
+739,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,70,0,ST_SCHR,,Produkttyp,Schiebetürschrank
+740,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,71,0,V_SCHR,,Produkttyp,Vertikalschrank Kpl.Modell
+741,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,71,0,V_SCHR,,Produkttyp,Vertikalschrank Kpl.Modell
+742,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,72,0,V_SCHR_S,,Produkttyp,Vertikalschr.schmal (450)Kpl.
+743,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,72,0,V_SCHR_S,,Produkttyp,Vertikalschr.schmal (450)Kpl.
+744,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,73,0,VS12,,Produkttyp,Vertikalschrank leer 12 HE
+745,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,73,0,VS12,,Produkttyp,Vertikalschrank leer 12 HE
+746,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,74,0,VS18,,Produkttyp,Vertikalschrank leer 18 HE
+747,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,74,0,VS18,,Produkttyp,Vertikalschrank leer 18 HE
+748,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,75,0,VS24,,Produkttyp,Vertikalschrank leer 24 HE
+749,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,75,0,VS24,,Produkttyp,Vertikalschrank leer 24 HE
+750,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,76,0,REGAL,,Produkttyp,Regal
+751,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,76,0,REGAL,,Produkttyp,Regal
+752,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,77,0,REGAL_S,,Produkttyp,Regal schmal (450)
+753,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,77,0,REGAL_S,,Produkttyp,Regal schmal (450)
+754,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,78,0,ECKREGAL,,Produkttyp,Eckregal
+755,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,78,0,ECKREGAL,,Produkttyp,Eckregal
+756,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,79,0,T_SCHR,,Produkttyp,Türenschrank
+757,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,79,0,T_SCHR,,Produkttyp,Türenschrank
+758,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,80,0,T_SCHR_S,,Produkttyp,Türenschrank schmal (450)
+759,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,80,0,T_SCHR_S,,Produkttyp,Türenschrank schmal (450)
+760,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,81,0,GT_SCHR_S,,Produkttyp,Glastürenschrank schmal (450)
+761,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,81,0,GT_SCHR_S,,Produkttyp,Glastürenschrank schmal (450)
+762,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,82,0,K_SCHR,,Produkttyp,Kombischrank freie Konfig.
+763,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,82,0,K_SCHR,,Produkttyp,Kombischrank freie Konfig.
+764,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,83,0,K_SCHR_S,,Produkttyp,Kombischrank freie Konfig.schm
+765,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,83,0,K_SCHR_S,,Produkttyp,Kombischrank freie Konfig.schm
+766,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,84,0,K_SCHR_1,,Produkttyp,Kombischrank offen / Auszug
+767,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,84,0,K_SCHR_1,,Produkttyp,Kombischrank offen / Auszug
+768,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,85,0,K_SCHR_1_S,,Produkttyp,Kombischr.offen/Auszug schmal
+769,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,85,0,K_SCHR_1_S,,Produkttyp,Kombischr.offen/Auszug schmal
+770,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,86,0,K_SCHR_2,,Produkttyp,Kombischrank Volltüren/Auszug
+771,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,86,0,K_SCHR_2,,Produkttyp,Kombischrank Volltüren/Auszug
+772,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,87,0,K_SCHR_2_S,,Produkttyp,Kombischr.Volltür/Ausz.schmal
+773,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,87,0,K_SCHR_2_S,,Produkttyp,Kombischr.Volltür/Ausz.schmal
+774,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,88,0,K_SCHR_3,,Produkttyp,Kombischrank Glastüren/Auszug
+775,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,88,0,K_SCHR_3,,Produkttyp,Kombischrank Glastüren/Auszug
+776,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,89,0,K_SCHR_3_S,,Produkttyp,Kombischr.Glastür/Ausz.schmal
+777,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,89,0,K_SCHR_3_S,,Produkttyp,Kombischr.Glastür/Ausz.schmal
+778,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,90,0,K_SCHR_4,,Produkttyp,Kombischrank offen/Volltüren
+779,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,90,0,K_SCHR_4,,Produkttyp,Kombischrank offen/Volltüren
+780,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,91,0,K_SCHR_4_S,,Produkttyp,Kombischr.offen/Volltür schmal
+781,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,91,0,K_SCHR_4_S,,Produkttyp,Kombischr.offen/Volltür schmal
+782,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,92,0,K_SCHR_5,,Produkttyp,Kombischrank Glastüren/Volltür
+783,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,92,0,K_SCHR_5,,Produkttyp,Kombischrank Glastüren/Volltür
+784,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,93,0,K_SCHR_5_S,,Produkttyp,Kombischr.Glast./Vollt.schmal
+785,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,93,0,K_SCHR_5_S,,Produkttyp,Kombischr.Glast./Vollt.schmal
+786,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,94,0,K_SCHR_6,,Produkttyp,Kombischr.Durchreiche/Auszug
+787,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,94,0,K_SCHR_6,,Produkttyp,Kombischr.Durchreiche/Auszug
+788,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,95,0,K_SCHR_7,,Produkttyp,Kombischr.Durchreiche/Türen
+789,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,95,0,K_SCHR_7,,Produkttyp,Kombischr.Durchreiche/Türen
+790,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,96,0,K_SCHR_8,,Produkttyp,Kombischrank Rolladen/Auszug
+791,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,96,0,K_SCHR_8,,Produkttyp,Kombischrank Rolladen/Auszug
+792,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,97,0,R_SCHR,,Produkttyp,Rolladenschrank
+793,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,97,0,R_SCHR,,Produkttyp,Rolladenschrank
+794,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,98,0,TH_SCHR,,Produkttyp,Thekenschrank
+795,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,98,0,TH_SCHR,,Produkttyp,Thekenschrank
+796,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,99,0,APO_SCHR,,Produkttyp,Apothekerschrank
+797,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,99,0,APO_SCHR,,Produkttyp,Apothekerschrank
+798,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,100,0,* STELLW *,,Produkttyp,***** S T E L LW A N D ******
+799,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,100,0,* STELLW *,,Produkttyp,***** S T E L LW A N D ******
+800,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,101,0,IR_WINKEL,,Produkttyp,IR-Winkelelement
+801,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,101,0,IR_WINKEL,,Produkttyp,IR-Winkelelement
+802,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,102,0,PARAVENT,,Produkttyp,Paravent
+803,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,102,0,PARAVENT,,Produkttyp,Paravent
+804,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,103,0,IF_STELLW,,Produkttyp,Stellwand Inside 50
+805,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,103,0,IF_STELLW,,Produkttyp,Stellwand Inside 50
+806,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,104,0,II_STELLW,,Produkttyp,Stellwand Inside 40+80
+807,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,104,0,II_STELLW,,Produkttyp,Stellwand Inside 40+80
+808,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,105,0,IN_STELLW,,Produkttyp,Stellwand Inside 25 einteilig
+809,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,105,0,IN_STELLW,,Produkttyp,Stellwand Inside 25 einteilig
+810,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,106,0,IN_STELLW_2,,Produkttyp,Stellwand Inside 25 zweiteilig
+811,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,106,0,IN_STELLW_2,,Produkttyp,Stellwand Inside 25 zweiteilig
+812,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,107,0,IS_STELLW,,Produkttyp,Stellwand Inside 60 einteilg
+813,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,107,0,IS_STELLW,,Produkttyp,Stellwand Inside 60 einteilg
+814,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,108,0,IS_STELLW_2,,Produkttyp,Stellwand Inside 60 zweiteilig
+815,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,108,0,IS_STELLW_2,,Produkttyp,Stellwand Inside 60 zweiteilig
+816,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,109,0,II_BOGEN,,Produkttyp,Stellwand-Bogenelement
+817,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,109,0,II_BOGEN,,Produkttyp,Stellwand-Bogenelement
+818,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,110,0,II_AKUSTIK,,Produkttyp,Stellwand-Akustik
+819,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,110,0,II_AKUSTIK,,Produkttyp,Stellwand-Akustik
+820,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,111,0,II_ZSCHIEN,,Produkttyp,Stellwand-Z-Schiene
+821,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,111,0,II_ZSCHIEN,,Produkttyp,Stellwand-Z-Schiene
+822,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,112,0,VS_MODUL,,Produkttyp,Vista-Modul (Einzelteil )
+823,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,112,0,VS_MODUL,,Produkttyp,Vista-Modul (Einzelteil )
+824,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,113,0,UP_KOMPAKT,,Produkttyp,UP-Kompaktelemente
+825,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,113,0,UP_KOMPAKT,,Produkttyp,UP-Kompaktelemente
+826,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,114,0,UP_BOGEN,,Produkttyp,UP-Bogenelemente
+827,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,114,0,UP_BOGEN,,Produkttyp,UP-Bogenelemente
+828,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,115,0,UP_MODUL_1,,Produkttyp,UP-Modularelement gerade
+829,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,115,0,UP_MODUL_1,,Produkttyp,UP-Modularelement gerade
+830,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,116,0,UP_MODUL_2,,Produkttyp,UP-Modular-Übergangselement
+831,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,116,0,UP_MODUL_2,,Produkttyp,UP-Modular-Übergangselement
+832,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,117,0,STELLW_ST,,Produkttyp,Stellwand STOFF
+833,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,117,0,STELLW_ST,,Produkttyp,Stellwand STOFF
+834,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,118,0,*** RACK**,,Produkttyp,****** Technikrack************
+835,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,118,0,*** RACK**,,Produkttyp,****** Technikrack************
+836,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,119,0,T_RACK_1,,Produkttyp,Technikrack mobil
+837,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,119,0,T_RACK_1,,Produkttyp,Technikrack mobil
+838,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,120,0,T_RACK_2,,Produkttyp,Technikrack stationär (UO)
+839,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,120,0,T_RACK_2,,Produkttyp,Technikrack stationär (UO)
+840,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,121,0,T_RACK_3,,Produkttyp,Technikrack m.seitl.Blende(UO)
+841,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,121,0,T_RACK_3,,Produkttyp,Technikrack m.seitl.Blende(UO)
+842,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,122,0,T_RACK_4,,Produkttyp,Technikrack UO mobil/stationär
+843,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,122,0,T_RACK_4,,Produkttyp,Technikrack UO mobil/stationär
+844,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,123,0,UO_PANEEL,,Produkttyp,Paneele für Technikrack UO
+845,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,123,0,UO_PANEEL,,Produkttyp,Paneele für Technikrack UO
+846,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,124,0,*** ST ***,,Produkttyp,****** S T U E H L E *********
+847,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,124,0,*** ST ***,,Produkttyp,****** S T U E H L E *********
+848,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,125,0,D_STUHL,,Produkttyp,Drehstuhl
+849,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,125,0,D_STUHL,,Produkttyp,Drehstuhl
+850,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,126,0,D_STUHL_KO,,Produkttyp,Drehstuhl/Kopfstütze
+851,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,126,0,D_STUHL_KO,,Produkttyp,Drehstuhl/Kopfstütze
+852,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,127,0,D_STUHL_2,,Produkttyp,Drehst.m.hohem Fuss-nur f.XT !
+853,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,127,0,D_STUHL_2,,Produkttyp,Drehst.m.hohem Fuss-nur f.XT !
+854,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,128,0,D_STUHL_3,,Produkttyp,Drehst.m.Armlehne
+855,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,128,0,D_STUHL_3,,Produkttyp,Drehst.m.Armlehne
+856,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,129,0,D_STUHL_4,,Produkttyp,Drehstuhl niedr.Kreuzf.
+857,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,129,0,D_STUHL_4,,Produkttyp,Drehstuhl niedr.Kreuzf.
+858,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,130,0,D_STUHL_4_KO,,Produkttyp,Drehstuhl niedr.Kreuzf./Kopfst
+859,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,130,0,D_STUHL_4_KO,,Produkttyp,Drehstuhl niedr.Kreuzf./Kopfst
+860,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,131,0,K_STUHL,,Produkttyp,Konferenzstuhl
+861,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,131,0,K_STUHL,,Produkttyp,Konferenzstuhl
+862,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,132,0,K_STUHL_1,,Produkttyp,Konferenzstuhl-Netzrücken
+863,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,132,0,K_STUHL_1,,Produkttyp,Konferenzstuhl-Netzrücken
+864,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,133,0,K_STUHL_2,,Produkttyp,Konferenzstuhl (4-Beingestell)
+865,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,133,0,K_STUHL_2,,Produkttyp,Konferenzstuhl (4-Beingestell)
+866,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,134,0,K_STUHL_3,,Produkttyp,Konferenzstuhl-Rückl.Hoch
+867,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,134,0,K_STUHL_3,,Produkttyp,Konferenzstuhl-Rückl.Hoch
+868,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,135,0,D_STUHL_HL,,Produkttyp,Drehstuhl-Hochlehner
+869,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,135,0,D_STUHL_HL,,Produkttyp,Drehstuhl-Hochlehner
+870,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,136,0,K_STUHL_HL,,Produkttyp,Konferenzstuhl-Hochlehner
+871,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,136,0,K_STUHL_HL,,Produkttyp,Konferenzstuhl-Hochlehner
+872,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,137,0,D_STUHL_CH,,Produkttyp,Drehstuhl-Chef
+873,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,137,0,D_STUHL_CH,,Produkttyp,Drehstuhl-Chef
+874,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,138,0,K_STUHL_CH,,Produkttyp,Konferenzstuhl-Chef
+875,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,138,0,K_STUHL_CH,,Produkttyp,Konferenzstuhl-Chef
+876,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,139,0,B_STUHL_1,,Produkttyp,Besucherstuhl 1
+877,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,139,0,B_STUHL_1,,Produkttyp,Besucherstuhl 1
+878,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,140,0,B_STUHL_2,,Produkttyp,Besucherstuhl 2
+879,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,140,0,B_STUHL_2,,Produkttyp,Besucherstuhl 2
+880,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,141,0,B_STUHL_3,,Produkttyp,Besucherstuhl 3
+881,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,141,0,B_STUHL_3,,Produkttyp,Besucherstuhl 3
+882,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,142,0,B_STUHL_4,,Produkttyp,Besucherstuhl 4
+883,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,142,0,B_STUHL_4,,Produkttyp,Besucherstuhl 4
+884,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,143,0,4_FUSS_1,,Produkttyp,Besucherstuhl Vierfuss
+885,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,143,0,4_FUSS_1,,Produkttyp,Besucherstuhl Vierfuss
+886,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,144,0,F_SCHW_1,,Produkttyp,Besucherstuhl Freischwinger
+887,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,144,0,F_SCHW_1,,Produkttyp,Besucherstuhl Freischwinger
+888,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,145,0,C_STUHL,,Produkttyp,Counterstuhl
+889,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,145,0,C_STUHL,,Produkttyp,Counterstuhl
+890,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,146,0,BANK,,Produkttyp,Bank
+891,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,146,0,BANK,,Produkttyp,Bank
+892,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,147,0,BANK_1,,Produkttyp,Bank 1
+893,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,147,0,BANK_1,,Produkttyp,Bank 1
+894,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,148,0,RH_STUHL,,Produkttyp,Reihenstuhl
+895,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,148,0,RH_STUHL,,Produkttyp,Reihenstuhl
+896,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,149,0,KL_STUHL,,Produkttyp,Klappstuhl
+897,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,149,0,KL_STUHL,,Produkttyp,Klappstuhl
+898,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,150,0,STEHSITZ,,Produkttyp,Stehsitz
+899,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,150,0,STEHSITZ,,Produkttyp,Stehsitz
+900,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,151,0,P_WUERFEL,,Produkttyp,Polsterwürfel
+901,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,151,0,P_WUERFEL,,Produkttyp,Polsterwürfel
+902,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,152,0,SESSEL,,Produkttyp,Sessel
+903,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,152,0,SESSEL,,Produkttyp,Sessel
+904,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,153,0,SESSEL_KOMBI,,Produkttyp,Sessel Kombination
+905,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,153,0,SESSEL_KOMBI,,Produkttyp,Sessel Kombination
+906,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,154,0,SOFA,,Produkttyp,Sofa
+907,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,154,0,SOFA,,Produkttyp,Sofa
+908,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,155,0,SOFA_KOMBI,,Produkttyp,Sofa Kombination
+909,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,155,0,SOFA_KOMBI,,Produkttyp,Sofa Kombination
+910,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,156,0,HOCKER,,Produkttyp,Hocker
+911,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,156,0,HOCKER,,Produkttyp,Hocker
+912,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,157,0,HOCKER_1,,Produkttyp,Hocker mit Holzfußgestell
+913,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,157,0,HOCKER_1,,Produkttyp,Hocker mit Holzfußgestell
+914,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,158,0,HOCKER_2,,Produkttyp,Hocker mit Drahtgestell
+915,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,158,0,HOCKER_2,,Produkttyp,Hocker mit Drahtgestell
+916,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,159,0,ECKPODEST,,Produkttyp,Eckpodest
+917,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,159,0,ECKPODEST,,Produkttyp,Eckpodest
+918,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,160,0,*** U1 ***,,Produkttyp,****** U N I V E R S A L *****
+919,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,160,0,*** U1 ***,,Produkttyp,****** U N I V E R S A L *****
+920,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,161,0,BARF_SCHR,,Produkttyp,Barfachschrank
+921,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,161,0,BARF_SCHR,,Produkttyp,Barfachschrank
+922,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,162,0,BLENDEN,,Produkttyp,Blenden für Universal1
+923,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,162,0,BLENDEN,,Produkttyp,Blenden für Universal1
+924,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,163,0,GLASTUER,,Produkttyp,Durchgangsglastür
+925,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,163,0,GLASTUER,,Produkttyp,Durchgangsglastür
+926,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,164,0,HOLZTUER,,Produkttyp,Durchgangsholztür
+927,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,164,0,HOLZTUER,,Produkttyp,Durchgangsholztür
+928,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,165,0,KRANZPRO,,Produkttyp,Kranzprofil
+929,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,165,0,KRANZPRO,,Produkttyp,Kranzprofil
+930,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,166,0,KUECHE,,Produkttyp,Kuechenelement
+931,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,166,0,KUECHE,,Produkttyp,Kuechenelement
+932,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,167,0,NISCHE,,Produkttyp,Nischenschrank
+933,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,167,0,NISCHE,,Produkttyp,Nischenschrank
+934,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,168,0,R_SCHRANK1,,Produkttyp,Rolladenschrank 1
+935,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,168,0,R_SCHRANK1,,Produkttyp,Rolladenschrank 1
+936,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,169,0,R_SCHRANK2,,Produkttyp,Rolladenschrank mit Türen
+937,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,169,0,R_SCHRANK2,,Produkttyp,Rolladenschrank mit Türen
+938,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,170,0,SCHRANK1,,Produkttyp,Komplettmodell Grundschrank
+939,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,170,0,SCHRANK1,,Produkttyp,Komplettmodell Grundschrank
+940,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,171,0,SCHRANK2,,Produkttyp,"Komplettmodell Registr,get.Tür"
+941,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,171,0,SCHRANK2,,Produkttyp,"Komplettmodell Registr,get.Tür"
+942,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,172,0,SCHRANK3,,Produkttyp,"Grundschrank B: 1200mm, mit MW"
+943,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,172,0,SCHRANK3,,Produkttyp,"Grundschrank B: 1200mm, mit MW"
+944,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,173,0,SCHRANK4,,Produkttyp,Grundschrank leer
+945,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,173,0,SCHRANK4,,Produkttyp,Grundschrank leer
+946,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,174,0,TUEREN1,,Produkttyp,Einzeltür mit Drehstangenverr.
+947,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,174,0,TUEREN1,,Produkttyp,Einzeltür mit Drehstangenverr.
+948,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,175,0,TUEREN2,,Produkttyp,Türen paarweise+Schlagl.m.Dreh
+949,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,175,0,TUEREN2,,Produkttyp,Türen paarweise+Schlagl.m.Dreh
+950,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,176,0,TUEREN3,,Produkttyp,Einzeltür mit Federbandzuhalt
+951,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,176,0,TUEREN3,,Produkttyp,Einzeltür mit Federbandzuhalt
+952,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,177,0,TUEREN4,,Produkttyp,Türen paarweise+Schlag.m.Feder
+953,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,177,0,TUEREN4,,Produkttyp,Türen paarweise+Schlag.m.Feder
+954,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,178,0,TUEREN5,,Produkttyp,Einzeltür Schlagleiste
+955,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,178,0,TUEREN5,,Produkttyp,Einzeltür Schlagleiste
+956,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,179,0,TUEREN6,,Produkttyp,Einzeltür Schlagleiste Federb.
+957,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,179,0,TUEREN6,,Produkttyp,Einzeltür Schlagleiste Federb.
+958,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,180,0,AUFBAU1,,Produkttyp,Aufbauschrank
+959,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,180,0,AUFBAU1,,Produkttyp,Aufbauschrank
+960,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,181,0,AUFBAU2,,Produkttyp,Aufbauschrank leer
+961,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,181,0,AUFBAU2,,Produkttyp,Aufbauschrank leer
+962,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,182,0,ZUBEHOER1,,Produkttyp,Zubehörteile / Einzelteile
+963,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,182,0,ZUBEHOER1,,Produkttyp,Zubehörteile / Einzelteile
+964,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,183,0,ZUBEHOER2,,Produkttyp,Zubehörteile / Mittelwand
+965,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,183,0,ZUBEHOER2,,Produkttyp,Zubehörteile / Mittelwand
+966,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,184,0,SCHRANK5,,Produkttyp,Grundschrank Breite 1200mm
+967,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,184,0,SCHRANK5,,Produkttyp,Grundschrank Breite 1200mm
+968,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,185,0,BLENDEN2,,Produkttyp,Blenden 2 Universal1
+969,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,185,0,BLENDEN2,,Produkttyp,Blenden 2 Universal1
+970,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,186,0,BLENDEN3,,Produkttyp,Blenden 3 Universal1
+971,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,186,0,BLENDEN3,,Produkttyp,Blenden 3 Universal1
+972,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,187,0,BLENDEN4,,Produkttyp,Blenden 4 Universal1
+973,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,187,0,BLENDEN4,,Produkttyp,Blenden 4 Universal1
+974,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,188,0,HOLZTUER2,,Produkttyp,Durchgangstür Holz+Aufdopplung
+975,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,188,0,HOLZTUER2,,Produkttyp,Durchgangstür Holz+Aufdopplung
+976,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,189,0,*** 2T1 **,,Produkttyp,****** TWO TO ONE ************
+977,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,189,0,*** 2T1 **,,Produkttyp,****** TWO TO ONE ************
+978,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,190,0,TRENNWAND1,,Produkttyp,Basiselement
+979,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,190,0,TRENNWAND1,,Produkttyp,Basiselement
+980,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,191,0,TRENNWAND2,,Produkttyp,Durchgangselement
+981,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,191,0,TRENNWAND2,,Produkttyp,Durchgangselement
+982,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,192,0,*** HO ***,,Produkttyp,****** H O R I Z O N T E *****
+983,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,192,0,*** HO ***,,Produkttyp,****** H O R I Z O N T E *****
+984,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,193,0,H1WAND,,Produkttyp,H1 Wand
+985,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,193,0,H1WAND,,Produkttyp,H1 Wand
+986,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,194,0,H2WAND,,Produkttyp,H2 Wand
+987,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,194,0,H2WAND,,Produkttyp,H2 Wand
+988,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,195,0,H3WAND,,Produkttyp,H3 Wand
+989,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,195,0,H3WAND,,Produkttyp,H3 Wand
+990,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,196,0,H4WAND,,Produkttyp,H4 Wand
+991,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,196,0,H4WAND,,Produkttyp,H4 Wand
+992,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,197,0,DGT_GL,,Produkttyp,Durchg.Tür Glas
+993,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,197,0,DGT_GL,,Produkttyp,Durchg.Tür Glas
+994,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,198,0,DGT_VB,,Produkttyp,Durchg.Tür Vollblatt
+995,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,198,0,DGT_VB,,Produkttyp,Durchg.Tür Vollblatt
+996,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,199,0,TH_TANK,,Produkttyp,Think Tank
+997,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,199,0,TH_TANK,,Produkttyp,Think Tank
+998,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,200,0,*** SO ***,,Produkttyp,****** S O N S T I G E *******
+999,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,200,0,*** SO ***,,Produkttyp,****** S O N S T I G E *******
+1000,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,201,0,SONDER,,Produkttyp,Sonder-Dummy
+1001,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,201,0,SONDER,,Produkttyp,Sonder-Dummy
+1002,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,202,0,AS,,Produkttyp,After-Sales Artikel
+1003,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,202,0,AS,,Produkttyp,After-Sales Artikel
+1004,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,203,0,VST_VERSCHL,,Produkttyp,VST Verschluss
+1005,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,203,0,VST_VERSCHL,,Produkttyp,VST Verschluss
+1006,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,204,0,TUER_VERSCHL,,Produkttyp,Tuer Verschluss
+1007,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,204,0,TUER_VERSCHL,,Produkttyp,Tuer Verschluss
+1008,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,205,0,LIZENZ,,Produkttyp,Artikel für Lizenzfertigung
+1009,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,205,0,LIZENZ,,Produkttyp,Artikel für Lizenzfertigung
+1010,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,206,0,MEDIENWAND,,Produkttyp,Medienwand
+1011,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,206,0,MEDIENWAND,,Produkttyp,Medienwand
+1012,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,207,0,**********,,Produkttyp,******************************
+1013,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,PRODUKTTYP,40,0,0,R,207,0,**********,,Produkttyp,******************************
+1014,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,AUSGR,41,0,0,R,1,0,01,,Ausführungsgruppe (Farbtab.),standard
+1015,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,AUSGR,41,0,0,R,1,0,01,,Ausführungsgruppe (Farbtab.),standard
+1016,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,1,0,ANS,,t.Plattengeometrie,Ansatzplatte Rechteck
+1017,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,1,0,ANS,,t.Plattengeometrie,Ansatzplatte Rechteck
+1018,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,2,0,ANS_BOG,,t.Plattengeometrie,Ansatzplatte Bogen
+1019,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,2,0,ANS_BOG,,t.Plattengeometrie,Ansatzplatte Bogen
+1020,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,3,0,ANS_RD,,t.Plattengeometrie,Ansatzplatte Rund
+1021,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,3,0,ANS_RD,,t.Plattengeometrie,Ansatzplatte Rund
+1022,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,4,0,ANS_14,,t.Plattengeometrie,Ansatzplatte 1/4 Achteck
+1023,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,4,0,ANS_14,,t.Plattengeometrie,Ansatzplatte 1/4 Achteck
+1024,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,5,0,ANS_14_RD,,t.Plattengeometrie,Ansatzplatte 1/4 Rund
+1025,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,5,0,ANS_14_RD,,t.Plattengeometrie,Ansatzplatte 1/4 Rund
+1026,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,6,0,ANS_34,,t.Plattengeometrie,Ansatzplatte 3/4 Achteck
+1027,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,6,0,ANS_34,,t.Plattengeometrie,Ansatzplatte 3/4 Achteck
+1028,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,7,0,ANS_34_RD,,t.Plattengeometrie,Ansatzplatte 3/4 Rund
+1029,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,7,0,ANS_34_RD,,t.Plattengeometrie,Ansatzplatte 3/4 Rund
+1030,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,8,0,ANS_12,,t.Plattengeometrie,Ansatzplatte 1/2 Achteck
+1031,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,8,0,ANS_12,,t.Plattengeometrie,Ansatzplatte 1/2 Achteck
+1032,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,9,0,ANS_12_RD,,t.Plattengeometrie,Ansatzplatte 1/2 Rund
+1033,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,9,0,ANS_12_RD,,t.Plattengeometrie,Ansatzplatte 1/2 Rund
+1034,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,10,0,ANS_44,,t.Plattengeometrie,Ansatzplatte Achteck
+1035,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,10,0,ANS_44,,t.Plattengeometrie,Ansatzplatte Achteck
+1036,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,11,0,ANS_120,,t.Plattengeometrie,Ansatzplatte 120 Grad
+1037,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,11,0,ANS_120,,t.Plattengeometrie,Ansatzplatte 120 Grad
+1038,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,12,0,ANS_135,,t.Plattengeometrie,Ansatzplatte 135 Grad
+1039,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,12,0,ANS_135,,t.Plattengeometrie,Ansatzplatte 135 Grad
+1040,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,13,0,BOG_SEG,,t.Plattengeometrie,Bogensegment-Platte
+1041,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,13,0,BOG_SEG,,t.Plattengeometrie,Bogensegment-Platte
+1042,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,14,0,BF,,t.Plattengeometrie,Bootsformplatte
+1043,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,14,0,BF,,t.Plattengeometrie,Bootsformplatte
+1044,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,15,0,BF_R30,,t.Plattengeometrie,Bootsformplat. Eckradius R30mm
+1045,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,15,0,BF_R30,,t.Plattengeometrie,Bootsformplat. Eckradius R30mm
+1046,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,16,0,CAD,,t.Plattengeometrie,CAD-Tisch
+1047,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,16,0,CAD,,t.Plattengeometrie,CAD-Tisch
+1048,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,17,0,CO,,t.Plattengeometrie,Cockpitplatte
+1049,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,17,0,CO,,t.Plattengeometrie,Cockpitplatte
+1050,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,18,0,DF,,t.Plattengeometrie,Dialogformplatte
+1051,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,18,0,DF,,t.Plattengeometrie,Dialogformplatte
+1052,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,19,0,DRA,,t.Plattengeometrie,Drachenplatte
+1053,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,19,0,DRA,,t.Plattengeometrie,Drachenplatte
+1054,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,20,0,DRE,,t.Plattengeometrie,Dreiecksplatte
+1055,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,20,0,DRE,,t.Plattengeometrie,Dreiecksplatte
+1056,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,21,0,DRE_N,,t.Plattengeometrie,Dreiecksplatte negativ
+1057,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,21,0,DRE_N,,t.Plattengeometrie,Dreiecksplatte negativ
+1058,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,22,0,DRE_RD,,t.Plattengeometrie,Dreiecksplatte Rund
+1059,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,22,0,DRE_RD,,t.Plattengeometrie,Dreiecksplatte Rund
+1060,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,23,0,DUO,,t.Plattengeometrie,Duo-Tischplatten
+1061,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,23,0,DUO,,t.Plattengeometrie,Duo-Tischplatten
+1062,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,24,0,EDV,,t.Plattengeometrie,EDV-Tischplatte
+1063,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,24,0,EDV,,t.Plattengeometrie,EDV-Tischplatte
+1064,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,25,0,EL,,t.Plattengeometrie,Ellipsenplatte
+1065,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,25,0,EL,,t.Plattengeometrie,Ellipsenplatte
+1066,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,26,0,FF,,t.Plattengeometrie,Freiformplatte
+1067,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,26,0,FF,,t.Plattengeometrie,Freiformplatte
+1068,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,27,0,FF_R30,,t.Plattengeometrie,Freiformplatte Eckradius R30mm
+1069,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,27,0,FF_R30,,t.Plattengeometrie,Freiformplatte Eckradius R30mm
+1070,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,28,0,FF_BOG,,t.Plattengeometrie,Freiformplatte Bogen
+1071,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,28,0,FF_BOG,,t.Plattengeometrie,Freiformplatte Bogen
+1072,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,29,0,FF_EL,,t.Plattengeometrie,Freiformplatte Ellipse
+1073,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,29,0,FF_EL,,t.Plattengeometrie,Freiformplatte Ellipse
+1074,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,30,0,FF_120,,t.Plattengeometrie,Freiformplatte 120 Grad
+1075,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,30,0,FF_120,,t.Plattengeometrie,Freiformplatte 120 Grad
+1076,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,31,0,FF_135,,t.Plattengeometrie,Freiformplatte 135 Grad
+1077,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,31,0,FF_135,,t.Plattengeometrie,Freiformplatte 135 Grad
+1078,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,32,0,FF_157_5,,t.Plattengeometrie,"Freiformplatte 157,5 Grad"
+1079,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,32,0,FF_157_5,,t.Plattengeometrie,"Freiformplatte 157,5 Grad"
+1080,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,33,0,FF_TRAPVE,,t.Plattengeometrie,Freiformplatte Trapezform
+1081,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,33,0,FF_TRAPVE,,t.Plattengeometrie,Freiformplatte Trapezform
+1082,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,34,0,FF_KT,,t.Plattengeometrie,Freiform Kombitisch
+1083,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,34,0,FF_KT,,t.Plattengeometrie,Freiform Kombitisch
+1084,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,35,0,FF_KT_RD,,t.Plattengeometrie,Freiform Kombitisch Rund
+1085,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,35,0,FF_KT_RD,,t.Plattengeometrie,Freiform Kombitisch Rund
+1086,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,36,0,KT,,t.Plattengeometrie,Kombitisch
+1087,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,36,0,KT,,t.Plattengeometrie,Kombitisch
+1088,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,37,0,NIR,,t.Plattengeometrie,Nierentisch rechts
+1089,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,37,0,NIR,,t.Plattengeometrie,Nierentisch rechts
+1090,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,38,0,NIL,,t.Plattengeometrie,Nierentisch links
+1091,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,38,0,NIL,,t.Plattengeometrie,Nierentisch links
+1092,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,39,0,RD,,t.Plattengeometrie,Runde Platte
+1093,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,39,0,RD,,t.Plattengeometrie,Runde Platte
+1094,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,40,0,RE,,t.Plattengeometrie,Rechteck Platte
+1095,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,40,0,RE,,t.Plattengeometrie,Rechteck Platte
+1096,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,41,0,RE_R30,,t.Plattengeometrie,Rechteckplatte Eckradius R30mm
+1097,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,41,0,RE_R30,,t.Plattengeometrie,Rechteckplatte Eckradius R30mm
+1098,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,42,0,RE_ZWPL,,t.Plattengeometrie,Rechteck Zwischenplatte
+1099,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,42,0,RE_ZWPL,,t.Plattengeometrie,Rechteck Zwischenplatte
+1100,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,43,0,STEHP,,t.Plattengeometrie,Stehpult
+1101,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,43,0,STEHP,,t.Plattengeometrie,Stehpult
+1102,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,44,0,STEHP_BOG,,t.Plattengeometrie,Stehpult mit Bogen
+1103,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,44,0,STEHP_BOG,,t.Plattengeometrie,Stehpult mit Bogen
+1104,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,45,0,STEHP_FF,,t.Plattengeometrie,Stehpult Freiform
+1105,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,45,0,STEHP_FF,,t.Plattengeometrie,Stehpult Freiform
+1106,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,46,0,STEHP_RD,,t.Plattengeometrie,Stehpult Rund
+1107,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,46,0,STEHP_RD,,t.Plattengeometrie,Stehpult Rund
+1108,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,47,0,TR,,t.Plattengeometrie,Tropfentisch
+1109,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,47,0,TR,,t.Plattengeometrie,Tropfentisch
+1110,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,48,0,TRAPTI,,t.Plattengeometrie,Trapeztisch
+1111,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,48,0,TRAPTI,,t.Plattengeometrie,Trapeztisch
+1112,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,49,0,TRAPVE,,t.Plattengeometrie,Trapezverkettung
+1113,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,49,0,TRAPVE,,t.Plattengeometrie,Trapezverkettung
+1114,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,50,0,TRAPVECAD,,t.Plattengeometrie,Trapezverkettung für CAD
+1115,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,50,0,TRAPVECAD,,t.Plattengeometrie,Trapezverkettung für CAD
+1116,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,51,0,TRAPVEL,,t.Plattengeometrie,Trapezverkettung Winkel links
+1117,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,51,0,TRAPVEL,,t.Plattengeometrie,Trapezverkettung Winkel links
+1118,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,52,0,TRAPVER,,t.Plattengeometrie,Trapezverkettung Winkel rechts
+1119,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,52,0,TRAPVER,,t.Plattengeometrie,Trapezverkettung Winkel rechts
+1120,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,53,0,VE,,t.Plattengeometrie,Verkettung
+1121,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,53,0,VE,,t.Plattengeometrie,Verkettung
+1122,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,54,0,VE8,,t.Plattengeometrie,Verkettung 802x802
+1123,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,54,0,VE8,,t.Plattengeometrie,Verkettung 802x802
+1124,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,55,0,VE8_6,,t.Plattengeometrie,Verkettung 802 Schenkel 600
+1125,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,55,0,VE8_6,,t.Plattengeometrie,Verkettung 802 Schenkel 600
+1126,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,56,0,VE9,,t.Plattengeometrie,Verkettung 902x902
+1127,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,56,0,VE9,,t.Plattengeometrie,Verkettung 902x902
+1128,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,57,0,VE10,,t.Plattengeometrie,Verkettung 995x995
+1129,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,57,0,VE10,,t.Plattengeometrie,Verkettung 995x995
+1130,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,58,0,VE100,,t.Plattengeometrie,Verkettung 1002x1002
+1131,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,58,0,VE100,,t.Plattengeometrie,Verkettung 1002x1002
+1132,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,59,0,VE12,,t.Plattengeometrie,Verkettung 1195x1195
+1133,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,59,0,VE12,,t.Plattengeometrie,Verkettung 1195x1195
+1134,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,60,0,VE12_6,,t.Plattengeometrie,Verkettung 1195 Schenkel 600
+1135,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,60,0,VE12_6,,t.Plattengeometrie,Verkettung 1195 Schenkel 600
+1136,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,61,0,WAN,,t.Plattengeometrie,Wankelplatte
+1137,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,61,0,WAN,,t.Plattengeometrie,Wankelplatte
+1138,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,62,0,THEKE,,t.Plattengeometrie,Theke
+1139,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,62,0,THEKE,,t.Plattengeometrie,Theke
+1140,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,63,0,KF_BOG,,t.Plattengeometrie,Konferenztisch mit Bogen
+1141,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,63,0,KF_BOG,,t.Plattengeometrie,Konferenztisch mit Bogen
+1142,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,64,0,FS,,t.Plattengeometrie,Schrägform
+1143,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,64,0,FS,,t.Plattengeometrie,Schrägform
+1144,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,65,0,WAB,,t.Plattengeometrie,Wabenform
+1145,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TPL_GEO,44,0,0,R,65,0,WAB,,t.Plattengeometrie,Wabenform
+1146,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,1,0,TP,,t.Kantengeometrie Platte,Tragflächenprofil
+1147,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,1,0,TP,,t.Kantengeometrie Platte,Tragflächenprofil
+1148,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,2,0,R6,,t.Kantengeometrie Platte,Radius 6mm
+1149,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,2,0,R6,,t.Kantengeometrie Platte,Radius 6mm
+1150,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,3,0,R13,,t.Kantengeometrie Platte,Radius 13mm
+1151,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,3,0,R13,,t.Kantengeometrie Platte,Radius 13mm
+1152,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,4,0,R19,,t.Kantengeometrie Platte,Radius 19mm
+1153,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,4,0,R19,,t.Kantengeometrie Platte,Radius 19mm
+1154,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,5,0,AN25,,t.Kantengeometrie Platte,Anleimer 25mm/ R26 *Classic*
+1155,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,5,0,AN25,,t.Kantengeometrie Platte,Anleimer 25mm/ R26 *Classic*
+1156,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,6,0,UM,,t.Kantengeometrie Platte,Umleimer
+1157,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,6,0,UM,,t.Kantengeometrie Platte,Umleimer
+1158,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,7,0,UM2,,t.Kantengeometrie Platte,Umleimer 2mm Furnier
+1159,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,7,0,UM2,,t.Kantengeometrie Platte,Umleimer 2mm Furnier
+1160,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,8,0,UM3,,t.Kantengeometrie Platte,Umleimer 3mm Furnier
+1161,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,8,0,UM3,,t.Kantengeometrie Platte,Umleimer 3mm Furnier
+1162,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,9,0,UM4,,t.Kantengeometrie Platte,Umleimer 4mm Furnier
+1163,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,9,0,UM4,,t.Kantengeometrie Platte,Umleimer 4mm Furnier
+1164,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,10,0,UM6,,t.Kantengeometrie Platte,Umleimer 6mm Furnier
+1165,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,10,0,UM6,,t.Kantengeometrie Platte,Umleimer 6mm Furnier
+1166,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,11,0,UMDKS,,t.Kantengeometrie Platte,Umleimer 15° DKS
+1167,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,11,0,UMDKS,,t.Kantengeometrie Platte,Umleimer 15° DKS
+1168,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,12,0,WU,,t.Kantengeometrie Platte,Wulst
+1169,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,12,0,WU,,t.Kantengeometrie Platte,Wulst
+1170,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,13,0,MP,,t.Kantengeometrie Platte,Multiplex
+1171,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,13,0,MP,,t.Kantengeometrie Platte,Multiplex
+1172,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,14,0,VK,,t.Kantengeometrie Platte,Vollkernplatte
+1173,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,14,0,VK,,t.Kantengeometrie Platte,Vollkernplatte
+1174,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,15,0,MUL,,t.Kantengeometrie Platte,Muldenplatte CONTAINER KST
+1175,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,15,0,MUL,,t.Kantengeometrie Platte,Muldenplatte CONTAINER KST
+1176,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,16,0,SL,,t.Kantengeometrie Platte,Stahlabdeckplatte
+1177,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,16,0,SL,,t.Kantengeometrie Platte,Stahlabdeckplatte
+1178,BOTD24188A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,17,0,MDF45,,t.Kantengeometrie Platte,"MDF durchgefärbt, 45°"
+1179,BOTD24818A,C,KN,balancedesk,122602,1,TISCH125_A,TKT_GEO,45,0,0,R,17,0,MDF45,,t.Kantengeometrie Platte,"MDF durchgefärbt, 45°"

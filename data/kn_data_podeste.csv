@@ -1,0 +1,978 @@
+,article_nr,art_type,manufacturer,series,rel_obj_x,pos_class,prop_class,property,pos_prop,need_input,restrictable,scope,pos_pval,is_default,value_from,value_to,prop_text,pval_text
+0,PDAPL1680A,C,KN,podeste,135400,1,PODESTE131_B,OBFL01,1,1,0,C,1,1,WHB,,Oberfläche,Whiteboard
+1,PDTPL1680A,C,KN,podeste,135403,1,PODESTE131_B,OBFL01,1,1,0,C,1,1,WHB,,Oberfläche,Whiteboard
+2,PDAPL1680A,C,KN,podeste,135400,1,PODESTE131_B,GLEITER,2,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+3,PDTPL1680A,C,KN,podeste,135403,1,PODESTE131_B,GLEITER,2,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+4,PDMOD0404,C,KN,podeste,135402,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+5,PDMOD0804,C,KN,podeste,135402,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+6,PDMOD1204,C,KN,podeste,0,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+7,PDMOD1208,C,KN,podeste,0,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+8,PDMOD1212,C,KN,podeste,0,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+9,PDMODA0404,C,KN,podeste,135401,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+10,PDMODA0804,C,KN,podeste,135401,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+11,PDMODA1204,C,KN,podeste,0,1,PODESTE131_A,GLEITER,3,1,0,C,1,1,GL1,,Gleiter/Verbinder,mit Gleitern/Verbindern
+12,PDAPL1680A,C,KN,podeste,135400,1,PODESTE131_B,F8,4,1,0,C,1,1,WI,,Farbe Whiteboard-Halterung,Reinweiß
+13,PDTPL1680A,C,KN,podeste,135403,1,PODESTE131_B,F8,4,1,0,C,1,1,WI,,Farbe Whiteboard-Halterung,Reinweiß
+14,PDZHAL,C,KN,podeste,0,1,ZUBEHOER131_C,F8,1,1,1,C,1,1,WI,,Farbe Zubehör,Reinweiß
+15,PDAPL1680A,C,KN,podeste,135400,1,PODESTE131_B,F8,4,1,0,C,2,0,KSS,,Farbe Whiteboard-Halterung,Schwarz Struktur
+16,PDTPL1680A,C,KN,podeste,135403,1,PODESTE131_B,F8,4,1,0,C,2,0,KSS,,Farbe Whiteboard-Halterung,Schwarz Struktur
+17,PDZHAL,C,KN,podeste,0,1,ZUBEHOER131_C,F8,1,1,1,C,2,0,KSS,,Farbe Zubehör,Schwarz Struktur
+18,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,1,1,ECON,,Stoffkategorie,Economy
+19,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,1,1,ECON,,Stoffkategorie,Economy
+20,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,1,1,ECON,,Stoffkategorie,Economy
+21,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,2,0,STAN,,Stoffkategorie,Standard
+22,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,2,0,STAN,,Stoffkategorie,Standard
+23,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,2,0,STAN,,Stoffkategorie,Standard
+24,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,3,0,COMF,,Stoffkategorie,Comfort
+25,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,3,0,COMF,,Stoffkategorie,Comfort
+26,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFKATEGORIE,1,0,0,C,3,0,COMF,,Stoffkategorie,Comfort
+27,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,1,1,13,,Stoffgruppe,Polyester (13) - 100% Postconsumer-recycelt
+28,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,1,1,13,,Stoffgruppe,Polyester (13) - 100% Postconsumer-recycelt
+29,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,1,1,13,,Stoffgruppe,Polyester (13) - 100% Postconsumer-recycelt
+30,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+31,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+32,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+33,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+34,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+35,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+36,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+37,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+38,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,1,1,13,,Stoffgruppe Sitzpolster,Polyester (13) - 100% Postconsumer-recycelt
+39,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,2,0,14,,Stoffgruppe,Polyester (14)
+40,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,2,0,14,,Stoffgruppe,Polyester (14)
+41,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,2,0,14,,Stoffgruppe,Polyester (14)
+42,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+43,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+44,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+45,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+46,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+47,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+48,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+49,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+50,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,2,0,14,,Stoffgruppe Sitzpolster,Polyester (14)
+51,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,3,0,20,,Stoffgruppe,Xtreme FR (20)
+52,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,3,0,20,,Stoffgruppe,Xtreme FR (20)
+53,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,3,0,20,,Stoffgruppe,Xtreme FR (20)
+54,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+55,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+56,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+57,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+58,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+59,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+60,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+61,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+62,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,3,0,20,,Stoffgruppe Sitzpolster,Xtreme FR (20)
+63,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,4,0,28,,Stoffgruppe,Neuseelandwolle Fame (28)
+64,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,4,0,28,,Stoffgruppe,Neuseelandwolle Fame (28)
+65,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,4,0,28,,Stoffgruppe,Neuseelandwolle Fame (28)
+66,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+67,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+68,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+69,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+70,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+71,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+72,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+73,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+74,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,4,0,28,,Stoffgruppe Sitzpolster,Neuseelandwolle Fame (28)
+75,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,5,0,31,,Stoffgruppe,Schurwolle (31)
+76,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,5,0,31,,Stoffgruppe,Schurwolle (31)
+77,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,5,0,31,,Stoffgruppe,Schurwolle (31)
+78,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+79,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+80,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+81,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+82,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+83,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+84,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+85,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+86,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,5,0,31,,Stoffgruppe Sitzpolster,Schurwolle (31)
+87,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,6,0,21K,,Stoffgruppe,Kunstleder Dolce (21K)
+88,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,6,0,21K,,Stoffgruppe,Kunstleder Dolce (21K)
+89,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,STOFFGR,2,1,0,C,6,0,21K,,Stoffgruppe,Kunstleder Dolce (21K)
+90,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+91,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+92,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+93,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+94,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+95,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+96,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+97,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+98,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFGR_2,2,1,0,C,6,0,21K,,Stoffgruppe Sitzpolster,Kunstleder Dolce (21K)
+99,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,1,0,1325,,Farbe Stoff,1325 Beige
+100,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,1,0,1325,,Farbe Stoff,1325 Beige
+101,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,1,0,1325,,Farbe Stoff,1325 Beige
+102,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+103,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+104,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+105,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+106,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+107,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+108,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+109,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+110,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,1,0,1325,,Farbe Sitzpolster,1325 Beige
+111,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,2,0,1331,,Farbe Stoff,1331 Hellgrün
+112,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,2,0,1331,,Farbe Stoff,1331 Hellgrün
+113,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,2,0,1331,,Farbe Stoff,1331 Hellgrün
+114,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+115,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+116,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+117,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+118,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+119,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+120,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+121,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+122,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,2,0,1331,,Farbe Sitzpolster,1331 Hellgrün
+123,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,3,1,1332,,Farbe Stoff,1332 Grün
+124,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,3,1,1332,,Farbe Stoff,1332 Grün
+125,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,3,1,1332,,Farbe Stoff,1332 Grün
+126,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+127,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+128,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+129,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+130,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+131,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+132,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+133,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+134,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,3,1,1332,,Farbe Sitzpolster,1332 Grün
+135,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,4,0,1339,,Farbe Stoff,1339 Blau
+136,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,4,0,1339,,Farbe Stoff,1339 Blau
+137,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,4,0,1339,,Farbe Stoff,1339 Blau
+138,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+139,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+140,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+141,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+142,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+143,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+144,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+145,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+146,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,4,0,1339,,Farbe Sitzpolster,1339 Blau
+147,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,5,0,1343,,Farbe Stoff,1343 Hellblau
+148,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,5,0,1343,,Farbe Stoff,1343 Hellblau
+149,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,5,0,1343,,Farbe Stoff,1343 Hellblau
+150,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+151,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+152,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+153,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+154,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+155,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+156,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+157,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+158,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,5,0,1343,,Farbe Sitzpolster,1343 Hellblau
+159,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,6,0,1355,,Farbe Stoff,1355 Dunkelgrau
+160,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,6,0,1355,,Farbe Stoff,1355 Dunkelgrau
+161,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,6,0,1355,,Farbe Stoff,1355 Dunkelgrau
+162,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+163,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+164,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+165,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+166,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+167,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+168,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+169,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+170,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,6,0,1355,,Farbe Sitzpolster,1355 Dunkelgrau
+171,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,7,0,1357,,Farbe Stoff,1357 Grau
+172,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,7,0,1357,,Farbe Stoff,1357 Grau
+173,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,7,0,1357,,Farbe Stoff,1357 Grau
+174,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+175,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+176,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+177,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+178,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+179,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+180,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+181,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+182,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,7,0,1357,,Farbe Sitzpolster,1357 Grau
+183,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,8,0,1360,,Farbe Stoff,1360 Rot
+184,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,8,0,1360,,Farbe Stoff,1360 Rot
+185,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,8,0,1360,,Farbe Stoff,1360 Rot
+186,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+187,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+188,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+189,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+190,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+191,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+192,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+193,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+194,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,8,0,1360,,Farbe Sitzpolster,1360 Rot
+195,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,9,0,1362,,Farbe Stoff,1362 Schwarz
+196,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,9,0,1362,,Farbe Stoff,1362 Schwarz
+197,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,9,0,1362,,Farbe Stoff,1362 Schwarz
+198,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+199,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+200,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+201,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+202,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+203,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+204,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+205,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+206,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,9,0,1362,,Farbe Sitzpolster,1362 Schwarz
+207,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,10,0,1371,,Farbe Stoff,1371 Gelb
+208,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,10,0,1371,,Farbe Stoff,1371 Gelb
+209,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,10,0,1371,,Farbe Stoff,1371 Gelb
+210,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+211,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+212,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+213,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+214,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+215,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+216,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+217,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+218,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,10,0,1371,,Farbe Sitzpolster,1371 Gelb
+219,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,11,0,1425,,Farbe Stoff,1425 Beige
+220,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,11,0,1425,,Farbe Stoff,1425 Beige
+221,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,11,0,1425,,Farbe Stoff,1425 Beige
+222,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+223,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+224,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+225,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+226,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+227,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+228,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+229,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+230,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,11,0,1425,,Farbe Sitzpolster,1425 Beige
+231,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,12,0,1430,,Farbe Stoff,1430 Seegrün
+232,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,12,0,1430,,Farbe Stoff,1430 Seegrün
+233,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,12,0,1430,,Farbe Stoff,1430 Seegrün
+234,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+235,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+236,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+237,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+238,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+239,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+240,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+241,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+242,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,12,0,1430,,Farbe Sitzpolster,1430 Seegrün
+243,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,13,0,1434,,Farbe Stoff,1434 Apfelgrün
+244,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,13,0,1434,,Farbe Stoff,1434 Apfelgrün
+245,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,13,0,1434,,Farbe Stoff,1434 Apfelgrün
+246,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+247,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+248,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+249,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+250,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+251,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+252,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+253,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+254,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,13,0,1434,,Farbe Sitzpolster,1434 Apfelgrün
+255,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,14,0,1442,,Farbe Stoff,1442 Dunkelblau
+256,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,14,0,1442,,Farbe Stoff,1442 Dunkelblau
+257,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,14,0,1442,,Farbe Stoff,1442 Dunkelblau
+258,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+259,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+260,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+261,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+262,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+263,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+264,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+265,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+266,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,14,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+267,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,15,0,1443,,Farbe Stoff,1443 Hellblau
+268,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,15,0,1443,,Farbe Stoff,1443 Hellblau
+269,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,15,0,1443,,Farbe Stoff,1443 Hellblau
+270,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+271,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+272,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+273,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+274,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+275,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+276,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+277,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+278,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,15,0,1443,,Farbe Sitzpolster,1443 Hellblau
+279,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,16,0,1447,,Farbe Stoff,1447 Petrolblau
+280,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,16,0,1447,,Farbe Stoff,1447 Petrolblau
+281,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,16,0,1447,,Farbe Stoff,1447 Petrolblau
+282,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+283,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+284,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+285,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+286,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+287,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+288,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+289,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+290,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,16,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+291,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,17,0,1453,,Farbe Stoff,1453 Grau
+292,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,17,0,1453,,Farbe Stoff,1453 Grau
+293,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,17,0,1453,,Farbe Stoff,1453 Grau
+294,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+295,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+296,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+297,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+298,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+299,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+300,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+301,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+302,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,17,0,1453,,Farbe Sitzpolster,1453 Grau
+303,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,18,0,1461,,Farbe Stoff,1461 Rot
+304,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,18,0,1461,,Farbe Stoff,1461 Rot
+305,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,18,0,1461,,Farbe Stoff,1461 Rot
+306,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+307,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+308,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+309,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+310,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+311,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+312,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+313,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+314,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,18,0,1461,,Farbe Sitzpolster,1461 Rot
+315,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,19,0,1462,,Farbe Stoff,1462 Schwarz
+316,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,19,0,1462,,Farbe Stoff,1462 Schwarz
+317,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,19,0,1462,,Farbe Stoff,1462 Schwarz
+318,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+319,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+320,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+321,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+322,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+323,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+324,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+325,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+326,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,19,0,1462,,Farbe Sitzpolster,1462 Schwarz
+327,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,20,0,1467,,Farbe Stoff,1467 Brombeer
+328,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,20,0,1467,,Farbe Stoff,1467 Brombeer
+329,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,20,0,1467,,Farbe Stoff,1467 Brombeer
+330,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+331,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+332,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+333,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+334,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+335,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+336,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+337,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+338,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,20,0,1467,,Farbe Sitzpolster,1467 Brombeer
+339,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,21,0,1470,,Farbe Stoff,1470 Ocker
+340,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,21,0,1470,,Farbe Stoff,1470 Ocker
+341,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,21,0,1470,,Farbe Stoff,1470 Ocker
+342,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+343,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+344,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+345,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+346,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+347,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+348,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+349,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+350,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,21,0,1470,,Farbe Sitzpolster,1470 Ocker
+351,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,22,0,1471,,Farbe Stoff,1471 Gelb
+352,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,22,0,1471,,Farbe Stoff,1471 Gelb
+353,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,22,0,1471,,Farbe Stoff,1471 Gelb
+354,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+355,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+356,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+357,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+358,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+359,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+360,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+361,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+362,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,22,0,1471,,Farbe Sitzpolster,1471 Gelb
+363,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,23,0,1482,,Farbe Stoff,1482 Orange
+364,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,23,0,1482,,Farbe Stoff,1482 Orange
+365,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,23,0,1482,,Farbe Stoff,1482 Orange
+366,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+367,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+368,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+369,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+370,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+371,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+372,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+373,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+374,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,23,0,1482,,Farbe Sitzpolster,1482 Orange
+375,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,24,0,1485,,Farbe Stoff,1485 Rose
+376,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,24,0,1485,,Farbe Stoff,1485 Rose
+377,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,24,0,1485,,Farbe Stoff,1485 Rose
+378,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+379,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+380,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+381,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+382,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+383,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+384,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+385,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+386,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,24,0,1485,,Farbe Sitzpolster,1485 Rose
+387,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,25,0,1491,,Farbe Stoff,1491 Anthrazit
+388,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,25,0,1491,,Farbe Stoff,1491 Anthrazit
+389,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,25,0,1491,,Farbe Stoff,1491 Anthrazit
+390,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+391,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+392,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+393,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+394,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+395,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+396,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+397,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+398,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,25,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+399,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,26,0,2025,,Farbe Stoff,2025 Beige
+400,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,26,0,2025,,Farbe Stoff,2025 Beige
+401,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,26,0,2025,,Farbe Stoff,2025 Beige
+402,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+403,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+404,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+405,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+406,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+407,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+408,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+409,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+410,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,26,0,2025,,Farbe Sitzpolster,2025 Beige
+411,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,27,0,2033,,Farbe Stoff,2033 Dunkelgrün
+412,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,27,0,2033,,Farbe Stoff,2033 Dunkelgrün
+413,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,27,0,2033,,Farbe Stoff,2033 Dunkelgrün
+414,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+415,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+416,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+417,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+418,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+419,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+420,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+421,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+422,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,27,0,2033,,Farbe Sitzpolster,2033 Dunkelgrün
+423,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,28,0,2035,,Farbe Stoff,2035 Olivgrün
+424,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,28,0,2035,,Farbe Stoff,2035 Olivgrün
+425,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,28,0,2035,,Farbe Stoff,2035 Olivgrün
+426,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+427,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+428,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+429,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+430,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+431,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+432,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+433,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+434,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,28,0,2035,,Farbe Sitzpolster,2035 Olivgrün
+435,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,29,0,2041,,Farbe Stoff,2041 Mittelblau
+436,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,29,0,2041,,Farbe Stoff,2041 Mittelblau
+437,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,29,0,2041,,Farbe Stoff,2041 Mittelblau
+438,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+439,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+440,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+441,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+442,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+443,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+444,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+445,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+446,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,29,0,2041,,Farbe Sitzpolster,2041 Mittelblau
+447,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,30,0,2046,,Farbe Stoff,2046 Türkisblau
+448,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,30,0,2046,,Farbe Stoff,2046 Türkisblau
+449,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,30,0,2046,,Farbe Stoff,2046 Türkisblau
+450,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+451,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+452,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+453,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+454,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+455,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+456,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+457,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+458,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,30,0,2046,,Farbe Sitzpolster,2046 Türkisblau
+459,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,31,0,2048,,Farbe Stoff,2048 Wasserblau
+460,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,31,0,2048,,Farbe Stoff,2048 Wasserblau
+461,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,31,0,2048,,Farbe Stoff,2048 Wasserblau
+462,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+463,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+464,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+465,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+466,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+467,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+468,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+469,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+470,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,31,0,2048,,Farbe Sitzpolster,2048 Wasserblau
+471,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,32,0,2053,,Farbe Stoff,2053 Hellgrau
+472,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,32,0,2053,,Farbe Stoff,2053 Hellgrau
+473,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,32,0,2053,,Farbe Stoff,2053 Hellgrau
+474,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+475,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+476,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+477,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+478,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+479,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+480,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+481,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+482,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,32,0,2053,,Farbe Sitzpolster,2053 Hellgrau
+483,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,33,0,2061,,Farbe Stoff,2061 Dunkelrot
+484,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,33,0,2061,,Farbe Stoff,2061 Dunkelrot
+485,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,33,0,2061,,Farbe Stoff,2061 Dunkelrot
+486,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+487,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+488,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+489,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+490,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+491,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+492,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+493,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+494,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,33,0,2061,,Farbe Sitzpolster,2061 Dunkelrot
+495,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,34,0,2062,,Farbe Stoff,2062 Schwarz
+496,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,34,0,2062,,Farbe Stoff,2062 Schwarz
+497,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,34,0,2062,,Farbe Stoff,2062 Schwarz
+498,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+499,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+500,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+501,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+502,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+503,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+504,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+505,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+506,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,34,0,2062,,Farbe Sitzpolster,2062 Schwarz
+507,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,35,0,2066,,Farbe Stoff,2066 Kirschrot
+508,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,35,0,2066,,Farbe Stoff,2066 Kirschrot
+509,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,35,0,2066,,Farbe Stoff,2066 Kirschrot
+510,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+511,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+512,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+513,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+514,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+515,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+516,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+517,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+518,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,35,0,2066,,Farbe Sitzpolster,2066 Kirschrot
+519,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,36,0,2068,,Farbe Stoff,2068 Pflaume
+520,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,36,0,2068,,Farbe Stoff,2068 Pflaume
+521,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,36,0,2068,,Farbe Stoff,2068 Pflaume
+522,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+523,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+524,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+525,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+526,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+527,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+528,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+529,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+530,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,36,0,2068,,Farbe Sitzpolster,2068 Pflaume
+531,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,37,0,2070,,Farbe Stoff,2070 Ocker
+532,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,37,0,2070,,Farbe Stoff,2070 Ocker
+533,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,37,0,2070,,Farbe Stoff,2070 Ocker
+534,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+535,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+536,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+537,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+538,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+539,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+540,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+541,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+542,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,37,0,2070,,Farbe Sitzpolster,2070 Ocker
+543,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,38,0,2071,,Farbe Stoff,2071 Gelb
+544,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,38,0,2071,,Farbe Stoff,2071 Gelb
+545,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,38,0,2071,,Farbe Stoff,2071 Gelb
+546,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+547,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+548,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+549,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+550,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+551,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+552,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+553,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+554,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,38,0,2071,,Farbe Sitzpolster,2071 Gelb
+555,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,39,0,2082,,Farbe Stoff,2082 Orange
+556,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,39,0,2082,,Farbe Stoff,2082 Orange
+557,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,39,0,2082,,Farbe Stoff,2082 Orange
+558,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+559,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+560,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+561,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+562,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+563,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+564,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+565,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+566,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,39,0,2082,,Farbe Sitzpolster,2082 Orange
+567,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,40,0,2091,,Farbe Stoff,2091 Anthrazit
+568,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,40,0,2091,,Farbe Stoff,2091 Anthrazit
+569,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,40,0,2091,,Farbe Stoff,2091 Anthrazit
+570,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+571,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+572,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+573,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+574,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+575,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+576,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+577,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+578,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,40,0,2091,,Farbe Sitzpolster,2091 Anthrazit
+579,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,41,0,21K34,,Farbe Stoff,21K34 Apfelgrün
+580,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,41,0,21K34,,Farbe Stoff,21K34 Apfelgrün
+581,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,41,0,21K34,,Farbe Stoff,21K34 Apfelgrün
+582,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+583,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+584,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+585,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+586,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+587,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+588,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+589,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+590,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,41,0,21K34,,Farbe Sitzpolster,21K34 Apfelgrün
+591,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,42,0,21K42,,Farbe Stoff,21K42 Dunkelblau
+592,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,42,0,21K42,,Farbe Stoff,21K42 Dunkelblau
+593,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,42,0,21K42,,Farbe Stoff,21K42 Dunkelblau
+594,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+595,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+596,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+597,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+598,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+599,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+600,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+601,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+602,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,42,0,21K42,,Farbe Sitzpolster,21K42 Dunkelblau
+603,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,43,0,21K61,,Farbe Stoff,21K61 Dunkelrot
+604,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,43,0,21K61,,Farbe Stoff,21K61 Dunkelrot
+605,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,43,0,21K61,,Farbe Stoff,21K61 Dunkelrot
+606,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+607,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+608,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+609,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+610,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+611,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+612,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+613,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+614,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,43,0,21K61,,Farbe Sitzpolster,21K61 Dunkelrot
+615,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,44,0,21K62,,Farbe Stoff,21K62 Schwarz
+616,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,44,0,21K62,,Farbe Stoff,21K62 Schwarz
+617,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,44,0,21K62,,Farbe Stoff,21K62 Schwarz
+618,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+619,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+620,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+621,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+622,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+623,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+624,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+625,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+626,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,44,0,21K62,,Farbe Sitzpolster,21K62 Schwarz
+627,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,45,0,21K64,,Farbe Stoff,21K64 Weiß
+628,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,45,0,21K64,,Farbe Stoff,21K64 Weiß
+629,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,45,0,21K64,,Farbe Stoff,21K64 Weiß
+630,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+631,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+632,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+633,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+634,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+635,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+636,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+637,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+638,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,45,0,21K64,,Farbe Sitzpolster,21K64 Weiß
+639,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,46,0,21K74,,Farbe Stoff,21K74 Braun
+640,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,46,0,21K74,,Farbe Stoff,21K74 Braun
+641,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,46,0,21K74,,Farbe Stoff,21K74 Braun
+642,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+643,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+644,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+645,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+646,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+647,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+648,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+649,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+650,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,46,0,21K74,,Farbe Sitzpolster,21K74 Braun
+651,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,47,0,2829,,Farbe Stoff,2829 Dunkelbeige
+652,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,47,0,2829,,Farbe Stoff,2829 Dunkelbeige
+653,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,47,0,2829,,Farbe Stoff,2829 Dunkelbeige
+654,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+655,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+656,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+657,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+658,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+659,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+660,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+661,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+662,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,47,0,2829,,Farbe Sitzpolster,2829 Dunkelbeige
+663,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,48,0,2833,,Farbe Stoff,2833 Dunkelgrün
+664,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,48,0,2833,,Farbe Stoff,2833 Dunkelgrün
+665,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,48,0,2833,,Farbe Stoff,2833 Dunkelgrün
+666,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+667,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+668,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+669,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+670,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+671,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+672,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+673,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+674,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,48,0,2833,,Farbe Sitzpolster,2833 Dunkelgrün
+675,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,49,0,2834,,Farbe Stoff,2834 Apfelgrün
+676,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,49,0,2834,,Farbe Stoff,2834 Apfelgrün
+677,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,49,0,2834,,Farbe Stoff,2834 Apfelgrün
+678,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+679,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+680,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+681,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+682,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+683,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+684,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+685,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+686,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,49,0,2834,,Farbe Sitzpolster,2834 Apfelgrün
+687,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,50,0,2842,,Farbe Stoff,2842 Dunkelblau
+688,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,50,0,2842,,Farbe Stoff,2842 Dunkelblau
+689,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,50,0,2842,,Farbe Stoff,2842 Dunkelblau
+690,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+691,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+692,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+693,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+694,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+695,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+696,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+697,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+698,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,50,0,2842,,Farbe Sitzpolster,2842 Dunkelblau
+699,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,51,0,2846,,Farbe Stoff,2846 Türkisblau
+700,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,51,0,2846,,Farbe Stoff,2846 Türkisblau
+701,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,51,0,2846,,Farbe Stoff,2846 Türkisblau
+702,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+703,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+704,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+705,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+706,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+707,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+708,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+709,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+710,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,51,0,2846,,Farbe Sitzpolster,2846 Türkisblau
+711,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,52,0,2853,,Farbe Stoff,2853 Hellgrau
+712,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,52,0,2853,,Farbe Stoff,2853 Hellgrau
+713,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,52,0,2853,,Farbe Stoff,2853 Hellgrau
+714,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+715,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+716,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+717,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+718,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+719,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+720,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+721,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+722,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,52,0,2853,,Farbe Sitzpolster,2853 Hellgrau
+723,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,53,0,2860,,Farbe Stoff,2860 Rot
+724,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,53,0,2860,,Farbe Stoff,2860 Rot
+725,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,53,0,2860,,Farbe Stoff,2860 Rot
+726,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+727,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+728,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+729,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+730,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+731,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+732,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+733,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+734,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,53,0,2860,,Farbe Sitzpolster,2860 Rot
+735,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,54,0,2862,,Farbe Stoff,2862 Schwarz
+736,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,54,0,2862,,Farbe Stoff,2862 Schwarz
+737,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,54,0,2862,,Farbe Stoff,2862 Schwarz
+738,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+739,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+740,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+741,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+742,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+743,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+744,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+745,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+746,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,54,0,2862,,Farbe Sitzpolster,2862 Schwarz
+747,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,55,0,2882,,Farbe Stoff,2882 Orange
+748,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,55,0,2882,,Farbe Stoff,2882 Orange
+749,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,55,0,2882,,Farbe Stoff,2882 Orange
+750,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+751,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+752,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+753,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+754,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+755,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+756,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+757,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+758,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,55,0,2882,,Farbe Sitzpolster,2882 Orange
+759,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,56,0,2885,,Farbe Stoff,2885 Rose
+760,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,56,0,2885,,Farbe Stoff,2885 Rose
+761,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,56,0,2885,,Farbe Stoff,2885 Rose
+762,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+763,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+764,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+765,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+766,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+767,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+768,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+769,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+770,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,56,0,2885,,Farbe Sitzpolster,2885 Rose
+771,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,57,0,2891,,Farbe Stoff,2891 Anthrazit
+772,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,57,0,2891,,Farbe Stoff,2891 Anthrazit
+773,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,57,0,2891,,Farbe Stoff,2891 Anthrazit
+774,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+775,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+776,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+777,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+778,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+779,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+780,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+781,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+782,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,57,0,2891,,Farbe Sitzpolster,2891 Anthrazit
+783,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,58,0,3121,,Farbe Stoff,3121 Dunkelbeige Melange
+784,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,58,0,3121,,Farbe Stoff,3121 Dunkelbeige Melange
+785,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,58,0,3121,,Farbe Stoff,3121 Dunkelbeige Melange
+786,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+787,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+788,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+789,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+790,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+791,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+792,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+793,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+794,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,58,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+795,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,59,0,3123,,Farbe Stoff,3123 Beige Melange
+796,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,59,0,3123,,Farbe Stoff,3123 Beige Melange
+797,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,59,0,3123,,Farbe Stoff,3123 Beige Melange
+798,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+799,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+800,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+801,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+802,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+803,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+804,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+805,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+806,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,59,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+807,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,60,0,3131,,Farbe Stoff,3131 Hellgrün
+808,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,60,0,3131,,Farbe Stoff,3131 Hellgrün
+809,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,60,0,3131,,Farbe Stoff,3131 Hellgrün
+810,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+811,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+812,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+813,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+814,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+815,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+816,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+817,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+818,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,60,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+819,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,61,0,3143,,Farbe Stoff,3143 Hellblau
+820,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,61,0,3143,,Farbe Stoff,3143 Hellblau
+821,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,61,0,3143,,Farbe Stoff,3143 Hellblau
+822,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+823,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+824,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+825,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+826,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+827,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+828,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+829,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+830,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,61,0,3143,,Farbe Sitzpolster,3143 Hellblau
+831,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,62,0,3146,,Farbe Stoff,3146 Türkisblau
+832,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,62,0,3146,,Farbe Stoff,3146 Türkisblau
+833,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,62,0,3146,,Farbe Stoff,3146 Türkisblau
+834,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+835,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+836,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+837,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+838,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+839,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+840,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+841,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+842,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,62,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+843,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,63,0,3156,,Farbe Stoff,3156 Mittelgrau Melange
+844,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,63,0,3156,,Farbe Stoff,3156 Mittelgrau Melange
+845,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,63,0,3156,,Farbe Stoff,3156 Mittelgrau Melange
+846,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+847,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+848,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+849,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+850,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+851,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+852,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+853,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+854,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,63,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+855,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,64,0,3161,,Farbe Stoff,3161 Rot
+856,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,64,0,3161,,Farbe Stoff,3161 Rot
+857,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,64,0,3161,,Farbe Stoff,3161 Rot
+858,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+859,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+860,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+861,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+862,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+863,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+864,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+865,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+866,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,64,0,3161,,Farbe Sitzpolster,3161 Rot
+867,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,65,0,3162,,Farbe Stoff,3162 Schwarz
+868,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,65,0,3162,,Farbe Stoff,3162 Schwarz
+869,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,65,0,3162,,Farbe Stoff,3162 Schwarz
+870,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+871,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+872,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+873,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+874,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+875,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+876,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+877,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+878,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,65,0,3162,,Farbe Sitzpolster,3162 Schwarz
+879,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,66,0,3171,,Farbe Stoff,3171 Gelb
+880,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,66,0,3171,,Farbe Stoff,3171 Gelb
+881,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,66,0,3171,,Farbe Stoff,3171 Gelb
+882,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+883,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+884,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+885,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+886,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+887,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+888,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+889,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+890,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,66,0,3171,,Farbe Sitzpolster,3171 Gelb
+891,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,67,0,3172,,Farbe Stoff,3172 Gelb Melange
+892,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,67,0,3172,,Farbe Stoff,3172 Gelb Melange
+893,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,67,0,3172,,Farbe Stoff,3172 Gelb Melange
+894,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+895,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+896,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+897,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+898,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+899,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+900,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+901,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+902,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,67,0,3172,,Farbe Sitzpolster,3172 Gelb Melange
+903,PDARMLC,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,68,0,3181,,Farbe Stoff,3181 Orange Melange
+904,PDARMLE,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,68,0,3181,,Farbe Stoff,3181 Orange Melange
+905,PDARMLS,C,KN,podeste,0,1,ZUBEHOER131_A,F7,3,1,1,C,68,0,3181,,Farbe Stoff,3181 Orange Melange
+906,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+907,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+908,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+909,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+910,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+911,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+912,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+913,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+914,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,F100,3,1,0,C,68,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+915,PDMOD0404,C,KN,podeste,135402,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+916,PDMOD0804,C,KN,podeste,135402,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+917,PDMOD1204,C,KN,podeste,0,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+918,PDMOD1208,C,KN,podeste,0,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+919,PDMOD1212,C,KN,podeste,0,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+920,PDMODA0404,C,KN,podeste,135401,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+921,PDMODA0804,C,KN,podeste,135401,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+922,PDMODA1204,C,KN,podeste,0,1,PODESTE131_A,OBFL03,1,0,0,C,1,0,SP,,Oberfläche Korpus,Sperrholz
+923,PDMOD0404,C,KN,podeste,135402,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+924,PDMOD0804,C,KN,podeste,135402,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+925,PDMOD1204,C,KN,podeste,0,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+926,PDMOD1208,C,KN,podeste,0,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+927,PDMOD1212,C,KN,podeste,0,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+928,PDMODA0404,C,KN,podeste,135401,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+929,PDMODA0804,C,KN,podeste,135401,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+930,PDMODA1204,C,KN,podeste,0,1,PODESTE131_A,F20,2,1,0,C,1,1,SE,,Farbe Korpus,"Seekiefer, klarlackiert"
+931,PDMOD0404,C,KN,podeste,135402,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+932,PDMOD0804,C,KN,podeste,135402,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+933,PDMOD1204,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+934,PDMOD1208,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+935,PDMOD1212,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+936,PDMODA0404,C,KN,podeste,135401,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+937,PDMODA0804,C,KN,podeste,135401,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+938,PDMODA1204,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,1,1,RL0,,Rollen,ohne Rollen
+939,PDMOD0404,C,KN,podeste,135402,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+940,PDMOD0804,C,KN,podeste,135402,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+941,PDMOD1204,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+942,PDMOD1208,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+943,PDMOD1212,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+944,PDMODA0404,C,KN,podeste,135401,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+945,PDMODA0804,C,KN,podeste,135401,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+946,PDMODA1204,C,KN,podeste,0,1,PODESTE131_A,ROLLEN,4,1,0,C,2,0,RL7,,Rollen,"mit Rollen, Ø 75 mm"
+947,PDSIAUF40,C,KN,podeste,0,1,ZUBEHOER_A,MODELL,2,0,0,R,1,0,PD,,Modell,Podeste
+948,PDZGL40,C,KN,podeste,0,1,ZUBEHOER_A,MODELL,2,0,0,R,1,0,PD,,Modell,Podeste
+949,PDZRO75,C,KN,podeste,0,1,ZUBEHOER_A,MODELL,2,0,0,R,1,0,PD,,Modell,Podeste
+950,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+951,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+952,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+953,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+954,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+955,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+956,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+957,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+958,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,1,1,ECON,,Stoffkategorie Sitzpolster,Economy
+959,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+960,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+961,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+962,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+963,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+964,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+965,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+966,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+967,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,2,0,STAN,,Stoffkategorie Sitzpolster,Standard
+968,PDSIPO0404C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+969,PDSIPO0404E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+970,PDSIPO0404S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+971,PDSIPO0804C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+972,PDSIPO0804E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+973,PDSIPO0804S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+974,PDSIPO1204C,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+975,PDSIPO1204E,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort
+976,PDSIPO1204S,C,KN,podeste,0,1,POLSTER131_A,STOFFKATEGORIE_12,1,0,0,C,3,0,COMF,,Stoffkategorie Sitzpolster,Comfort

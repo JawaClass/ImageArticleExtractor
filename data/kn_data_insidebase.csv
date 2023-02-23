@@ -1,0 +1,739 @@
+,article_nr,art_type,manufacturer,series,rel_obj_x,pos_class,prop_class,property,pos_prop,need_input,restrictable,scope,pos_pval,is_default,value_from,value_to,prop_text,pval_text
+0,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,1,0,TYP3,,Variante,INSIDE.BASE: Drucker Point (TYP 3)
+1,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,1,0,TYP3,,Variante,INSIDE.BASE: Drucker Point (TYP 3)
+2,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,1,0,TYP3,,Variante,INSIDE.BASE: Drucker Point (TYP 3)
+3,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,2,0,TYP4,,Variante,INSIDE.BASE: Denkerzelle (TYP 4)
+4,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,2,0,TYP4,,Variante,INSIDE.BASE: Denkerzelle (TYP 4)
+5,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,2,0,TYP4,,Variante,INSIDE.BASE: Denkerzelle (TYP 4)
+6,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,3,0,TYP5,,Variante,INSIDE.BASE: Meeting Point (TYP 5)
+7,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,3,0,TYP5,,Variante,INSIDE.BASE: Meeting Point (TYP 5)
+8,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,VARIANTE,1,0,0,R,3,0,TYP5,,Variante,INSIDE.BASE: Meeting Point (TYP 5)
+9,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,VARIANTE,1,0,0,R,1,0,TYP1,,Variante,INSIDE.BASE: Telefonbox (TYP 1)
+10,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,VARIANTE,1,0,0,R,1,0,TYP1,,Variante,INSIDE.BASE: Telefonbox (TYP 1)
+11,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,VARIANTE,1,0,0,R,2,0,TYP2,,Variante,INSIDE.BASE: Telefonbox Duo (TYP 2)
+12,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,VARIANTE,1,0,0,R,2,0,TYP2,,Variante,INSIDE.BASE: Telefonbox Duo (TYP 2)
+13,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,OBFL19,2,1,0,R,1,1,ST,,Oberfläche Wand Außen,Stoff
+14,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,OBFL19,2,1,0,R,1,1,ST,,Oberfläche Wand Außen,Stoff
+15,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,OBFL19,2,1,0,R,1,1,ST,,Oberfläche Wand Außen,Stoff
+16,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,OBFL19,2,1,0,R,1,1,ST,,Oberfläche Wand Außen,Stoff
+17,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,OBFL19,2,1,0,R,1,1,ST,,Oberfläche Wand Außen,Stoff
+18,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,1,1,ECON,,Preisgruppe Stoff Außen,Economy
+19,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,1,1,ECON,,Preisgruppe Stoff Außen,Economy
+20,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,1,1,ECON,,Preisgruppe Stoff Außen,Economy
+21,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_9,3,1,0,C,1,1,ECON,,Preisgruppe Stoff Außen,Economy
+22,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_9,3,1,0,C,1,1,ECON,,Preisgruppe Stoff Außen,Economy
+23,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,2,0,STAN,,Preisgruppe Stoff Außen,Standard
+24,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,2,0,STAN,,Preisgruppe Stoff Außen,Standard
+25,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,2,0,STAN,,Preisgruppe Stoff Außen,Standard
+26,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_9,3,1,0,C,2,0,STAN,,Preisgruppe Stoff Außen,Standard
+27,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_9,3,1,0,C,2,0,STAN,,Preisgruppe Stoff Außen,Standard
+28,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,3,0,COMF,,Preisgruppe Stoff Außen,Comfort
+29,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,3,0,COMF,,Preisgruppe Stoff Außen,Comfort
+30,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_9,3,1,0,C,3,0,COMF,,Preisgruppe Stoff Außen,Comfort
+31,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_9,3,1,0,C,3,0,COMF,,Preisgruppe Stoff Außen,Comfort
+32,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_9,3,1,0,C,3,0,COMF,,Preisgruppe Stoff Außen,Comfort
+33,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,1,1,71,,Stoffgr. Stoffblende Außen,Polyester (71) - 99% Postconsumer-recycelt
+34,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,1,1,71,,Stoffgr. Stoffblende Außen,Polyester (71) - 99% Postconsumer-recycelt
+35,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,1,1,71,,Stoffgr. Stoffblende Außen,Polyester (71) - 99% Postconsumer-recycelt
+36,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,1,1,71,,Stoffgr. Stoffblende Außen,Polyester (71) - 99% Postconsumer-recycelt
+37,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,1,1,71,,Stoffgr. Stoffblende Außen,Polyester (71) - 99% Postconsumer-recycelt
+38,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,1,1,71,,Stoffgr. Stoffblende Innen,Polyester (71) - 99% Postconsumer-recycelt
+39,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,1,1,71,,Stoffgr. Stoffblende Innen,Polyester (71) - 99% Postconsumer-recycelt
+40,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,1,1,71,,Stoffgr. Stoffblende Innen,Polyester (71) - 99% Postconsumer-recycelt
+41,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,1,1,71,,Stoffgr. Stoffblende Innen,Polyester (71) - 99% Postconsumer-recycelt
+42,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,1,1,71,,Stoffgr. Stoffblende Innen,Polyester (71) - 99% Postconsumer-recycelt
+43,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,1,1,71,,Stoffgr. Stoffblende Eckstücke,Polyester (71) - 99% Postconsumer-recycelt
+44,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,1,1,71,,Stoffgr. Stoffblende Eckstücke,Polyester (71) - 99% Postconsumer-recycelt
+45,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,1,1,71,,Stoffgr. Stoffblende Eckstücke,Polyester (71) - 99% Postconsumer-recycelt
+46,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,1,1,71,,Stoffgr. Stoffblende Eckstücke,Polyester (71) - 99% Postconsumer-recycelt
+47,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,1,1,71,,Stoffgr. Stoffblende Eckstücke,Polyester (71) - 99% Postconsumer-recycelt
+48,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,2,0,82,,Stoffgr. Stoffblende Außen,Polyester (82)
+49,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,2,0,82,,Stoffgr. Stoffblende Außen,Polyester (82)
+50,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,2,0,82,,Stoffgr. Stoffblende Außen,Polyester (82)
+51,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,2,0,82,,Stoffgr. Stoffblende Außen,Polyester (82)
+52,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,2,0,82,,Stoffgr. Stoffblende Außen,Polyester (82)
+53,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,3,0,91,,Stoffgr. Stoffblende Außen,Trevira CS Twist (91)
+54,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,3,0,91,,Stoffgr. Stoffblende Außen,Trevira CS Twist (91)
+55,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,3,0,91,,Stoffgr. Stoffblende Außen,Trevira CS Twist (91)
+56,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,3,0,91,,Stoffgr. Stoffblende Außen,Trevira CS Twist (91)
+57,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,3,0,91,,Stoffgr. Stoffblende Außen,Trevira CS Twist (91)
+58,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,4,0,92,,Stoffgr. Stoffblende Außen,Schurwolle Blazer Lite (92)
+59,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,4,0,92,,Stoffgr. Stoffblende Außen,Schurwolle Blazer Lite (92)
+60,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_41,4,1,0,C,4,0,92,,Stoffgr. Stoffblende Außen,Schurwolle Blazer Lite (92)
+61,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,4,0,92,,Stoffgr. Stoffblende Außen,Schurwolle Blazer Lite (92)
+62,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_41,4,1,0,C,4,0,92,,Stoffgr. Stoffblende Außen,Schurwolle Blazer Lite (92)
+63,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,1,0,8225,,Farbe Wand Außen,8225 Beige
+64,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,1,0,8225,,Farbe Wand Außen,8225 Beige
+65,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,1,0,8225,,Farbe Wand Außen,8225 Beige
+66,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,1,0,8225,,Farbe Wand Außen,8225 Beige
+67,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,1,0,8225,,Farbe Wand Außen,8225 Beige
+68,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,2,0,8234,,Farbe Wand Außen,8234 Apfelgrün
+69,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,2,0,8234,,Farbe Wand Außen,8234 Apfelgrün
+70,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,2,0,8234,,Farbe Wand Außen,8234 Apfelgrün
+71,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,2,0,8234,,Farbe Wand Außen,8234 Apfelgrün
+72,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,2,0,8234,,Farbe Wand Außen,8234 Apfelgrün
+73,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,3,0,8242,,Farbe Wand Außen,8242 Dunkelblau
+74,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,3,0,8242,,Farbe Wand Außen,8242 Dunkelblau
+75,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,3,0,8242,,Farbe Wand Außen,8242 Dunkelblau
+76,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,3,0,8242,,Farbe Wand Außen,8242 Dunkelblau
+77,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,3,0,8242,,Farbe Wand Außen,8242 Dunkelblau
+78,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,4,0,8243,,Farbe Wand Außen,8243 Hellblau
+79,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,4,0,8243,,Farbe Wand Außen,8243 Hellblau
+80,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,4,0,8243,,Farbe Wand Außen,8243 Hellblau
+81,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,4,0,8243,,Farbe Wand Außen,8243 Hellblau
+82,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,4,0,8243,,Farbe Wand Außen,8243 Hellblau
+83,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,5,0,8252,,Farbe Wand Außen,8252 Mittelgrau
+84,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,5,0,8252,,Farbe Wand Außen,8252 Mittelgrau
+85,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,5,0,8252,,Farbe Wand Außen,8252 Mittelgrau
+86,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,5,0,8252,,Farbe Wand Außen,8252 Mittelgrau
+87,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,5,0,8252,,Farbe Wand Außen,8252 Mittelgrau
+88,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,6,0,8253,,Farbe Wand Außen,8253 Grau
+89,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,6,0,8253,,Farbe Wand Außen,8253 Grau
+90,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,6,0,8253,,Farbe Wand Außen,8253 Grau
+91,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,6,0,8253,,Farbe Wand Außen,8253 Grau
+92,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,6,0,8253,,Farbe Wand Außen,8253 Grau
+93,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,7,0,8261,,Farbe Wand Außen,8261 Rot
+94,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,7,0,8261,,Farbe Wand Außen,8261 Rot
+95,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,7,0,8261,,Farbe Wand Außen,8261 Rot
+96,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,7,0,8261,,Farbe Wand Außen,8261 Rot
+97,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,7,0,8261,,Farbe Wand Außen,8261 Rot
+98,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,8,0,8267,,Farbe Wand Außen,8267 Brombeer
+99,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,8,0,8267,,Farbe Wand Außen,8267 Brombeer
+100,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,8,0,8267,,Farbe Wand Außen,8267 Brombeer
+101,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,8,0,8267,,Farbe Wand Außen,8267 Brombeer
+102,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,8,0,8267,,Farbe Wand Außen,8267 Brombeer
+103,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,9,0,8270,,Farbe Wand Außen,8270 Ocker
+104,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,9,0,8270,,Farbe Wand Außen,8270 Ocker
+105,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,9,0,8270,,Farbe Wand Außen,8270 Ocker
+106,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,9,0,8270,,Farbe Wand Außen,8270 Ocker
+107,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,9,0,8270,,Farbe Wand Außen,8270 Ocker
+108,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,10,0,8282,,Farbe Wand Außen,8282 Orange
+109,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,10,0,8282,,Farbe Wand Außen,8282 Orange
+110,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,10,0,8282,,Farbe Wand Außen,8282 Orange
+111,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,10,0,8282,,Farbe Wand Außen,8282 Orange
+112,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,10,0,8282,,Farbe Wand Außen,8282 Orange
+113,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,11,0,8291,,Farbe Wand Außen,8291 Anthrazit
+114,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,11,0,8291,,Farbe Wand Außen,8291 Anthrazit
+115,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,11,0,8291,,Farbe Wand Außen,8291 Anthrazit
+116,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,11,0,8291,,Farbe Wand Außen,8291 Anthrazit
+117,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,11,0,8291,,Farbe Wand Außen,8291 Anthrazit
+118,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,12,0,9123,,Farbe Wand Außen,9123 Beige Melange
+119,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,12,0,9123,,Farbe Wand Außen,9123 Beige Melange
+120,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,12,0,9123,,Farbe Wand Außen,9123 Beige Melange
+121,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,12,0,9123,,Farbe Wand Außen,9123 Beige Melange
+122,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,12,0,9123,,Farbe Wand Außen,9123 Beige Melange
+123,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,13,0,9129,,Farbe Wand Außen,9129 Dunkelbeige
+124,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,13,0,9129,,Farbe Wand Außen,9129 Dunkelbeige
+125,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,13,0,9129,,Farbe Wand Außen,9129 Dunkelbeige
+126,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,13,0,9129,,Farbe Wand Außen,9129 Dunkelbeige
+127,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,13,0,9129,,Farbe Wand Außen,9129 Dunkelbeige
+128,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,14,0,9133,,Farbe Wand Außen,9133 Dunkelgrün
+129,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,14,0,9133,,Farbe Wand Außen,9133 Dunkelgrün
+130,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,14,0,9133,,Farbe Wand Außen,9133 Dunkelgrün
+131,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,14,0,9133,,Farbe Wand Außen,9133 Dunkelgrün
+132,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,14,0,9133,,Farbe Wand Außen,9133 Dunkelgrün
+133,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,15,0,9135,,Farbe Wand Außen,9135 Olivgrün
+134,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,15,0,9135,,Farbe Wand Außen,9135 Olivgrün
+135,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,15,0,9135,,Farbe Wand Außen,9135 Olivgrün
+136,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,15,0,9135,,Farbe Wand Außen,9135 Olivgrün
+137,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,15,0,9135,,Farbe Wand Außen,9135 Olivgrün
+138,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,16,0,9141,,Farbe Wand Außen,9141 Mittelblau
+139,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,16,0,9141,,Farbe Wand Außen,9141 Mittelblau
+140,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,16,0,9141,,Farbe Wand Außen,9141 Mittelblau
+141,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,16,0,9141,,Farbe Wand Außen,9141 Mittelblau
+142,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,16,0,9141,,Farbe Wand Außen,9141 Mittelblau
+143,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,17,0,9143,,Farbe Wand Außen,9143 Hellblau
+144,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,17,0,9143,,Farbe Wand Außen,9143 Hellblau
+145,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,17,0,9143,,Farbe Wand Außen,9143 Hellblau
+146,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,17,0,9143,,Farbe Wand Außen,9143 Hellblau
+147,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,17,0,9143,,Farbe Wand Außen,9143 Hellblau
+148,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,18,0,9153,,Farbe Wand Außen,9153 Hellgrau
+149,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,18,0,9153,,Farbe Wand Außen,9153 Hellgrau
+150,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,18,0,9153,,Farbe Wand Außen,9153 Hellgrau
+151,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,18,0,9153,,Farbe Wand Außen,9153 Hellgrau
+152,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,18,0,9153,,Farbe Wand Außen,9153 Hellgrau
+153,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,19,0,9157,,Farbe Wand Außen,9157 Grau
+154,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,19,0,9157,,Farbe Wand Außen,9157 Grau
+155,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,19,0,9157,,Farbe Wand Außen,9157 Grau
+156,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,19,0,9157,,Farbe Wand Außen,9157 Grau
+157,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,19,0,9157,,Farbe Wand Außen,9157 Grau
+158,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,20,0,9160,,Farbe Wand Außen,9160 Rot
+159,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,20,0,9160,,Farbe Wand Außen,9160 Rot
+160,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,20,0,9160,,Farbe Wand Außen,9160 Rot
+161,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,20,0,9160,,Farbe Wand Außen,9160 Rot
+162,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,20,0,9160,,Farbe Wand Außen,9160 Rot
+163,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,21,0,9161,,Farbe Wand Außen,9161 Dunkelrot
+164,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,21,0,9161,,Farbe Wand Außen,9161 Dunkelrot
+165,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,21,0,9161,,Farbe Wand Außen,9161 Dunkelrot
+166,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,21,0,9161,,Farbe Wand Außen,9161 Dunkelrot
+167,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,21,0,9161,,Farbe Wand Außen,9161 Dunkelrot
+168,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,22,0,9225,,Farbe Wand Außen,9225 Beige
+169,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,22,0,9225,,Farbe Wand Außen,9225 Beige
+170,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,22,0,9225,,Farbe Wand Außen,9225 Beige
+171,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,22,0,9225,,Farbe Wand Außen,9225 Beige
+172,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,22,0,9225,,Farbe Wand Außen,9225 Beige
+173,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,23,0,9229,,Farbe Wand Außen,9229 Dunkelbeige
+174,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,23,0,9229,,Farbe Wand Außen,9229 Dunkelbeige
+175,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,23,0,9229,,Farbe Wand Außen,9229 Dunkelbeige
+176,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,23,0,9229,,Farbe Wand Außen,9229 Dunkelbeige
+177,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,23,0,9229,,Farbe Wand Außen,9229 Dunkelbeige
+178,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,24,0,9230,,Farbe Wand Außen,9230 Seegrün
+179,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,24,0,9230,,Farbe Wand Außen,9230 Seegrün
+180,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,24,0,9230,,Farbe Wand Außen,9230 Seegrün
+181,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,24,0,9230,,Farbe Wand Außen,9230 Seegrün
+182,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,24,0,9230,,Farbe Wand Außen,9230 Seegrün
+183,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,25,0,9234,,Farbe Wand Außen,9234 Apfelgrün
+184,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,25,0,9234,,Farbe Wand Außen,9234 Apfelgrün
+185,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,25,0,9234,,Farbe Wand Außen,9234 Apfelgrün
+186,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,25,0,9234,,Farbe Wand Außen,9234 Apfelgrün
+187,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,25,0,9234,,Farbe Wand Außen,9234 Apfelgrün
+188,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,26,0,9240,,Farbe Wand Außen,9240 Blaugrau
+189,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,26,0,9240,,Farbe Wand Außen,9240 Blaugrau
+190,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,26,0,9240,,Farbe Wand Außen,9240 Blaugrau
+191,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,26,0,9240,,Farbe Wand Außen,9240 Blaugrau
+192,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,26,0,9240,,Farbe Wand Außen,9240 Blaugrau
+193,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,26,0,9240,,Farbe Wand Innen,9240 Blaugrau
+194,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,26,0,9240,,Farbe Wand Innen,9240 Blaugrau
+195,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,26,0,9240,,Farbe Wand Innen,9240 Blaugrau
+196,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,26,0,9240,,Farbe Wand Innen,9240 Blaugrau
+197,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,26,0,9240,,Farbe Wand Innen,9240 Blaugrau
+198,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,26,0,9240,,Farbe Stoffblende,9240 Blaugrau
+199,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,26,0,9240,,Farbe Stoffblende,9240 Blaugrau
+200,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,26,0,9240,,Farbe Stoffblende,9240 Blaugrau
+201,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,26,0,9240,,Farbe Stoffblende,9240 Blaugrau
+202,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,26,0,9240,,Farbe Stoffblende,9240 Blaugrau
+203,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,27,0,9242,,Farbe Wand Außen,9242 Dunkelblau
+204,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,27,0,9242,,Farbe Wand Außen,9242 Dunkelblau
+205,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,27,0,9242,,Farbe Wand Außen,9242 Dunkelblau
+206,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,27,0,9242,,Farbe Wand Außen,9242 Dunkelblau
+207,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,27,0,9242,,Farbe Wand Außen,9242 Dunkelblau
+208,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,28,0,9253,,Farbe Wand Außen,9253 Hellgrau
+209,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,28,0,9253,,Farbe Wand Außen,9253 Hellgrau
+210,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,28,0,9253,,Farbe Wand Außen,9253 Hellgrau
+211,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,28,0,9253,,Farbe Wand Außen,9253 Hellgrau
+212,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,28,0,9253,,Farbe Wand Außen,9253 Hellgrau
+213,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,29,0,9255,,Farbe Wand Außen,9255 Dunkelgrau
+214,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,29,0,9255,,Farbe Wand Außen,9255 Dunkelgrau
+215,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,29,0,9255,,Farbe Wand Außen,9255 Dunkelgrau
+216,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,29,0,9255,,Farbe Wand Außen,9255 Dunkelgrau
+217,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,29,0,9255,,Farbe Wand Außen,9255 Dunkelgrau
+218,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,30,0,9285,,Farbe Wand Außen,9285 Rose
+219,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,30,0,9285,,Farbe Wand Außen,9285 Rose
+220,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,30,0,9285,,Farbe Wand Außen,9285 Rose
+221,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,30,0,9285,,Farbe Wand Außen,9285 Rose
+222,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,30,0,9285,,Farbe Wand Außen,9285 Rose
+223,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,31,0,7125,,Farbe Wand Außen,7125 Beige
+224,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,31,0,7125,,Farbe Wand Außen,7125 Beige
+225,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,31,0,7125,,Farbe Wand Außen,7125 Beige
+226,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,31,0,7125,,Farbe Wand Außen,7125 Beige
+227,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,31,0,7125,,Farbe Wand Außen,7125 Beige
+228,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,31,0,7125,,Farbe Wand Innen,7125 Beige
+229,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,31,0,7125,,Farbe Wand Innen,7125 Beige
+230,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,31,0,7125,,Farbe Wand Innen,7125 Beige
+231,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,31,0,7125,,Farbe Wand Innen,7125 Beige
+232,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,31,0,7125,,Farbe Wand Innen,7125 Beige
+233,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,31,0,7125,,Farbe Stoffblende,7125 Beige
+234,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,31,0,7125,,Farbe Stoffblende,7125 Beige
+235,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,31,0,7125,,Farbe Stoffblende,7125 Beige
+236,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,31,0,7125,,Farbe Stoffblende,7125 Beige
+237,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,31,0,7125,,Farbe Stoffblende,7125 Beige
+238,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,32,1,7131,,Farbe Wand Außen,7131 Hellgrün
+239,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,32,1,7131,,Farbe Wand Außen,7131 Hellgrün
+240,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,32,1,7131,,Farbe Wand Außen,7131 Hellgrün
+241,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,32,1,7131,,Farbe Wand Außen,7131 Hellgrün
+242,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,32,1,7131,,Farbe Wand Außen,7131 Hellgrün
+243,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,32,0,7131,,Farbe Wand Innen,7131 Hellgrün
+244,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,32,0,7131,,Farbe Wand Innen,7131 Hellgrün
+245,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,32,0,7131,,Farbe Wand Innen,7131 Hellgrün
+246,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,32,0,7131,,Farbe Wand Innen,7131 Hellgrün
+247,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,32,0,7131,,Farbe Wand Innen,7131 Hellgrün
+248,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,32,0,7131,,Farbe Stoffblende,7131 Hellgrün
+249,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,32,0,7131,,Farbe Stoffblende,7131 Hellgrün
+250,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,32,0,7131,,Farbe Stoffblende,7131 Hellgrün
+251,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,32,0,7131,,Farbe Stoffblende,7131 Hellgrün
+252,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,32,0,7131,,Farbe Stoffblende,7131 Hellgrün
+253,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,33,0,7143,,Farbe Wand Außen,7143 Hellblau
+254,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,33,0,7143,,Farbe Wand Außen,7143 Hellblau
+255,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,33,0,7143,,Farbe Wand Außen,7143 Hellblau
+256,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,33,0,7143,,Farbe Wand Außen,7143 Hellblau
+257,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,33,0,7143,,Farbe Wand Außen,7143 Hellblau
+258,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,33,1,7143,,Farbe Wand Innen,7143 Hellblau
+259,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,33,1,7143,,Farbe Wand Innen,7143 Hellblau
+260,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,33,1,7143,,Farbe Wand Innen,7143 Hellblau
+261,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,33,1,7143,,Farbe Wand Innen,7143 Hellblau
+262,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,33,1,7143,,Farbe Wand Innen,7143 Hellblau
+263,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,33,0,7143,,Farbe Stoffblende,7143 Hellblau
+264,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,33,0,7143,,Farbe Stoffblende,7143 Hellblau
+265,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,33,0,7143,,Farbe Stoffblende,7143 Hellblau
+266,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,33,0,7143,,Farbe Stoffblende,7143 Hellblau
+267,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,33,0,7143,,Farbe Stoffblende,7143 Hellblau
+268,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,34,0,7155,,Farbe Wand Außen,7155 Dunkelgrau
+269,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,34,0,7155,,Farbe Wand Außen,7155 Dunkelgrau
+270,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,34,0,7155,,Farbe Wand Außen,7155 Dunkelgrau
+271,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,34,0,7155,,Farbe Wand Außen,7155 Dunkelgrau
+272,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,34,0,7155,,Farbe Wand Außen,7155 Dunkelgrau
+273,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,34,0,7155,,Farbe Wand Innen,7155 Dunkelgrau
+274,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,34,0,7155,,Farbe Wand Innen,7155 Dunkelgrau
+275,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,34,0,7155,,Farbe Wand Innen,7155 Dunkelgrau
+276,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,34,0,7155,,Farbe Wand Innen,7155 Dunkelgrau
+277,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,34,0,7155,,Farbe Wand Innen,7155 Dunkelgrau
+278,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,34,0,7155,,Farbe Stoffblende,7155 Dunkelgrau
+279,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,34,0,7155,,Farbe Stoffblende,7155 Dunkelgrau
+280,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,34,0,7155,,Farbe Stoffblende,7155 Dunkelgrau
+281,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,34,0,7155,,Farbe Stoffblende,7155 Dunkelgrau
+282,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,34,0,7155,,Farbe Stoffblende,7155 Dunkelgrau
+283,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,35,0,7157,,Farbe Wand Außen,7157 Grau
+284,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,35,0,7157,,Farbe Wand Außen,7157 Grau
+285,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F174,5,1,0,C,35,0,7157,,Farbe Wand Außen,7157 Grau
+286,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,35,0,7157,,Farbe Wand Außen,7157 Grau
+287,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F174,5,1,0,C,35,0,7157,,Farbe Wand Außen,7157 Grau
+288,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,35,0,7157,,Farbe Wand Innen,7157 Grau
+289,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,35,0,7157,,Farbe Wand Innen,7157 Grau
+290,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,35,0,7157,,Farbe Wand Innen,7157 Grau
+291,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,35,0,7157,,Farbe Wand Innen,7157 Grau
+292,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,35,0,7157,,Farbe Wand Innen,7157 Grau
+293,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,35,0,7157,,Farbe Stoffblende,7157 Grau
+294,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,35,0,7157,,Farbe Stoffblende,7157 Grau
+295,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,35,0,7157,,Farbe Stoffblende,7157 Grau
+296,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,35,0,7157,,Farbe Stoffblende,7157 Grau
+297,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,35,0,7157,,Farbe Stoffblende,7157 Grau
+298,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,OBFL18,6,1,0,R,1,1,ST,,Oberfläche Wand Innen,Stoff
+299,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,OBFL18,6,1,0,R,1,1,ST,,Oberfläche Wand Innen,Stoff
+300,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,OBFL18,6,1,0,R,1,1,ST,,Oberfläche Wand Innen,Stoff
+301,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,OBFL18,6,1,0,R,1,1,ST,,Oberfläche Wand Innen,Stoff
+302,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,OBFL18,6,1,0,R,1,1,ST,,Oberfläche Wand Innen,Stoff
+303,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,1,1,ECON,,Preisgruppe Stoff Innen,Economy
+304,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,1,1,ECON,,Preisgruppe Stoff Innen,Economy
+305,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,1,1,ECON,,Preisgruppe Stoff Innen,Economy
+306,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_8,7,1,0,C,1,1,ECON,,Preisgruppe Stoff Innen,Economy
+307,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_8,7,1,0,C,1,1,ECON,,Preisgruppe Stoff Innen,Economy
+308,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,2,0,STAN,,Preisgruppe Stoff Innen,Standard
+309,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,2,0,STAN,,Preisgruppe Stoff Innen,Standard
+310,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,2,0,STAN,,Preisgruppe Stoff Innen,Standard
+311,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_8,7,1,0,C,2,0,STAN,,Preisgruppe Stoff Innen,Standard
+312,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_8,7,1,0,C,2,0,STAN,,Preisgruppe Stoff Innen,Standard
+313,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,3,0,COMF,,Preisgruppe Stoff Innen,Comfort
+314,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,3,0,COMF,,Preisgruppe Stoff Innen,Comfort
+315,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_8,7,1,0,C,3,0,COMF,,Preisgruppe Stoff Innen,Comfort
+316,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_8,7,1,0,C,3,0,COMF,,Preisgruppe Stoff Innen,Comfort
+317,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_8,7,1,0,C,3,0,COMF,,Preisgruppe Stoff Innen,Comfort
+318,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,2,0,82,,Stoffgr. Stoffblende Innen,Polyester (82)
+319,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,2,0,82,,Stoffgr. Stoffblende Innen,Polyester (82)
+320,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,2,0,82,,Stoffgr. Stoffblende Innen,Polyester (82)
+321,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,2,0,82,,Stoffgr. Stoffblende Innen,Polyester (82)
+322,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,2,0,82,,Stoffgr. Stoffblende Innen,Polyester (82)
+323,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,3,0,91,,Stoffgr. Stoffblende Innen,Trevira CS Twist (91)
+324,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,3,0,91,,Stoffgr. Stoffblende Innen,Trevira CS Twist (91)
+325,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,3,0,91,,Stoffgr. Stoffblende Innen,Trevira CS Twist (91)
+326,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,3,0,91,,Stoffgr. Stoffblende Innen,Trevira CS Twist (91)
+327,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,3,0,91,,Stoffgr. Stoffblende Innen,Trevira CS Twist (91)
+328,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,4,0,92,,Stoffgr. Stoffblende Innen,Schurwolle Blazer Lite (92)
+329,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,4,0,92,,Stoffgr. Stoffblende Innen,Schurwolle Blazer Lite (92)
+330,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_40,8,1,0,C,4,0,92,,Stoffgr. Stoffblende Innen,Schurwolle Blazer Lite (92)
+331,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,4,0,92,,Stoffgr. Stoffblende Innen,Schurwolle Blazer Lite (92)
+332,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_40,8,1,0,C,4,0,92,,Stoffgr. Stoffblende Innen,Schurwolle Blazer Lite (92)
+333,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,1,0,8225,,Farbe Wand Innen,8225 Beige
+334,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,1,0,8225,,Farbe Wand Innen,8225 Beige
+335,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,1,0,8225,,Farbe Wand Innen,8225 Beige
+336,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,1,0,8225,,Farbe Wand Innen,8225 Beige
+337,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,1,0,8225,,Farbe Wand Innen,8225 Beige
+338,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,2,0,8234,,Farbe Wand Innen,8234 Apfelgrün
+339,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,2,0,8234,,Farbe Wand Innen,8234 Apfelgrün
+340,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,2,0,8234,,Farbe Wand Innen,8234 Apfelgrün
+341,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,2,0,8234,,Farbe Wand Innen,8234 Apfelgrün
+342,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,2,0,8234,,Farbe Wand Innen,8234 Apfelgrün
+343,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,3,0,8242,,Farbe Wand Innen,8242 Dunkelblau
+344,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,3,0,8242,,Farbe Wand Innen,8242 Dunkelblau
+345,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,3,0,8242,,Farbe Wand Innen,8242 Dunkelblau
+346,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,3,0,8242,,Farbe Wand Innen,8242 Dunkelblau
+347,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,3,0,8242,,Farbe Wand Innen,8242 Dunkelblau
+348,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,4,0,8243,,Farbe Wand Innen,8243 Hellblau
+349,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,4,0,8243,,Farbe Wand Innen,8243 Hellblau
+350,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,4,0,8243,,Farbe Wand Innen,8243 Hellblau
+351,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,4,0,8243,,Farbe Wand Innen,8243 Hellblau
+352,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,4,0,8243,,Farbe Wand Innen,8243 Hellblau
+353,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,5,0,8252,,Farbe Wand Innen,8252 Mittelgrau
+354,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,5,0,8252,,Farbe Wand Innen,8252 Mittelgrau
+355,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,5,0,8252,,Farbe Wand Innen,8252 Mittelgrau
+356,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,5,0,8252,,Farbe Wand Innen,8252 Mittelgrau
+357,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,5,0,8252,,Farbe Wand Innen,8252 Mittelgrau
+358,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,6,0,8253,,Farbe Wand Innen,8253 Grau
+359,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,6,0,8253,,Farbe Wand Innen,8253 Grau
+360,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,6,0,8253,,Farbe Wand Innen,8253 Grau
+361,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,6,0,8253,,Farbe Wand Innen,8253 Grau
+362,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,6,0,8253,,Farbe Wand Innen,8253 Grau
+363,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,7,0,8261,,Farbe Wand Innen,8261 Rot
+364,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,7,0,8261,,Farbe Wand Innen,8261 Rot
+365,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,7,0,8261,,Farbe Wand Innen,8261 Rot
+366,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,7,0,8261,,Farbe Wand Innen,8261 Rot
+367,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,7,0,8261,,Farbe Wand Innen,8261 Rot
+368,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,8,0,8267,,Farbe Wand Innen,8267 Brombeer
+369,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,8,0,8267,,Farbe Wand Innen,8267 Brombeer
+370,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,8,0,8267,,Farbe Wand Innen,8267 Brombeer
+371,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,8,0,8267,,Farbe Wand Innen,8267 Brombeer
+372,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,8,0,8267,,Farbe Wand Innen,8267 Brombeer
+373,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,9,0,8270,,Farbe Wand Innen,8270 Ocker
+374,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,9,0,8270,,Farbe Wand Innen,8270 Ocker
+375,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,9,0,8270,,Farbe Wand Innen,8270 Ocker
+376,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,9,0,8270,,Farbe Wand Innen,8270 Ocker
+377,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,9,0,8270,,Farbe Wand Innen,8270 Ocker
+378,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,10,0,8282,,Farbe Wand Innen,8282 Orange
+379,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,10,0,8282,,Farbe Wand Innen,8282 Orange
+380,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,10,0,8282,,Farbe Wand Innen,8282 Orange
+381,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,10,0,8282,,Farbe Wand Innen,8282 Orange
+382,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,10,0,8282,,Farbe Wand Innen,8282 Orange
+383,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,11,0,8291,,Farbe Wand Innen,8291 Anthrazit
+384,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,11,0,8291,,Farbe Wand Innen,8291 Anthrazit
+385,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,11,0,8291,,Farbe Wand Innen,8291 Anthrazit
+386,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,11,0,8291,,Farbe Wand Innen,8291 Anthrazit
+387,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,11,0,8291,,Farbe Wand Innen,8291 Anthrazit
+388,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,12,0,9123,,Farbe Wand Innen,9123 Beige Melange
+389,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,12,0,9123,,Farbe Wand Innen,9123 Beige Melange
+390,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,12,0,9123,,Farbe Wand Innen,9123 Beige Melange
+391,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,12,0,9123,,Farbe Wand Innen,9123 Beige Melange
+392,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,12,0,9123,,Farbe Wand Innen,9123 Beige Melange
+393,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,13,0,9129,,Farbe Wand Innen,9129 Dunkelbeige
+394,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,13,0,9129,,Farbe Wand Innen,9129 Dunkelbeige
+395,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,13,0,9129,,Farbe Wand Innen,9129 Dunkelbeige
+396,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,13,0,9129,,Farbe Wand Innen,9129 Dunkelbeige
+397,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,13,0,9129,,Farbe Wand Innen,9129 Dunkelbeige
+398,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,14,0,9133,,Farbe Wand Innen,9133 Dunkelgrün
+399,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,14,0,9133,,Farbe Wand Innen,9133 Dunkelgrün
+400,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,14,0,9133,,Farbe Wand Innen,9133 Dunkelgrün
+401,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,14,0,9133,,Farbe Wand Innen,9133 Dunkelgrün
+402,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,14,0,9133,,Farbe Wand Innen,9133 Dunkelgrün
+403,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,15,0,9135,,Farbe Wand Innen,9135 Olivgrün
+404,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,15,0,9135,,Farbe Wand Innen,9135 Olivgrün
+405,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,15,0,9135,,Farbe Wand Innen,9135 Olivgrün
+406,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,15,0,9135,,Farbe Wand Innen,9135 Olivgrün
+407,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,15,0,9135,,Farbe Wand Innen,9135 Olivgrün
+408,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,16,0,9141,,Farbe Wand Innen,9141 Mittelblau
+409,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,16,0,9141,,Farbe Wand Innen,9141 Mittelblau
+410,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,16,0,9141,,Farbe Wand Innen,9141 Mittelblau
+411,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,16,0,9141,,Farbe Wand Innen,9141 Mittelblau
+412,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,16,0,9141,,Farbe Wand Innen,9141 Mittelblau
+413,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,17,0,9143,,Farbe Wand Innen,9143 Hellblau
+414,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,17,0,9143,,Farbe Wand Innen,9143 Hellblau
+415,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,17,0,9143,,Farbe Wand Innen,9143 Hellblau
+416,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,17,0,9143,,Farbe Wand Innen,9143 Hellblau
+417,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,17,0,9143,,Farbe Wand Innen,9143 Hellblau
+418,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,18,0,9153,,Farbe Wand Innen,9153 Hellgrau
+419,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,18,0,9153,,Farbe Wand Innen,9153 Hellgrau
+420,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,18,0,9153,,Farbe Wand Innen,9153 Hellgrau
+421,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,18,0,9153,,Farbe Wand Innen,9153 Hellgrau
+422,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,18,0,9153,,Farbe Wand Innen,9153 Hellgrau
+423,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,19,0,9157,,Farbe Wand Innen,9157 Grau
+424,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,19,0,9157,,Farbe Wand Innen,9157 Grau
+425,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,19,0,9157,,Farbe Wand Innen,9157 Grau
+426,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,19,0,9157,,Farbe Wand Innen,9157 Grau
+427,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,19,0,9157,,Farbe Wand Innen,9157 Grau
+428,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,20,0,9160,,Farbe Wand Innen,9160 Rot
+429,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,20,0,9160,,Farbe Wand Innen,9160 Rot
+430,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,20,0,9160,,Farbe Wand Innen,9160 Rot
+431,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,20,0,9160,,Farbe Wand Innen,9160 Rot
+432,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,20,0,9160,,Farbe Wand Innen,9160 Rot
+433,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,21,0,9161,,Farbe Wand Innen,9161 Dunkelrot
+434,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,21,0,9161,,Farbe Wand Innen,9161 Dunkelrot
+435,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,21,0,9161,,Farbe Wand Innen,9161 Dunkelrot
+436,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,21,0,9161,,Farbe Wand Innen,9161 Dunkelrot
+437,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,21,0,9161,,Farbe Wand Innen,9161 Dunkelrot
+438,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,21,0,9161,,Farbe Stoffblende,9161 Dunkelrot
+439,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,21,0,9161,,Farbe Stoffblende,9161 Dunkelrot
+440,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,21,0,9161,,Farbe Stoffblende,9161 Dunkelrot
+441,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,21,0,9161,,Farbe Stoffblende,9161 Dunkelrot
+442,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,21,0,9161,,Farbe Stoffblende,9161 Dunkelrot
+443,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,22,0,9225,,Farbe Wand Innen,9225 Beige
+444,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,22,0,9225,,Farbe Wand Innen,9225 Beige
+445,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,22,0,9225,,Farbe Wand Innen,9225 Beige
+446,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,22,0,9225,,Farbe Wand Innen,9225 Beige
+447,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,22,0,9225,,Farbe Wand Innen,9225 Beige
+448,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,22,0,9225,,Farbe Stoffblende,9225 Beige
+449,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,22,0,9225,,Farbe Stoffblende,9225 Beige
+450,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,22,0,9225,,Farbe Stoffblende,9225 Beige
+451,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,22,0,9225,,Farbe Stoffblende,9225 Beige
+452,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,22,0,9225,,Farbe Stoffblende,9225 Beige
+453,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,23,0,9229,,Farbe Wand Innen,9229 Dunkelbeige
+454,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,23,0,9229,,Farbe Wand Innen,9229 Dunkelbeige
+455,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,23,0,9229,,Farbe Wand Innen,9229 Dunkelbeige
+456,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,23,0,9229,,Farbe Wand Innen,9229 Dunkelbeige
+457,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,23,0,9229,,Farbe Wand Innen,9229 Dunkelbeige
+458,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,23,0,9229,,Farbe Stoffblende,9229 Dunkelbeige
+459,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,23,0,9229,,Farbe Stoffblende,9229 Dunkelbeige
+460,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,23,0,9229,,Farbe Stoffblende,9229 Dunkelbeige
+461,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,23,0,9229,,Farbe Stoffblende,9229 Dunkelbeige
+462,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,23,0,9229,,Farbe Stoffblende,9229 Dunkelbeige
+463,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,24,0,9230,,Farbe Wand Innen,9230 Seegrün
+464,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,24,0,9230,,Farbe Wand Innen,9230 Seegrün
+465,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,24,0,9230,,Farbe Wand Innen,9230 Seegrün
+466,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,24,0,9230,,Farbe Wand Innen,9230 Seegrün
+467,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,24,0,9230,,Farbe Wand Innen,9230 Seegrün
+468,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,24,0,9230,,Farbe Stoffblende,9230 Seegrün
+469,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,24,0,9230,,Farbe Stoffblende,9230 Seegrün
+470,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,24,0,9230,,Farbe Stoffblende,9230 Seegrün
+471,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,24,0,9230,,Farbe Stoffblende,9230 Seegrün
+472,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,24,0,9230,,Farbe Stoffblende,9230 Seegrün
+473,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,25,0,9234,,Farbe Wand Innen,9234 Apfelgrün
+474,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,25,0,9234,,Farbe Wand Innen,9234 Apfelgrün
+475,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,25,0,9234,,Farbe Wand Innen,9234 Apfelgrün
+476,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,25,0,9234,,Farbe Wand Innen,9234 Apfelgrün
+477,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,25,0,9234,,Farbe Wand Innen,9234 Apfelgrün
+478,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,25,0,9234,,Farbe Stoffblende,9234 Apfelgrün
+479,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,25,0,9234,,Farbe Stoffblende,9234 Apfelgrün
+480,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,25,0,9234,,Farbe Stoffblende,9234 Apfelgrün
+481,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,25,0,9234,,Farbe Stoffblende,9234 Apfelgrün
+482,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,25,0,9234,,Farbe Stoffblende,9234 Apfelgrün
+483,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,27,0,9242,,Farbe Wand Innen,9242 Dunkelblau
+484,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,27,0,9242,,Farbe Wand Innen,9242 Dunkelblau
+485,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,27,0,9242,,Farbe Wand Innen,9242 Dunkelblau
+486,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,27,0,9242,,Farbe Wand Innen,9242 Dunkelblau
+487,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,27,0,9242,,Farbe Wand Innen,9242 Dunkelblau
+488,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,27,0,9242,,Farbe Stoffblende,9242 Dunkelblau
+489,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,27,0,9242,,Farbe Stoffblende,9242 Dunkelblau
+490,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,27,0,9242,,Farbe Stoffblende,9242 Dunkelblau
+491,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,27,0,9242,,Farbe Stoffblende,9242 Dunkelblau
+492,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,27,0,9242,,Farbe Stoffblende,9242 Dunkelblau
+493,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,28,0,9253,,Farbe Wand Innen,9253 Hellgrau
+494,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,28,0,9253,,Farbe Wand Innen,9253 Hellgrau
+495,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,28,0,9253,,Farbe Wand Innen,9253 Hellgrau
+496,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,28,0,9253,,Farbe Wand Innen,9253 Hellgrau
+497,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,28,0,9253,,Farbe Wand Innen,9253 Hellgrau
+498,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,28,0,9253,,Farbe Stoffblende,9253 Hellgrau
+499,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,28,0,9253,,Farbe Stoffblende,9253 Hellgrau
+500,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,28,0,9253,,Farbe Stoffblende,9253 Hellgrau
+501,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,28,0,9253,,Farbe Stoffblende,9253 Hellgrau
+502,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,28,0,9253,,Farbe Stoffblende,9253 Hellgrau
+503,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,29,0,9255,,Farbe Wand Innen,9255 Dunkelgrau
+504,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,29,0,9255,,Farbe Wand Innen,9255 Dunkelgrau
+505,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,29,0,9255,,Farbe Wand Innen,9255 Dunkelgrau
+506,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,29,0,9255,,Farbe Wand Innen,9255 Dunkelgrau
+507,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,29,0,9255,,Farbe Wand Innen,9255 Dunkelgrau
+508,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,29,0,9255,,Farbe Stoffblende,9255 Dunkelgrau
+509,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,29,0,9255,,Farbe Stoffblende,9255 Dunkelgrau
+510,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,29,0,9255,,Farbe Stoffblende,9255 Dunkelgrau
+511,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,29,0,9255,,Farbe Stoffblende,9255 Dunkelgrau
+512,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,29,0,9255,,Farbe Stoffblende,9255 Dunkelgrau
+513,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,30,0,9285,,Farbe Wand Innen,9285 Rose
+514,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,30,0,9285,,Farbe Wand Innen,9285 Rose
+515,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F173,9,1,0,C,30,0,9285,,Farbe Wand Innen,9285 Rose
+516,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,30,0,9285,,Farbe Wand Innen,9285 Rose
+517,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F173,9,1,0,C,30,0,9285,,Farbe Wand Innen,9285 Rose
+518,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,30,0,9285,,Farbe Stoffblende,9285 Rose
+519,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,30,0,9285,,Farbe Stoffblende,9285 Rose
+520,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,30,0,9285,,Farbe Stoffblende,9285 Rose
+521,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,30,0,9285,,Farbe Stoffblende,9285 Rose
+522,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,30,0,9285,,Farbe Stoffblende,9285 Rose
+523,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,OBFL20,10,1,0,R,1,1,ST,,Oberfläche Stoffblende Eckstücke,Stoff
+524,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,OBFL20,10,1,0,R,1,1,ST,,Oberfläche Stoffblende Eckstücke,Stoff
+525,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,OBFL20,10,1,0,R,1,1,ST,,Oberfläche Stoffblende Eckstücke,Stoff
+526,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,OBFL20,10,1,0,R,1,1,ST,,Oberfläche Stoffblende Eckstücke,Stoff
+527,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,OBFL20,10,1,0,R,1,1,ST,,Oberfläche Stoffblende Eckstücke,Stoff
+528,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,1,1,ECON,,Stoffblende Eckstücke,Economy
+529,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,1,1,ECON,,Stoffblende Eckstücke,Economy
+530,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,1,1,ECON,,Stoffblende Eckstücke,Economy
+531,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_10,11,1,0,R,1,1,ECON,,Stoffblende Eckstücke,Economy
+532,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_10,11,1,0,R,1,1,ECON,,Stoffblende Eckstücke,Economy
+533,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,2,0,STAN,,Stoffblende Eckstücke,Standard
+534,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,2,0,STAN,,Stoffblende Eckstücke,Standard
+535,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,2,0,STAN,,Stoffblende Eckstücke,Standard
+536,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_10,11,1,0,R,2,0,STAN,,Stoffblende Eckstücke,Standard
+537,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_10,11,1,0,R,2,0,STAN,,Stoffblende Eckstücke,Standard
+538,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,3,0,COMF,,Stoffblende Eckstücke,Comfort
+539,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,3,0,COMF,,Stoffblende Eckstücke,Comfort
+540,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFKATEGORIE_10,11,1,0,R,3,0,COMF,,Stoffblende Eckstücke,Comfort
+541,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_10,11,1,0,R,3,0,COMF,,Stoffblende Eckstücke,Comfort
+542,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFKATEGORIE_10,11,1,0,R,3,0,COMF,,Stoffblende Eckstücke,Comfort
+543,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,2,0,82,,Stoffgr. Stoffblende Eckstücke,Polyester (82)
+544,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,2,0,82,,Stoffgr. Stoffblende Eckstücke,Polyester (82)
+545,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,2,0,82,,Stoffgr. Stoffblende Eckstücke,Polyester (82)
+546,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,2,0,82,,Stoffgr. Stoffblende Eckstücke,Polyester (82)
+547,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,2,0,82,,Stoffgr. Stoffblende Eckstücke,Polyester (82)
+548,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,3,0,91,,Stoffgr. Stoffblende Eckstücke,Trevira CS Twist (91)
+549,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,3,0,91,,Stoffgr. Stoffblende Eckstücke,Trevira CS Twist (91)
+550,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,3,0,91,,Stoffgr. Stoffblende Eckstücke,Trevira CS Twist (91)
+551,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,3,0,91,,Stoffgr. Stoffblende Eckstücke,Trevira CS Twist (91)
+552,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,3,0,91,,Stoffgr. Stoffblende Eckstücke,Trevira CS Twist (91)
+553,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,4,0,92,,Stoffgr. Stoffblende Eckstücke,Schurwolle Blazer Lite (92)
+554,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,4,0,92,,Stoffgr. Stoffblende Eckstücke,Schurwolle Blazer Lite (92)
+555,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,STOFFGR_16,12,1,0,R,4,0,92,,Stoffgr. Stoffblende Eckstücke,Schurwolle Blazer Lite (92)
+556,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,4,0,92,,Stoffgr. Stoffblende Eckstücke,Schurwolle Blazer Lite (92)
+557,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,STOFFGR_16,12,1,0,R,4,0,92,,Stoffgr. Stoffblende Eckstücke,Schurwolle Blazer Lite (92)
+558,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,1,0,8225,,Farbe Stoffblende,8225 Beige
+559,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,1,0,8225,,Farbe Stoffblende,8225 Beige
+560,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,1,0,8225,,Farbe Stoffblende,8225 Beige
+561,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,1,0,8225,,Farbe Stoffblende,8225 Beige
+562,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,1,0,8225,,Farbe Stoffblende,8225 Beige
+563,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,2,0,8234,,Farbe Stoffblende,8234 Apfelgrün
+564,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,2,0,8234,,Farbe Stoffblende,8234 Apfelgrün
+565,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,2,0,8234,,Farbe Stoffblende,8234 Apfelgrün
+566,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,2,0,8234,,Farbe Stoffblende,8234 Apfelgrün
+567,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,2,0,8234,,Farbe Stoffblende,8234 Apfelgrün
+568,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,3,0,8242,,Farbe Stoffblende,8242 Dunkelblau
+569,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,3,0,8242,,Farbe Stoffblende,8242 Dunkelblau
+570,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,3,0,8242,,Farbe Stoffblende,8242 Dunkelblau
+571,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,3,0,8242,,Farbe Stoffblende,8242 Dunkelblau
+572,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,3,0,8242,,Farbe Stoffblende,8242 Dunkelblau
+573,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,4,0,8243,,Farbe Stoffblende,8243 Hellblau
+574,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,4,0,8243,,Farbe Stoffblende,8243 Hellblau
+575,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,4,0,8243,,Farbe Stoffblende,8243 Hellblau
+576,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,4,0,8243,,Farbe Stoffblende,8243 Hellblau
+577,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,4,0,8243,,Farbe Stoffblende,8243 Hellblau
+578,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,5,0,8252,,Farbe Stoffblende,8252 Mittelgrau
+579,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,5,0,8252,,Farbe Stoffblende,8252 Mittelgrau
+580,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,5,0,8252,,Farbe Stoffblende,8252 Mittelgrau
+581,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,5,0,8252,,Farbe Stoffblende,8252 Mittelgrau
+582,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,5,0,8252,,Farbe Stoffblende,8252 Mittelgrau
+583,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,6,0,8253,,Farbe Stoffblende,8253 Grau
+584,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,6,0,8253,,Farbe Stoffblende,8253 Grau
+585,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,6,0,8253,,Farbe Stoffblende,8253 Grau
+586,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,6,0,8253,,Farbe Stoffblende,8253 Grau
+587,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,6,0,8253,,Farbe Stoffblende,8253 Grau
+588,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,7,0,8261,,Farbe Stoffblende,8261 Rot
+589,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,7,0,8261,,Farbe Stoffblende,8261 Rot
+590,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,7,0,8261,,Farbe Stoffblende,8261 Rot
+591,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,7,0,8261,,Farbe Stoffblende,8261 Rot
+592,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,7,0,8261,,Farbe Stoffblende,8261 Rot
+593,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,8,0,8267,,Farbe Stoffblende,8267 Brombeer
+594,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,8,0,8267,,Farbe Stoffblende,8267 Brombeer
+595,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,8,0,8267,,Farbe Stoffblende,8267 Brombeer
+596,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,8,0,8267,,Farbe Stoffblende,8267 Brombeer
+597,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,8,0,8267,,Farbe Stoffblende,8267 Brombeer
+598,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,9,0,8270,,Farbe Stoffblende,8270 Ocker
+599,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,9,0,8270,,Farbe Stoffblende,8270 Ocker
+600,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,9,0,8270,,Farbe Stoffblende,8270 Ocker
+601,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,9,0,8270,,Farbe Stoffblende,8270 Ocker
+602,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,9,0,8270,,Farbe Stoffblende,8270 Ocker
+603,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,10,0,8282,,Farbe Stoffblende,8282 Orange
+604,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,10,0,8282,,Farbe Stoffblende,8282 Orange
+605,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,10,0,8282,,Farbe Stoffblende,8282 Orange
+606,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,10,0,8282,,Farbe Stoffblende,8282 Orange
+607,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,10,0,8282,,Farbe Stoffblende,8282 Orange
+608,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,11,0,8291,,Farbe Stoffblende,8291 Anthrazit
+609,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,11,0,8291,,Farbe Stoffblende,8291 Anthrazit
+610,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,11,0,8291,,Farbe Stoffblende,8291 Anthrazit
+611,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,11,0,8291,,Farbe Stoffblende,8291 Anthrazit
+612,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,11,0,8291,,Farbe Stoffblende,8291 Anthrazit
+613,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,12,0,9123,,Farbe Stoffblende,9123 Beige Melange
+614,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,12,0,9123,,Farbe Stoffblende,9123 Beige Melange
+615,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,12,0,9123,,Farbe Stoffblende,9123 Beige Melange
+616,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,12,0,9123,,Farbe Stoffblende,9123 Beige Melange
+617,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,12,0,9123,,Farbe Stoffblende,9123 Beige Melange
+618,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,13,0,9129,,Farbe Stoffblende,9129 Dunkelbeige
+619,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,13,0,9129,,Farbe Stoffblende,9129 Dunkelbeige
+620,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,13,0,9129,,Farbe Stoffblende,9129 Dunkelbeige
+621,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,13,0,9129,,Farbe Stoffblende,9129 Dunkelbeige
+622,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,13,0,9129,,Farbe Stoffblende,9129 Dunkelbeige
+623,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,14,0,9133,,Farbe Stoffblende,9133 Dunkelgrün
+624,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,14,0,9133,,Farbe Stoffblende,9133 Dunkelgrün
+625,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,14,0,9133,,Farbe Stoffblende,9133 Dunkelgrün
+626,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,14,0,9133,,Farbe Stoffblende,9133 Dunkelgrün
+627,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,14,0,9133,,Farbe Stoffblende,9133 Dunkelgrün
+628,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,15,0,9135,,Farbe Stoffblende,9135 Olivgrün
+629,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,15,0,9135,,Farbe Stoffblende,9135 Olivgrün
+630,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,15,0,9135,,Farbe Stoffblende,9135 Olivgrün
+631,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,15,0,9135,,Farbe Stoffblende,9135 Olivgrün
+632,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,15,0,9135,,Farbe Stoffblende,9135 Olivgrün
+633,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,16,0,9141,,Farbe Stoffblende,9141 Mittelblau
+634,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,16,0,9141,,Farbe Stoffblende,9141 Mittelblau
+635,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,16,0,9141,,Farbe Stoffblende,9141 Mittelblau
+636,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,16,0,9141,,Farbe Stoffblende,9141 Mittelblau
+637,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,16,0,9141,,Farbe Stoffblende,9141 Mittelblau
+638,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,17,0,9143,,Farbe Stoffblende,9143 Hellblau
+639,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,17,0,9143,,Farbe Stoffblende,9143 Hellblau
+640,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,17,0,9143,,Farbe Stoffblende,9143 Hellblau
+641,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,17,0,9143,,Farbe Stoffblende,9143 Hellblau
+642,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,17,0,9143,,Farbe Stoffblende,9143 Hellblau
+643,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,18,0,9153,,Farbe Stoffblende,9153 Hellgrau
+644,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,18,0,9153,,Farbe Stoffblende,9153 Hellgrau
+645,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,18,0,9153,,Farbe Stoffblende,9153 Hellgrau
+646,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,18,0,9153,,Farbe Stoffblende,9153 Hellgrau
+647,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,18,0,9153,,Farbe Stoffblende,9153 Hellgrau
+648,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,19,0,9157,,Farbe Stoffblende,9157 Grau
+649,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,19,0,9157,,Farbe Stoffblende,9157 Grau
+650,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,19,0,9157,,Farbe Stoffblende,9157 Grau
+651,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,19,0,9157,,Farbe Stoffblende,9157 Grau
+652,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,19,0,9157,,Farbe Stoffblende,9157 Grau
+653,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,20,0,9160,,Farbe Stoffblende,9160 Rot
+654,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,20,0,9160,,Farbe Stoffblende,9160 Rot
+655,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F129,13,1,0,R,20,0,9160,,Farbe Stoffblende,9160 Rot
+656,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,20,0,9160,,Farbe Stoffblende,9160 Rot
+657,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F129,13,1,0,R,20,0,9160,,Farbe Stoffblende,9160 Rot
+658,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F500,14,1,0,C,1,1,KO,,Farbe Glas,Glas matt
+659,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F500,14,1,0,C,1,1,KO,,Farbe Glas,Glas matt
+660,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F500,14,1,0,C,1,1,KO,,Farbe Glas,Glas matt
+661,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F500,14,1,0,C,1,1,KO,,Farbe Glas,Glas matt
+662,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F500,14,1,0,C,1,1,KO,,Farbe Glas,Glas matt
+663,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F500,14,1,0,C,2,0,KR,,Farbe Glas,Glas klar
+664,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F500,14,1,0,C,2,0,KR,,Farbe Glas,Glas klar
+665,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F500,14,1,0,C,2,0,KR,,Farbe Glas,Glas klar
+666,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F500,14,1,0,C,2,0,KR,,Farbe Glas,Glas klar
+667,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F500,14,1,0,C,2,0,KR,,Farbe Glas,Glas klar
+668,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F38,15,1,0,C,1,1,AL,,Farbe Rahmen,Alufarbig
+669,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F38,15,1,0,C,1,1,AL,,Farbe Rahmen,Alufarbig
+670,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F38,15,1,0,C,1,1,AL,,Farbe Rahmen,Alufarbig
+671,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F38,15,1,0,C,1,1,AL,,Farbe Rahmen,Alufarbig
+672,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F38,15,1,0,C,1,1,AL,,Farbe Rahmen,Alufarbig
+673,IBDP001,C,KN,insidebase,0,1,BOXEN129_A,F38,15,1,0,C,2,0,WI,,Farbe Rahmen,Reinweiß
+674,IBDZ001,C,KN,insidebase,0,1,BOXEN129_A,F38,15,1,0,C,2,0,WI,,Farbe Rahmen,Reinweiß
+675,IBMP001,C,KN,insidebase,0,1,BOXEN129_A,F38,15,1,0,C,2,0,WI,,Farbe Rahmen,Reinweiß
+676,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F38,15,1,0,C,2,0,WI,,Farbe Rahmen,Reinweiß
+677,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F38,15,1,0,C,2,0,WI,,Farbe Rahmen,Reinweiß
+678,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,5,0,WI,,Farbe Tablar,Reinweiß
+679,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,5,0,WI,,Farbe Tablar,Reinweiß
+680,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,10,1,WI,,Farbe Kante Tablar,Reinweiß
+681,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,10,1,WI,,Farbe Kante Tablar,Reinweiß
+682,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,OBFL01_QB,16,1,0,C,1,1,KU,,Oberfläche Tablar,Kunststoff Uni
+683,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,OBFL01_QB,16,1,0,C,1,1,KU,,Oberfläche Tablar,Kunststoff Uni
+684,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,OBFL01_QB,16,1,0,C,2,0,KD,,Oberfläche Tablar,Kunststoff Dekor
+685,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,OBFL01_QB,16,1,0,C,2,0,KD,,Oberfläche Tablar,Kunststoff Dekor
+686,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,OBFL01_QB,16,1,0,C,3,0,TD1,,Oberfläche Tablar,Trendkollektion
+687,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,OBFL01_QB,16,1,0,C,3,0,TD1,,Oberfläche Tablar,Trendkollektion
+688,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,1,1,GK,,Farbe Tablar,Grau
+689,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,1,1,GK,,Farbe Tablar,Grau
+690,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,4,0,GK,,Farbe Kante Tablar,Grau
+691,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,4,0,GK,,Farbe Kante Tablar,Grau
+692,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,2,0,GW,,Farbe Tablar,Grauweiß
+693,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,2,0,GW,,Farbe Tablar,Grauweiß
+694,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,5,0,GW,,Farbe Kante Tablar,Grauweiß
+695,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,5,0,GW,,Farbe Kante Tablar,Grauweiß
+696,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,3,0,KH,,Farbe Tablar,Lichtgrau
+697,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,3,0,KH,,Farbe Tablar,Lichtgrau
+698,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,11,0,KH,,Farbe Kante Tablar,Lichtgrau
+699,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,11,0,KH,,Farbe Kante Tablar,Lichtgrau
+700,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,4,0,KT,,Farbe Tablar,Alufarbig
+701,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,4,0,KT,,Farbe Tablar,Alufarbig
+702,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,6,0,KT,,Farbe Kante Tablar,Alufarbig
+703,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,6,0,KT,,Farbe Kante Tablar,Alufarbig
+704,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,6,0,AA,,Farbe Tablar,Akazie
+705,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,6,0,AA,,Farbe Tablar,Akazie
+706,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,1,0,AA,,Farbe Kante Tablar,Akazie
+707,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,1,0,AA,,Farbe Kante Tablar,Akazie
+708,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,7,0,AO,,Farbe Tablar,Ahorn
+709,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,7,0,AO,,Farbe Tablar,Ahorn
+710,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,2,0,AO,,Farbe Kante Tablar,Ahorn
+711,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,2,0,AO,,Farbe Kante Tablar,Ahorn
+712,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,8,0,ET,,Farbe Tablar,Eiche Natur
+713,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,8,0,ET,,Farbe Tablar,Eiche Natur
+714,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,3,0,ET,,Farbe Kante Tablar,Eiche Natur
+715,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,3,0,ET,,Farbe Kante Tablar,Eiche Natur
+716,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,9,0,MB,,Farbe Tablar,Buche
+717,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,9,0,MB,,Farbe Tablar,Buche
+718,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,8,0,MB,,Farbe Kante Tablar,Buche
+719,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,8,0,MB,,Farbe Kante Tablar,Buche
+720,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,10,0,NM,,Farbe Tablar,Nussbaum
+721,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,10,0,NM,,Farbe Tablar,Nussbaum
+722,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,9,0,NM,,Farbe Kante Tablar,Nussbaum
+723,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,9,0,NM,,Farbe Kante Tablar,Nussbaum
+724,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,11,0,9R,,Farbe Tablar,Mittelgrau
+725,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,11,0,9R,,Farbe Tablar,Mittelgrau
+726,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,12,0,9R,,Farbe Kante Tablar,Mittelgrau
+727,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,12,0,9R,,Farbe Kante Tablar,Mittelgrau
+728,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,12,0,9S,,Farbe Tablar,Beton Optik
+729,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,12,0,9S,,Farbe Tablar,Beton Optik
+730,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,13,0,9S,,Farbe Kante Tablar,Beton Optik
+731,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,13,0,9S,,Farbe Kante Tablar,Beton Optik
+732,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,13,0,9T,,Farbe Tablar,Beige
+733,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F1_QB,17,1,0,C,13,0,9T,,Farbe Tablar,Beige
+734,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,14,0,9T,,Farbe Kante Tablar,Beige
+735,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,14,0,9T,,Farbe Kante Tablar,Beige
+736,IBPB001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,7,0,MA,,Farbe Kante Tablar,Anthrazit
+737,IBPD001,C,KN,insidebase,0,1,BOXEN129_B,F6_QB,18,1,0,C,7,0,MA,,Farbe Kante Tablar,Anthrazit

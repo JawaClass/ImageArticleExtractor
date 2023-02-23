@@ -1,0 +1,31 @@
+,article_nr,art_type,manufacturer,series,rel_obj_x,pos_class,prop_class,property,pos_prop,need_input,restrictable,scope,pos_pval,is_default,value_from,value_to,prop_text,pval_text
+0,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,OBFL01,1,1,0,C,1,1,KU,,Oberfläche,Kunststoff Uni
+1,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,OBFL01,1,1,0,C,2,0,KD,,Oberfläche,Kunststoff Dekor
+2,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F1,2,1,0,C,1,1,WI,,Farbe Platte,Reinweiß
+3,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F6,3,1,0,C,1,1,WI,,Farbe Plattenkante,Reinweiß
+4,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F1,2,1,0,C,2,0,KH,,Farbe Platte,Lichtgrau
+5,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F6,3,1,0,C,2,0,KH,,Farbe Plattenkante,Lichtgrau
+6,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F1,2,1,0,C,3,0,UM,,Farbe Platte,Uni Melange
+7,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F6,3,1,0,C,3,0,UM,,Farbe Plattenkante,Uni Melange
+8,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F1,2,1,0,C,4,0,AA,,Farbe Platte,Akazie
+9,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F6,3,1,0,C,4,0,AA,,Farbe Plattenkante,Akazie
+10,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F1,2,1,0,C,5,0,ET,,Farbe Platte,Eiche Natur
+11,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F6,3,1,0,C,5,0,ET,,Farbe Plattenkante,Eiche Natur
+12,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F1,2,1,0,C,6,0,UL,,Farbe Platte,Ulme
+13,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F6,3,1,0,C,6,0,UL,,Farbe Plattenkante,Ulme
+14,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,AD_AUSSCHNITT,4,1,0,C,1,0,AA2,,Adapterausschnitt,mit 2 Adapterausschnitten
+15,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,AD_AUSSCHNITT,4,1,0,C,2,0,AA3,,Adapterausschnitt,mit 3 Adapterausschnitten
+16,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F2,5,1,0,C,1,1,AL,,Farbe Gestell,Alufarbig
+17,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F2,5,1,0,C,2,0,KS,,Farbe Gestell,Schwarz
+18,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,F2,5,1,0,C,3,0,WI,,Farbe Gestell,Reinweiß
+19,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,H_VERSTELL,6,1,0,C,1,1,HV33,,Höhenverstellung,motorisch höhenverstellbar 640-1250 mm
+20,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,DISPLAY,7,1,0,C,1,1,DY0,,Display,Bedienfeld Auf-Ab
+21,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,SMART,8,1,0,R,1,0,SMA1,,Smartfähig,smartfähig
+22,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,SMART,8,1,0,R,2,1,SMA0,,Smartfähig,ohne Smartfunktion
+23,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,SEITENWANGE,9,1,0,C,1,1,SWA0,,Seitenverkleidung,ohne Seitenverkleidung
+24,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,KABELWANNE,11,1,0,C,1,1,KW21,,Kabelwanne,"Klappwanne, Metall"
+25,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,ELEKTRO,12,1,0,C,1,1,E01,,Elektrifizierung,"Steckdose, 3-fach/Stromzuführungskabel 3500 mm"
+26,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,LF_DEMONT,13,1,0,C,1,0,LF1,,Lieferung montiert/demontiert,demontiert im Karton/Flexipack
+27,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,ELEKTRO_LAND,14,0,0,R,1,0,GB,,Elektroanschluss länderspezifisch,England
+28,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,ELEKTRO_LAND,14,0,0,R,2,0,BE,,Elektroanschluss länderspezifisch,Belgien/Frankreich
+29,OTTN12880ASE,C,KN,jet2_holland,0,1,ACTIVET,ELEKTRO_LAND,14,0,0,R,3,0,CH,,Elektroanschluss länderspezifisch,Schweiz
