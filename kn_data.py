@@ -73,39 +73,49 @@ def token2article_data(article_id):
 
     if result_df.empty:
         return None
-    return result_df
+    return result_df.sort_values(['pos_prop', 'pos_pval', 'is_default'], ascending=True)
 
 
-def article_df2article_config(df):
-
-    cols = ['series', 'prop_class', 'property', 'pos_prop', 'need_input', 'restrictable', 'scope', 'value_from', 'pos_pval', 'article_nr',
-            'article_nr_upper']
+def print_article_data(df, info_level=0):
+    cols = ['property', 'need_input', 'restrictable', 'scope', 'is_default',
+            'value_from', 'value_to', 'prop_text', 'pval_text'] if info_level == 1 else \
+        ['need_input', 'property', 'value_from', 'prop_text', 'pval_text']
     df = df[cols]
+    print(df.to_string(index=False))
 
-    df = df[df['scope'] == 'C']
-    df = df.sort_values(['series', 'article_nr', 'pos_prop', 'pos_pval'], ascending=True)
-    df = df.reset_index(drop=True)
 
-    article_id = df['article_nr'].iloc[0]
 
-    #  print(df)
-
-    #print('article_id', type(article_id), article_id)
-
-    df_props = df.groupby('property', sort=False)
-
-    for group_id, group in df_props:
-        group = group.reset_index(drop=True)
-        #print('GROUP::', group_id)
-        #print(group.to_string(index=True))
-
-        #prop = group['property'].iloc[0]
-        #prop_values = group['value_from'].values
-
-        #print(prop, ':', prop_values)
-
-    #print('- ' * 200)
-    # input('.')
+#
+# def article_df2article_config(df):
+#
+#     cols = ['series', 'prop_class', 'property', 'pos_prop', 'need_input', 'restrictable', 'scope', 'value_from', 'pos_pval', 'article_nr',
+#             'article_nr_upper']
+#     df = df[cols]
+#
+#     df = df[df['scope'] == 'C']
+#     df = df.sort_values(['series', 'article_nr', 'pos_prop', 'pos_pval'], ascending=True)
+#     df = df.reset_index(drop=True)
+#
+#     article_id = df['article_nr'].iloc[0]
+#
+#     #  print(df)
+#
+#     #print('article_id', type(article_id), article_id)
+#
+#     df_props = df.groupby('property', sort=False)
+#
+#     for group_id, group in df_props:
+#         group = group.reset_index(drop=True)
+#         #print('GROUP::', group_id)
+#         #print(group.to_string(index=True))
+#
+#         #prop = group['property'].iloc[0]
+#         #prop_values = group['value_from'].values
+#
+#     #     print(prop, ':', prop_values)
+#     #
+#     # print('- ' * 200)
+#     # input('.')
 
 
 def extract_prop_value_from_text_line_df(df):
