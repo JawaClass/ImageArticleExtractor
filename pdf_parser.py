@@ -1,18 +1,29 @@
 import collections
 import itertools
 import logging
+import math
 import os
+import re
 from os import listdir
 from os.path import isfile, join
 from random import random, shuffle
+
+import numpy as np
 import pandas as pd
 import pdf2image
 import pytesseract  # C:\Program Files\Tesseract-OCR
 import cv2
 from fuzzywuzzy import fuzz
+
+import constants
+import opencv_helper
+from opencv_helper import draw_rectangle, draw_text, resize_img, draw_bounding_box_around_pandas, draw_line, show, \
+    bounding_box, image_size
 from kn_data import pre_condition_is_token_article, token2article_data, print_article_data
 
+# set pandas display options
 pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', None)
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 # C:\Program Files\Tesseract-OCR
@@ -20,64 +31,392 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 # pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 os.environ[
-    'TESSDATA_PREFIX'] = r'C:\Program Files\Tesseract-OCR\tessdata'  # r'C:\Users\masteroflich\Documents\tressdata'
+    'TESSDATA_PREFIX'] = r'C:\Users\masteroflich\Documents\tressdata'  # r'C:\Program Files\Tesseract-OCR\tessdata'  #  r'C:\Users\masteroflich\Documents\tressdata'
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-
-def word_similarity(word1, word2):
-    return fuzz.ratio(word1, word2)
+img_global = None
 
 
-def pdfs2jpgs():
-    input = 'pdfs'
-    output = 'images'
-    pdfs = [f for f in listdir(input) if isfile(join(input, f))]
-    for j, pdf in enumerate(pdfs):
-        images = pdf2image.convert_from_path(join(input, pdf))
-        for i, image in enumerate(images):
-            fname = f'pdf_{j}_page_{i}.jpg'
-            print('save', join(output, fname))
-            image.save(join(output, fname), "JPEG")
+def format_text_token(token_df, df):
+    # TODO: when we remove characters from token we also have to update left, top, width, height
+    token = token_df['text']
+    conf = token_df['conf']
+
+    if type(token) is str:
+        ...
+    elif token is None:
+        return None
+    elif np.isnan(token):
+        return None
+
+    token = token.strip('|!_.')
+
+    while '  ' in token:
+        token = token.replace('  ', ' ')
+
+    if re.match('^[_|.!]+$', token):
+        return None
+    if token == '':
+        return None
+    # TODO: proper way to filter the trash
+    if conf < 85 and len(token) < 5:
+        _ = next_inline_token(df, token_df)
+        # return None
+    return token
 
 
-#  def group_df_by_lines(df: pd.DataFrame) -> pd.DataFrame:
-def group_df_by_lines(df):
-    threshold = 3
-    group_name = 'line_nr'
-    # df['bottom_dif'] = df['bottom'].diff()
-    # df['top_dif'] = df['top'].diff()
-    df['new_group'] = (((df['bottom'] + df['top']) * 0.5).diff() > threshold)
+def ocr_parse(img_path, zoom_in_percentage):
+    """
+      Page segmentation modes (psm):
+      0    Orientation and script detection (OSD) only.
+      1    Automatic page segmentation with OSD.
+      2    Automatic page segmentation, but no OSD, or OCR. (not implemented)
+      3    Fully automatic page segmentation, but no OSD. (Default)
+      4    Assume a single column of text of variable sizes.
+      5    Assume a single uniform block of vertically aligned text.
+      6    Assume a single uniform block of text.
+      7    Treat the image as a single text line.
+      8    Treat the image as a single word.
+      9    Treat the image as a single word in a circle.
+     10    Treat the image as a single character.
+     11    Sparse text. Find as much text as possible in no particular order.
+     12    Sparse text with OSD.
+     13    Raw line. Treat the image as a single text line,
+           bypassing hacks that are Tesseract-specific.
+    """
+    global img_global
+    img_global = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
 
-    df[group_name] = (df['new_group']).cumsum()
+    # show(img_global)
 
-    grouped = df.groupby(group_name)
+    img_global = resize_img(img_global, zoom_in_percentage)
+    zoom_out_percentage = 1 / zoom_in_percentage
 
-    sorted_groups = grouped.apply(lambda x: x.sort_values('left', ascending=True))
+    custom_config = r'--oem 1 --psm 6'
+    df = pytesseract.image_to_data(img_global, output_type=pytesseract.Output.DATAFRAME, lang='deu',
+                                   config=custom_config)
+    # print_df(df)
+    img_global = resize_img(img_global, zoom_out_percentage)
+    df[['left', 'top', 'width', 'height']] = df[['left', 'top', 'width', 'height']].apply(
+        lambda x: x * zoom_out_percentage).astype('int64')
+    # show(img_global)
+    return df
 
-    return sorted_groups
+
+def line_gaps(df: pd.DataFrame):
+    t1 = df.groupby('line_num')['bottom'].apply(pd.DataFrame.max)
+    t2 = df.groupby('line_num')['top'].apply(pd.DataFrame.min).shift(-1)
+    # 22 ...
+    # print(t2 - t1)
+    # input('t2 - t1')
+    return t2 - t1
 
 
-# ä def group_df_by_chunks(df: pd.DataFrame) -> pd.DataFrame:
-def group_df_by_chunks(df):
-    df = df.copy()  # .reset_index(drop=True)
-    threshold = 55
-    group_name = 'chunk'
-    # df['bottom_dif'] = df['bottom'].diff()
-    # df['top_dif'] = df['top'].diff()
-    df['new_group'] = (((df['bottom'] + df['top']) * 0.5).diff() > threshold)
+def parse2lines(img_path, zoom_in_percentage=2, return_zoom=0.66):
+    """
+    given a path to a pdf image file
+    returns a pandas df with detected lines
+    """
+    global img_global
+    df = ocr_parse(img_path, zoom_in_percentage)
+    img_width, img_height = image_size(img_global)
+    df = df[df['top'] < img_height * 0.90]
+    df = df.dropna()
+    df = df.drop(['level', 'page_num', 'par_num', 'block_num'], axis=1)
+    df['bottom'] = df.apply(lambda row: row['top'] + row['height'], axis=1)
+    df['end'] = df.apply(lambda row: row['left'] + row['width'], axis=1)
+    # df['text'] = df['text'].apply(format_text_token)
+    df['old_text'] = df['text'].apply(lambda x: f'_{x}_')
+    df['text'] = df.apply(lambda row: format_text_token(row, df), axis=1)
+    df = df.dropna()
+    # TODO: spellchecker for tokens with low confidence
+    df = group_df_by_lines(df)
+    df = df.apply(lambda x: x.sort_values('word_num', ascending=True))
+    df = df.reset_index(drop=True)
+    df['uid'] = df.index
 
-    df[group_name] = (df['new_group']).cumsum()
+    df[['left', 'top', 'width', 'height', 'bottom', 'end']] = df[
+        ['left', 'top', 'width', 'height', 'bottom', 'end']].apply(
+        lambda x: x * return_zoom).astype('int64')
+    img_global = resize_img(img_global, return_zoom)
+    img_global = cv2.cvtColor(img_global, cv2.COLOR_GRAY2BGR)
 
-    grouped = df.groupby(group_name, group_keys=True)
+    return df, img_global
 
-    for group_name, group_df in grouped:
-        # print(f'Group name: {group_name}')
-        # print(f'Group DataFrame:\n{group_df}\n')
-        # ignore tiny boxes that contain no uselful information
-        if area_of_df(group_df) > 1000:
-            draw_bounding_box_around_pandas(group_df, color=(100, 200, 200), thickness=6)
 
-    return grouped.apply(lambda x: x)
+def group_df_by_lines(df, threshold=3):
+    """
+    necessary because default line_num from pytesseract has line_num
+    depenend on paragraphs when found which cant be turned off
+    """
+    global img_global
+    group_name = 'line_num'
+    df[group_name] = (((df['bottom'] * 0.47 + df['top'] * 0.53) * 0.5).diff() > threshold)
+    df[group_name] = (df[group_name]).cumsum()
+
+    rt = df.groupby(group_name, group_keys=False)
+    gaps = line_gaps(pd.concat([_[1] for _ in rt]))
+    for i, (line_nr, line_df) in enumerate(rt):
+        line_height = int(((line_df['top'] + line_df['bottom']) * 0.5).mean())
+        draw_text(img_global, (10, line_height), f'{line_nr} . {gaps[i]}')
+    return rt
+
+
+def merge_df_tokens(df: pd.DataFrame):
+    """
+    takes n rows of token_dfs an merges into one token_df
+    concatenates the token's text's and recalculates the
+    boundaries
+    """
+    return pd.Series({
+        'line_num': df['line_num'].min(),
+        'word_num': df['word_num'].min(),
+        'left': df['left'].min(),
+        'top': df['top'].min(),
+        'width': df['end'].max() - df['left'].min(),
+        'height': df['height'].max(),
+        'conf': df['conf'].mean(),
+        'text': ' '.join(df['text']),
+        'bottom': df['bottom'].max(),
+        'end': df['end'].max(),
+        'score': df['score'].mean(),
+        'gap': df['gap'].max(),
+        'column_group': df['column_group'].min()
+    })
+
+
+def token_df_row_intersection(token_df, df, buffer=3):
+    left, top, width, height = bounding_box(token_df)
+    left -= buffer
+    top -= buffer
+    width += buffer
+    height += buffer
+
+    mask = (df['top'] >= top) & (df['bottom'] <= (top + height))
+    return df[mask]
+
+
+def df_has_horizontal_intersection(df1, df2, buffer=3):
+    _, top1, _, height1 = bounding_box(df1)
+    _, top2, _, height2 = bounding_box(df2)
+
+    return (top2 <= top1 <= (top2 + height2)) or (top1 <= top2 <= (top1 + height1))
+
+    # mask1 = (df1['top'] >= top2) & (df1['bottom'] <= (top2 + height2))
+    # mask2 = (df2['top'] >= top1) & (df2['bottom'] <= (top1 + height1))
+    # return df1[(mask1) | (mask2)]
+
+
+def is_token_df_inside_df(token_df, df):
+    mask = (df['text'] == token_df['text']) & (df['left'] == token_df['left']) & (df['top'] == token_df['top'])
+    return not df[mask].empty
+
+
+def space_between_tokens_for_df_line(df):
+    if df is None or df.empty:
+        raise ValueError('space_for_df_line: df needs to be pd.Dataframe')
+
+    height = df['height'].max()
+    text = ' '.join(df['text'])
+
+    if not any(c.isupper() for c in text):
+        height = height * 1.66
+    # TODO: difficult number to assess
+    max_space_between_words = height * 0.60  # 0.75  # 15
+    return max_space_between_words
+
+
+def group_df_by_columns(df: pd.DataFrame):
+    """
+    find table header
+    make area beam downwards
+    select each line that gets hit from beam
+    and group text tokens that are outside of beam to
+    corresponding table column based on heuristics
+    """
+    global img_global
+    header_terms = {'Position', 'Pos', 'Pos.', 'Pos.Nr.', 'Menge', 'Bezeichnung', 'Bez', 'Artikelnummer',
+                    'Artikelnr', 'Artikelnr.', 'Preis', 'Gesamtpreis', 'G-Preis', 'Summe', 'Hinweis', 'Anzahl',
+                    'Artikel', 'Rabatt'}
+
+    def intersect(df_line: pd.DataFrame):
+        intersections = set(df_line['text']).intersection(header_terms)
+        df_line['score'] = len(intersections)
+        return df_line
+
+    df = df.groupby('line_num', group_keys=False).apply(intersect)
+
+    max_score = df['score'].max()
+
+    # no header found
+    if max_score == 0:
+        return
+
+    # filter the DataFrame by the maximum score
+    header_df = df[df['score'] == max_score].copy()
+
+    header_df['gap'] = header_df['left'] - header_df['end'].shift(1)
+
+    # calc this gap based on header text size
+    max_space_between_header_words = space_between_tokens_for_df_line(
+        header_df)  # header_df['height'].max() * 0.75  # 15
+    header_df['column_group'] = (header_df['gap'] > max_space_between_header_words).cumsum()
+    header_df = header_df.groupby('column_group', group_keys=False)
+
+    header_df = header_df.apply(merge_df_tokens)
+
+    beamed_down_dfs = header_df.apply(beam_down, axis=1, args=(df,))
+    beamed_down_dfs = pd.concat([_ for _ in beamed_down_dfs])
+
+    beamed_down_dfs['header_num'] = beamed_down_dfs['header_start'].rank(method='dense').astype(int)
+
+    # print(beamed_down_dfs.to_string(index=False))
+    # print(type(beamed_down_dfs))
+    grouped = beamed_down_dfs.groupby(['header_num', 'line_num'])
+    colors = itertools.cycle(constants.COLOR.values())
+    color = next(colors)
+    header_line_key = list(grouped.groups.keys())[0]
+    # print('header_line_num', header_line_key)
+    # input()
+
+    # print(df.to_string(index=False))
+    # input('df...')
+
+    # found colums by simple beams down,
+    # now search every column every line if there are tokens part of that line outwards of the beam
+    rt = []
+    remove_tokens = set()
+    for i, ((header_num, line_num), line_df) in enumerate(grouped):
+        if len(remove_tokens) > 0:
+            match = remove_tokens.intersection(set(line_df['uid'].values))  # line_df['uid'].isin(remove_tokens)
+            if match:
+                # print(type(match))
+                # print(match)
+                # print('----')
+
+                # print('remove', remove_tokens, 'from line', line_df['uid'].values, line_df['text'].values)
+
+                line_df = line_df[~ line_df['uid'].isin(match)]
+                # print('new linedf')
+                if line_df.empty:
+                    continue
+
+        is_header = header_line_key[1] == line_num
+        if is_header:
+            color = next(colors)
+        # last token of beamed column line
+        right_token_df = line_df.iloc[-1]
+
+        _ = next_inline_token(df, right_token_df)
+        while _:
+            next_token_df, gap = _
+            is_connected_by_sentence = gap <= space_between_tokens_for_df_line(line_df)
+            is_free_token = beamed_down_dfs[beamed_down_dfs['uid'] == next_token_df['uid']].empty
+            if is_connected_by_sentence or is_free_token:
+                # TODO: make link to to header token df instead (by uid)
+                next_token_df['header'] = line_df.iloc[-1]['header']
+                next_token_df['header_start'] = line_df.iloc[-1]['header_start']
+                next_token_df['header_num'] = line_df.iloc[-1]['header_num']
+                line_df = concat_pandas(line_df, next_token_df)
+                remove_tokens.add(next_token_df['uid'])
+                _ = next_inline_token(df, next_token_df)
+            else:
+                _ = None
+
+        rt.append(line_df)
+
+        draw_bounding_box_around_pandas(img_global, line_df, color, thickness=1)
+        # print('\n' * 2)
+        # input()
+    return pd.concat(rt)
+    # input('---')
+
+
+def concat_pandas(p1: pd.DataFrame, p2: pd.DataFrame):
+    if type(p1) not in [pd.DataFrame, pd.Series]:
+        raise ValueError('p1 is not pandas')
+    if type(p2) not in [pd.DataFrame, pd.Series]:
+        raise ValueError('p2 is not pandas')
+    if type(p1) is pd.Series:
+        p1 = p1.to_frame().T
+    if type(p2) is pd.Series:
+        p2 = p2.to_frame().T
+    # print(f'concat_pandas: p1: {type(p1)} , p2: {type(p2)}')
+    rt = pd.concat([p1, p2], ignore_index=True)
+    # print(rt)
+    # input()
+    return rt
+
+
+def beam_down(col_header: pd.Series, df_lines: pd.DataFrame = None):
+    """
+    takes a table header and the rest of the the df
+    returns the text tokens that horizontally intersect with a vertical beam
+    of the header left and right dimension
+    """
+    # print('beam_down:')
+    # print(type(col_header))
+    # print(col_header.to_string(index=False))
+
+    # return 'COLUMN:HII'
+    header_line_left = col_header['left']
+    header_line_text = col_header['text']
+    # print('_'*5, 'BEAM COLUMN', header_line_text, '_'*5)
+    header_line_num = col_header['line_num']
+    beam_left = col_header['left'] - 10
+    beam_right = col_header['end'] + 10
+
+    df_lines_col = df_lines.copy()
+    df_lines_col = df_lines_col[df_lines_col['line_num'] >= header_line_num]
+    mask_start = ((df_lines_col['left'] >= beam_left) | (df_lines_col['end'] >= beam_left))
+    mask_end = (df_lines_col['left'] <= beam_right)
+    df_lines_col = df_lines_col[mask_start & mask_end]
+
+    df_lines_col = df_lines_col.reset_index(drop=True).reset_index(drop=True)
+    # print('beam returns 1')
+    # print(type(df_lines_col))
+    # print(df_lines_col)
+    # input('beam returns 2')
+    df_lines_col['header'] = header_line_text
+    df_lines_col['header_start'] = header_line_left
+
+    # print(df_lines_col)
+    # print('return df_lines_col', type(df_lines_col))
+    # input(f'beam_down of {header_line_text}')
+    return df_lines_col
+
+
+def next_inline_token(df: pd.DataFrame, token_df):
+    return query_inline_token(df, token_df, 1)
+
+
+def prev_inline_token(df: pd.DataFrame, token_df):
+    return query_inline_token(df, token_df, -1)
+
+
+def query_inline_token(df: pd.DataFrame, token_df, offset):
+    token_num = token_df['word_num']
+    line_num = token_df['line_num']
+    df = df[df['line_num'] == line_num]
+    next_token_df = df[df['word_num'] == token_num + offset]
+
+    if next_token_df.empty:
+        return None
+    next_token_df = next_token_df.iloc[0]
+
+    # text = token_df['text']
+    # next_token = next_token_df['text']
+    gap = gap_between_tokens(token_df, next_token_df)
+    # print(f'next_token from: {text} -> {next_token} ---- (gap: {gap})')
+    return next_token_df, gap
+
+
+def gap_between_tokens(token1: pd.DataFrame, token2: pd.DataFrame):
+    if type(token1) is pd.DataFrame:
+        token1 = token1.iloc[0]
+    if type(token2) is pd.DataFrame:
+        token2 = token2.iloc[0]
+    return token2['left'] - token1['end']
 
 
 def area_of_df(df):
@@ -85,383 +424,165 @@ def area_of_df(df):
     return width * height
 
 
-def find_table_header(df):
-    search_terms = ['Position', 'Pos', 'Pos.', 'Pos.Nr.', 'Menge', 'Bezeichnung', 'Bez', 'Artikelnummer', 'Artikelnr',
-                    'Artikelnr.', 'Preis', 'Gesamtpreis', 'G-Preis', 'Summe', 'Hinweis', 'Anzahl', 'Artikel', 'Rabatt']
-    search_terms = [_.upper() for _ in search_terms]
-    found = df[df['text_upper'].isin(search_terms)]
-
-    if found.empty:
-        # print('could not find table header')
-        return None
-    else:
-        groups = found['line_nr'].values
-        # print('groups')
-        # print(groups)
-        count_dict = collections.Counter(groups)
-
-        best_group_id = max(count_dict.items(), key=lambda x: x[1])[0]
-
-        rt = df[df['line_nr'] == best_group_id].copy()  # copy to avoid SettingWithCopyWarning
-
-        rt['end'] = rt['left'] + rt['width']
-
-        rt['previous_end'] = (rt['left'] + rt['width']).shift(1)
-
-        rt['new_group'] = ((rt['left'] - rt['previous_end']) > 11).cumsum()
-
-        def combine_rows(df) -> pd.Series:
-            x = df['left'].min()
-            y = df['top'].min()
-            h = df['height'].max()
-
-            most_right = df[df['left'] == df['left'].max()].iloc[0]
-            w = most_right['left'] + most_right['width'] - x
-
-            text = ' '.join(df['text'])
-
-            return pd.Series([x, y, w, h, text])
-
-        groups = rt.groupby('new_group')
-        result = groups.apply(combine_rows)  # groups.agg(combine_rows)
-        result.columns = ['left', 'top', 'width', 'height', 'text']
-        result = result.reset_index()
-
-        # print('find_table_header')
-        # print(result)
-        # input('--')
-
-        return result
-
-
-def bounding_box(df):  # -> 'left, top, width, height':
-
-    top = df[df['top'] == df['top'].min()]['top'].iloc[0]
-    left = df[df['left'] == df['left'].min()]['left'].iloc[0]
-    bottom = df[df['bottom'] == df['bottom'].max()]['bottom'].iloc[0]
-    end = df[df['end'] == df['end'].max()]['end'].iloc[0]
-
-    width = end - left
-    height = bottom - top
-
-    # print(left, top, width, height)
-
-    return left, top, width, height
-
-
-def find_columns(df):  # -> pd.DataFrame:
-    headers = []
-    for index, row in df.iterrows():
-        text = row['text']
-        x, y, w, h = row['left'], row['top'], row['width'], row['height']
-
-        headers.append((x, y, w, h, text))
-        # draw_rectangle(x, y, w, h, color=(255, 0, 0), thickness=3)
-
-    last = headers[-1]
-    # add padding to last column
-    last_col_padding = 50
-    headers.append((last[0] + last[2] + last_col_padding, last[1], last[2], last[3]))
-    lst = list(headers)
-
-    colors = itertools.cycle([(255, 0, 0), (0, 255, 0), (0, 0, 255)])
-    data = []
-    for start, end in zip(lst, lst[1:]):
-        # print(f"Pair: {start}, {end}")
-        offset = 0
-        x, y = start[0], min([start[1], end[1]])
-        w, h = end[0] - x, (start[3] + end[3]) // 2
-
-        text = start[4]
-
-        # print(x,y,w,h)
-
-        draw_rectangle(x, y, w, h, color=next(colors), thickness=5)
-        data.append((x, y, w, h, text))
-        # yield x, y, w, h
-    return pd.DataFrame(data, columns=['left', 'top', 'width', 'height', 'text'])
-
-
-def search_columns(columns, df):
-    # print('search_columns')
-    # print(columns)
-    # input('ooooooooooo')
-    padding = 15
-    vertical_cut = columns['top'].min() - padding
-    # print('vertical_cut', vertical_cut)
-    df = df[df['top'] > vertical_cut]
-    # group df by columns
-
-    header_2_df_chunks = {}
-
-    for index, col in columns.iterrows():
-
-        left, top, width, height, text = col
-        left -= padding
-        # width += padding
-
-        is_inside = (df['left'] >= left) & ((df['left'] + df['width']) <= (left + padding + width))
-        df_col = df[is_inside].copy()
-
-        df_col['header_text'] = text
-        draw_bounding_box_around_pandas(df_col, color=(255, 255, 0))
-
-        header_2_df_chunks[text] = divide_columns_vertical(df_col)
-
-        # draw text tokens
-        for i, row in df_col.iterrows():
-            draw_bounding_box_around_pandas(row)
-
-    align_col_chunks_horizontally(header_2_df_chunks)
-
-
-def boxes_intersect(box1, box2):
-    padding = 8
-    x1, y1, w1, h1 = box1
-    x2, y2, w2, h2 = box2
-    y1 -= padding
-    y2 -= padding
-    h1 += padding
-    h2 += padding
-
-    if y1 < y2 + h2 and y1 + h1 > y2:
-        return True
-    return False
-
-
-def align_col_chunks_horizontally(cols):  # : dict[pd.DataFrame]
-
-    # hard guessing this is the column containing the important article information
-    article_description_col = max(cols.items(), key=lambda kv: kv[1].size)
-    header, df = article_description_col
-
-    other_cols = {k: v for k, v in cols.items() if k != header}
-
-    # group by chunk_id index
-    chunks = df.groupby(level=0)
-
-    rows = []
-
-    for chunk_id, chunk_df in chunks:
-        # print(f'- GROUP #{chunk_id}')
-        # print(chunk_df)
-        box = bounding_box(chunk_df)
-
-        rows.append(chunk_df.copy())
-
-        for other_header, other_df in other_cols.items():
-            other_chunks = other_df.groupby(level=0)
-            for other_chunk_id, other_chunk_df in other_chunks:
-                other_box = bounding_box(other_chunk_df)
-
-                if boxes_intersect(box, other_box):
-                    rows[-1] = pd.concat([rows[-1], other_chunk_df], axis=0)
-
-    # skip header row
-    # rows = rows[1:]
-    for row_nr, row_df in enumerate(rows):
-        # print(f'row #{row_nr}')
-        # print(row_df)
-
-        # input(':::')
-        df_area_size = area_of_df(row_df)
-        draw_bounding_box_around_pandas(row_df, (200, 0, 200), 10)
-        left, top, _, _ = bounding_box(row_df)
-        draw_text((left + 10, top + 50), f'row #{row_nr}')
-
-        text_tokens = row_df['text'].values
-
-        possible_article_tokens = [_ for _ in text_tokens if pre_condition_is_token_article(_)]
-
-        # print('text_tokens')
-        # print(text_tokens)
-        # print('possible_article_tokens')
-        # print(possible_article_tokens)
-
-        if len(' '.join(text_tokens)) > 100 and df_area_size > 200_000 and len(possible_article_tokens) == 0:
-            logging.debug(f'No possible article_token found in text_token but row seemed plausible!\n{text_tokens}')
-
-        articles_df = [_ for _ in [token2article_data(_) for _ in possible_article_tokens] if _ is not None]
-
-        if len(possible_article_tokens) != len(articles_df):
-            logging.debug(
-                f'token found that passed possible_article_tokens() but not found in data {possible_article_tokens}')
-        if len(articles_df) > 1:
-            logging.debug(
-                f'found {len(articles_df)} article_dfs for tokens (expected: 1): {possible_article_tokens}')
-
-        if len(articles_df) > 1:
-            logging.debug(f'len(articles_df) == {len(articles_df)}. expected: 1')
-        elif len(articles_df) == 1:
-            article_df = articles_df[0]
-            article_nr = article_df['article_nr'].iloc[0]
-            print('article', article_nr)
-            # print_article_data(article_df)
-            pdf_prop2val = row_df2property_value_lines(row_df)
-            mask = (article_df['scope'] == 'C') & (article_df['need_input'] == 1)
-            configurable_props2text_df = article_df[mask][['property', 'prop_text']]
-
-            configurable_props2text_df = configurable_props2text_df.drop_duplicates(subset=['property'])
-
-            configurable_props2text_df['seen'] = 0
-            configurable_props2text_df = configurable_props2text_df.copy()
-            for index, (ofml_prop, ofml_prop_text, seen) in configurable_props2text_df.iterrows():
-                for pdf_prop_text, pdf_val_text in pdf_prop2val:
-                    similarity = word_similarity(pdf_prop_text, ofml_prop_text)
-                    if similarity > 90:
-                        mask = configurable_props2text_df['property'] == ofml_prop
-                        configurable_props2text_df.loc[mask, 'seen'] = 1
-
-            print(configurable_props2text_df)
-
-            mean_scope_c_props_seen = configurable_props2text_df['seen'].describe()['mean']
-            not_found_props = configurable_props2text_df[configurable_props2text_df['seen'] == 0]['property']
-            print(f'Properties not found: {not_found_props.values}')
-            print(f'Properties found: {mean_scope_c_props_seen*100}%')
-
-            print('\n' * 2)
-
-
-
-def row_df2property_value_lines(df):
-    df_lines = df.groupby(df['line_nr'])
-    df_lines_list = list(iter(df_lines))
-    line_contains_prop = lambda x: x is not None and ':' in x
-    df2joined_text = lambda x: None if x is None else ' '.join(x['text'].values)
+def height_of_df(df):
+    left, top, width, height = bounding_box(df)
+    return height
+
+
+def group_df_by_line_gaps(df: pd.DataFrame, median_line_gap):
+    global img_global
+    gaps = line_gaps(df)
+    gaps = gaps.tolist()
+    groups = df.groupby('line_num')
     rt = []
-    for i, _ in enumerate(df_lines_list):
+    group = []
+    column_row_cnt = 0
 
-        prev_line = None if i == 0 else df_lines_list[i - 1][1]
-        line = df_lines_list[i][1]
-        next_line = None if i == len(df_lines_list) - 1 else df_lines_list[i + 1][1]
-        prev_line_text = df2joined_text(prev_line)
-        line_text = df2joined_text(line)
-        next_line_text = df2joined_text(next_line)
+    print('median_line_gap', median_line_gap)
+    for i, (group_name, group_df) in enumerate(groups):
+        gap = gaps[i]
+        group_df['GAP'] = gap
+        group_df['column_row_cnt'] = column_row_cnt
+        group.append(group_df)
 
-        single_line_prop = (line_contains_prop(line_text) and line_contains_prop(next_line_text)) or i == len(
-            df_lines_list) - 1
+        draw_line(img_global, (200, 200), (200, 200 + int(median_line_gap)))
 
-        double_line_prop = line_contains_prop(prev_line_text) and (not line_contains_prop(line_text))
+        if gap > median_line_gap and len(group) > 0:
+            rt.append(pd.concat(group.copy()))
+            # draw_bounding_box_around_pandas(img_global, pd.concat(group.copy()), color=(44,22,200), thickness=4)
+            column_row_cnt += 1
+            group = []
 
-        found_new_prop = single_line_prop or double_line_prop
-        if found_new_prop:
-            if double_line_prop:
-                line_text = ' '.join([prev_line_text, line_text])
+    rt.append(pd.concat(group.copy()))
+    rt = pd.concat(rt)
 
-            prop, *value = line_text.split(':', maxsplit=1)
-            value = tokenize_string(' '.join([_.strip() for _ in value]))
-            rt.append((prop, value))
-            # print(f'PROP: {prop}, VALUE: {value}')
+
     return rt
 
 
-def tokenize_string(string):
-    while (' ' * 2) in string:
-        string = string.replace(' ' * 2, '')
-    return string.split(' ')
-
-
-def divide_columns_vertical(df):
-    # print('divide_columns_vertical')
-    # print(df)
-    header_text = df['header_text'].iloc[0]
-    df = group_df_by_chunks(df)
-    # print('column_header::', header_text)
-    # print('description')
-    # print(df.describe())
-    # print(df)
-    return df
-    # input('---')
-
-
-def resize_img(img, scale_percent):
-    width = int(img.shape[1] * scale_percent / 100)
-    height = int(img.shape[0] * scale_percent / 100)
-    dim = (width, height)
-
-    return cv2.resize(img, dim, interpolation=cv2.INTER_AREA)
-
-
-def show(img, window_name):
-    cv2.namedWindow(window_name)
-    cv2.imshow(window_name, resize_img(img, 50))
-
-
-def draw_text(pos, text):
-    # Set the font and other parameters for the text
-    font = cv2.FONT_HERSHEY_SIMPLEX
-    # org = (50, 50)
-    font_scale = 1
-    color = (0, 0, 255)
-    thickness = 2
-
-    (text_width, text_height) = cv2.getTextSize(text, font, fontScale=font_scale, thickness=thickness)[0]
-    box_coords = ((pos[0], pos[1] - text_height - 10), (pos[0] + text_width + 10, pos[1]))
-
+def make_table_rows(df: pd.DataFrame):
     global img_global
+    print('divided_columns')
 
-    # Draw the white background rectangle
-    cv2.rectangle(img_global, box_coords[0], box_coords[1], (0, 0, 0), cv2.FILLED)
+    header_groups = df.groupby('header', group_keys=False)
 
-    # Draw the text on the image
-    cv2.putText(img_global, text, pos, font, font_scale, color, thickness)
+    def f(x):
+        x['LEN'] = len(list(x['text'].values))
+        return x
+
+    header_groups = header_groups.apply(f)
+
+    max_header_name = 'Artikelnummer'
+    max_token_len = header_groups['LEN'].max()
+    max_header_name = header_groups[header_groups['LEN'] == max_token_len]['header'].iloc[0]
+
+    # print('header_groups')
+    # print(header_groups)
+    # input('header_groups222')
+    groups = df.groupby('column_row_cnt')
+
+    # df.groupby(['header', 'column_row_cnt']) -> 25
+    # df.groupby(column_row_cnt') -> 5
+    # for nr, g in groups:
+    #     print(nr)
+    #     print(g)
+    #     print('\n'*2)
+    # print('LEN_GROUPS', len(groups))
+    # input('-.----')
+    rt = []
+    seen = set()
+    for index, (group_nr, group_df) in enumerate(groups):
+        # print('group_df')
+        # print(group_df)
+        # input('group_df____')
+        maxed = group_df.groupby('header').apply(lambda x: (x['header'].iloc[0], height_of_df(x), x))
+        _, _, max_df = max(maxed, key=lambda x: x[1])
+        if group_df[group_df['header'] == max_header_name].empty:
+            continue
+        intersection = token_df_row_intersection(max_df, df)
+
+        intersection = intersection[~ intersection['uid'].isin(seen)]
+        seen.update(set(intersection['uid'].values))
+        if intersection.empty:
+            continue
+
+        # print(intersection)
+        # intersection['table_row_id'] = index
+        rt.append(intersection)
+        draw_bounding_box_around_pandas(img_global, intersection)
+        # print('INTERSECTIO', index)
+        # print(intersection.to_string(index=False))
+        # print('------> from')
+        # print(intersection.to_string(index=False))
+        # input('____')
+
+    # print('key::')
+    # print(pd.DataFrame(rt).columns)
+    # print(type(pd.DataFrame(rt)))
+    rt = pd.concat(rt).sort_values(['header_num', 'line_num', 'word_num'])
+    # rt.groupby('table_row_id').apply(lambda x: draw_bounding_box_around_pandas(img_global, x, color=next(iter(constants.COLOR.values()))))
+    # exit(0)
+    return rt
 
 
-def draw_rectangle(x, y, w, h, color=(0, 0, 255), thickness=1):
+def print_df(df):
+    print('print_df[1]')
+    print(df.to_string(index=False))
+    input('print_df[2]')
+
+
+def combine_col_rows_2_table_rows(df):
+    # TODO: fix this mess
     global img_global
+    # print('combine_col_rows_2_table_rows')
+    result = []
+    rows = df.groupby(['header', 'column_row_cnt'])
+    seen = set()
+    return_value_tables_row = []
+    table_rows_index = 0
+    for group_index, group_df in rows:
+        group = set()
+        df_droup = []
+        intersections_counter = 0
+        for other_group_index, other_group_df in rows:
+            if group_index == other_group_index:
+                continue
+            if df_has_horizontal_intersection(group_df, other_group_df):
+                intersections_counter += 1
+                if group_index not in group:
+                    df_droup.append(group_df)
+                if other_group_index not in group:
+                    df_droup.append(other_group_df)
+                if group_index not in seen:
+                    group.add(group_index)
+                if other_group_index not in seen:
+                    group.add(other_group_index)
 
-    cv2.rectangle(img_global, (x, y), (x + w, y + h), color, thickness=thickness)
-
-    # (365, 1127, 300, 335,
-    # cv2.rectangle(img_global, (365, 1127), (365+3, 1127+335), color, thickness=30)
-
-
-def draw_bounding_box_around_pandas(df, color=(0, 0, 255), thickness=1):
-    if type(df) is pd.DataFrame:
-        box = bounding_box(df)
-        draw_rectangle(*box, color=color, thickness=thickness)
-    elif type(df) is pd.Series:
-        box = df['left'], df['top'], df['width'], df['height']
-        draw_rectangle(*box, color=color, thickness=thickness)
-
-
-def get_images():
-    return [join('images', _) for _ in listdir('images')]
-
-
-img_global = None
-
-
-def parse(img_path):
-    print('IMAGE_PATH::', img_path)
-    img = cv2.imread(img_path)
-    # resize img for better accuracy
-    img = resize_img(img, 200)
-    global img_global
-    img_global = img
-    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    print('pytesseract 1')
-    # Run OCR on the pre-processed image
-    custom_config = r'--oem 1 --psm 6'
-    df = pytesseract.image_to_data(gray, output_type=pytesseract.Output.DATAFRAME, lang='deu', config=custom_config)
-    print('pytesseract 2')
-
-    df = df.dropna()
-    df = df.drop(['level', 'page_num', 'block_num', 'par_num', 'line_num', 'word_num'], axis=1)
-    # remove weird tokens with only white space. some had strangely large bounding boxes
-    df['text'] = df['text'].str.strip()
-    df = df[df['text'].str.len() > 0]
-    df['text_upper'] = df['text'].apply(lambda x: str(x).upper())
-    df['text_test'] = df['text'].apply(lambda x: f'_{str(x)}_')
-    df['bottom'] = df.apply(lambda row: row['top'] + row['height'], axis=1)
-    df['end'] = df.apply(lambda row: row['left'] + row['width'], axis=1)
-    df = df.sort_values(['bottom'], ascending=True)
-
-    df = group_df_by_lines(df)
-    header_df = find_table_header(df)
-    if header_df is not None:
-        columns = find_columns(header_df)
-        search_columns(columns, df)
-        # print('show img', img_global)
-        return img_global.copy()
-    return img
+                seen.add(group_index)
+                seen.add(other_group_index)
+            else:
+                ...
+                # print('no intersection ;(')
+                # input()
+        if intersections_counter == 0:
+            # print('NO AT ALL!!!!!')
+            # input()
+            df_droup.append(group_df)
+            group.add(group_index)
+        if group and group not in result:
+            result.append(group.copy())
+            # print('group')
+            # print(group)
+            yeaah = pd.concat(df_droup)
+            yeaah['table_row'] = table_rows_index
+            table_rows_index += 1
+            return_value_tables_row.append(yeaah)
+            draw_bounding_box_around_pandas(img_global, yeaah, color=(44,22,200), thickness=4)
+            #print(yeaah.to_string(index=False))
+            #print('- ' * 40)
+            #input()
+    rt = pd.concat(return_value_tables_row)
+    # print(rt.to_string(index=False))
+    # print('rt')
+    # input()
+    return rt

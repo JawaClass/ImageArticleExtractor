@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6c9aa99-cbd0-4d8f-be5b-90e832d54308" name="Default Changelist" comment="" />
+    <list default="true" id="c6c9aa99-cbd0-4d8f-be5b-90e832d54308" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/language_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf_parser_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf_parser.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +53,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\masteroflich\PycharmProjects\ImageArticleExtractor" />
       <recent name="C:\Users\masteroflich\PycharmProjects\ImageArticleExtractor\pdfs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\masteroflich\PycharmProjects\ImageArticleExtractor\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ImageArticleExtractor" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ImageArticleExtractor" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,6 +105,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pdf_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageArticleExtractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdf_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.pdf_parser" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -111,6 +150,16 @@
       <workItem from="1676968494830" duration="12395000" />
       <workItem from="1676998298211" duration="10779000" />
       <workItem from="1677062222419" duration="17893000" />
+      <workItem from="1677181940128" duration="2050000" />
+      <workItem from="1677184792483" duration="1048000" />
+      <workItem from="1677232904075" duration="37031000" />
+      <workItem from="1677319436274" duration="31140000" />
+      <workItem from="1677404794364" duration="26432000" />
+      <workItem from="1677497852171" duration="14433000" />
+      <workItem from="1677527395702" duration="5099000" />
+      <workItem from="1677572097052" duration="20968000" />
+      <workItem from="1677602896434" duration="3219000" />
+      <workItem from="1677659453327" duration="24550000" />
     </task>
     <servers />
   </component>
@@ -129,7 +178,18 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pdf_parser.py</url>
+          <line>426</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ImageArticleExtractor$main.coverage" NAME="main Coverage Results" MODIFIED="1677103900717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ImageArticleExtractor$main.coverage" NAME="main Coverage Results" MODIFIED="1677693744453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
