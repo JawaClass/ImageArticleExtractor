@@ -1,11 +1,14 @@
 import pandas as pd
 
-from kn_data import pre_condition_is_token_article
+from kn_data import pre_condition_is_token_article, token2article_data
 
 
 def assign_df_is_article(df: pd.DataFrame):
     is_token_article = df['text'].apply(pre_condition_is_token_article)
     df['is_token_article'] = is_token_article
+
+    # df['is_token_article2'] = df[df['is_token_article'] == True]['text'].apply(lambda x: len(x) > 6)
+
     return df
 
 
