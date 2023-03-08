@@ -403,6 +403,7 @@ class OrderParser:
             draw_rectangle(img, *[int(_ * 2.78) for _ in [x, y, w, h]], thickness=1)
 
     def parse_document(self):
+        article_parser = None
         for page_nr, page in enumerate(list(self.document.pages())):
             print('page', page_nr)
             page: fitz.Page = page
@@ -432,12 +433,8 @@ class OrderParser:
                 continue
             counter_configurations = 0
             colors = constants.make_color_cycle()
-            # for block_nr, block in enumerate(self.blocks):
-            index = 0
-            blocks = list(self.blocks)
-            while index < len(blocks):
-                block_nr, block = blocks[index]
-                index += 1
+
+            for block_nr, block in enumerate(self.blocks):
                 color = next(colors)
                 cv2.circle(self.image_cv[page_nr], center(block), 5, color, -1)
 
@@ -458,7 +455,6 @@ class OrderParser:
                     print(f'parse configuration for _{article_number}_')
                     article_parser = ArticleParser(block, self.blocks, article_number)
                     configuration = article_parser.parse_configuration()
-                    index += len(article_parser.blocks_visited) - 1
                     # print_panda(configuration)
                     if configuration is not None and not configuration.empty:
                         counter_configurations += 1

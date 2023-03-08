@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c9aa99-cbd0-4d8f-be5b-90e832d54308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OrderParser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PdfBoxTestApp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_0_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_10_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_1_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_1_page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_1_page_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_2_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_3_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_4_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_5_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_5_page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_6_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_6_page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_7_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_7_page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_8_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_8_page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_8_page_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_9_page_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pdf_9_page_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kn_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/kn_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/language_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/language_tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opencv_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv_helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_11_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_11_page_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_11_page_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_11_page_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_3_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_3_page_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_4_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_4_page_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_7_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_7_page_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_7_page_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_7_page_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_8_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_8_page_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_9_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_9_page_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/pdf_9_page_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_9_page_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/OrderParser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +206,7 @@
       <workItem from="1678093884748" duration="25456000" />
       <workItem from="1678134999352" duration="6353000" />
       <workItem from="1678180002604" duration="33319000" />
-      <workItem from="1678266162251" duration="20866000" />
+      <workItem from="1678266162251" duration="21734000" />
     </task>
     <servers />
   </component>
@@ -283,6 +242,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ImageArticleExtractor$main.coverage" NAME="main Coverage Results" MODIFIED="1678303538426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ImageArticleExtractor$main.coverage" NAME="main Coverage Results" MODIFIED="1678303553374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
