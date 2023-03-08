@@ -1,4 +1,5 @@
 import re
+from os import listdir
 from os.path import join
 
 import pandas as pd
@@ -18,6 +19,7 @@ _program_id2program_data = {
     'BT': ['besprechungstische'],
     # container
     'CO': ['co2'],
+    'EC': ['ecos'],
     # cabinets
     'S6': ['s6'],
     'S8': ['s8', 'locker'],
@@ -27,8 +29,16 @@ _program_id2program_data = {
     'JD': ['jet3'],
     'LA': ['lamiga'],
     'OZ': ['okay2'],
-    'OD': ['okay3']
-
+    'OD': ['okay3'],
+    'PA': ['publica'],
+    # other
+    'PN': ['screens'],
+    'NE': ['networkplace'],
+    'NO': ['networkplaceorganic'],
+    'IN': ['inside25'],
+    'IF': ['inside50'],
+    'IB': ['insidebase'],
+    'IC': ['insidecube'],
 }
 
 
@@ -63,7 +73,7 @@ def token2article_data(article_id):
         if df is None:
             # print('pandas read csv!!!')
             path = join('data', f'kn_data_{p}.csv')
-            _program_id2program_data_buffer[p] = pd.read_csv(path, low_memory=False)
+            _program_id2program_data_buffer[p] = pd.read_csv(path, low_memory=False, index_col=0)
 
         df = _program_id2program_data_buffer.get(p, None)
         if df is not None:
@@ -84,8 +94,29 @@ def print_article_data(df, info_level=0):
     print(df.to_string(index=False))
 
 
+def write_all_articles():
+    # articles = pd.Series(name='article_nr', dtype=str)
+    articles = set()
+    for f in listdir('data'):
+        f = join('data', f)
+        _ = pd.read_csv(f, dtype=str)
+        print(f)
+        articles.update(_.article_nr.values)
+    print(len(articles))
+    s = pd.Series(name='article_nr', dtype=str, data=sorted(list(articles)))
+    s.to_csv('articlenumbers.csv', index=False)
+    s.to_pickle('articlenumbers.pkl')
 
-#
+
+def read_all_articles():
+    # Read the Series back from the binary file
+    return pd.read_pickle('articlenumbers.pkl')
+
+
+#         articles = pd.concat([articles, _.article_nr])
+#     print(articles.shape)  # 2.5 million
+#     print(articles.unique())
+# #
 # def article_df2article_config(df):
 #
 #     cols = ['series', 'prop_class', 'property', 'pos_prop', 'need_input', 'restrictable', 'scope', 'value_from', 'pos_pval', 'article_nr',

@@ -11,6 +11,10 @@ from pdf2image import pdf2image
 import constants
 
 
+def pdf_filenames():
+    return [join('pdfs', f) for f in listdir('pdfs') if isfile(join('pdfs', f))]
+
+
 def pdfs2jpgs():
     input = 'pdfs'
     output = 'images'
@@ -65,8 +69,8 @@ def draw_text(img, pos, text):
     color = (0, 0, 255)
     thickness = 1
 
-    (text_width, text_height) = cv2.getTextSize(text, font, fontScale=font_scale, thickness=thickness)[0]
-    box_coords = ((pos[0], pos[1] - text_height - 10), (pos[0] + text_width + 10, pos[1]))
+    #(text_width, text_height) = cv2.getTextSize(text, font, fontScale=font_scale, thickness=thickness)[0]
+    #box_coords = ((pos[0], pos[1] - text_height - 10), (pos[0] + text_width + 10, pos[1]))
 
     # Draw the white background rectangle
     # cv2.rectangle(img, box_coords[0], box_coords[1], (255, 255, 255), cv2.FILLED)
@@ -77,6 +81,10 @@ def draw_text(img, pos, text):
 
 def draw_rectangle(img, x, y, w, h, color=(0, 0, 255), thickness=3):
     cv2.rectangle(img, (x, y), (x + w, y + h), color, thickness=thickness)
+
+
+def draw_rectangle_p1_p2(img, p1, p2, color=(0, 0, 255), thickness=3):
+    cv2.rectangle(img, p1, p2, color, thickness=thickness)
 
 
 def draw_line(img, p1, p2, color=(0, 0, 255), thickness=2):

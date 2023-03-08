@@ -1,3 +1,5 @@
+import itertools
+import random
 COLOR = {
     'Black': (0, 0, 0),
     #'White': (255, 255, 255),
@@ -16,3 +18,10 @@ COLOR = {
     'Teal': (0, 128, 128),
     'Navy': (0, 0, 128),
 }
+
+
+def make_color_cycle():
+    colors = list(COLOR.values())
+    random.shuffle(colors)
+    return itertools.cycle(colors)
+

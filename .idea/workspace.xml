@@ -2,8 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6c9aa99-cbd0-4d8f-be5b-90e832d54308" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OrderParser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PdfBoxTestApp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_0_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_10_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_11_page_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_1_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_1_page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_1_page_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_2_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_3_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_4_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_5_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_5_page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_6_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_6_page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_7_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_7_page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_8_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_8_page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_8_page_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_9_page_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pdf_9_page_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kn_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/kn_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/language_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/language_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/opencv_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_11_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_11_page_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_11_page_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_11_page_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_3_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_3_page_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_4_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_4_page_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_7_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_7_page_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_7_page_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_7_page_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_8_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_8_page_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_9_page_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_9_page_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/pdf_9_page_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/output/pdf_9_page_1.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +78,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -54,6 +96,50 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
+    <configuration name="OrderParser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageArticleExtractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OrderParser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PdfBoxTestApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageArticleExtractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PdfBoxTestApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ImageArticleExtractor" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +209,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.PdfBoxTestApp" />
+        <item itemvalue="Python.OrderParser" />
         <item itemvalue="Python.pdf_parser" />
       </list>
     </recent_temporary>
@@ -152,7 +240,14 @@
       <workItem from="1677527395702" duration="5099000" />
       <workItem from="1677572097052" duration="20968000" />
       <workItem from="1677602896434" duration="3219000" />
-      <workItem from="1677659453327" duration="25709000" />
+      <workItem from="1677659453327" duration="26322000" />
+      <workItem from="1677842005136" duration="2627000" />
+      <workItem from="1677936264705" duration="17625000" />
+      <workItem from="1678007614571" duration="25686000" />
+      <workItem from="1678093884748" duration="25456000" />
+      <workItem from="1678134999352" duration="6353000" />
+      <workItem from="1678180002604" duration="33319000" />
+      <workItem from="1678266162251" duration="20866000" />
     </task>
     <servers />
   </component>
@@ -179,10 +274,15 @@
           <line>426</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OrderParser.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ImageArticleExtractor$main.coverage" NAME="main Coverage Results" MODIFIED="1677695554788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ImageArticleExtractor$main.coverage" NAME="main Coverage Results" MODIFIED="1678303538426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
