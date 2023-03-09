@@ -130,6 +130,20 @@ def search_article(df: pd.DataFrame):
         # raise ValueError(f'(Not yet supported) search_article found {article.shape[0]} article numbers. Expected: 1\n\n{df}')
 
 
+def prepare_fuzzy(s: str):
+    pattern = r'[^a-zA-Z0-9]'
+    return re.sub(pattern, '', s)
+
+
+def fuzzy_compare(s1: str, s2: str):
+    if s1 == s2:
+        return 100
+    else:
+        s1 = prepare_fuzzy(s1)
+        s2 = prepare_fuzzy(s2)
+        return fuzz.ratio(s1, s2)
+
+
 class Word:
     """
     functions for specific word
@@ -223,7 +237,10 @@ class Block:
         self.df = df
         self.lines: DataFrameGroupBy = df.groupby('real_line_no')
         self.has_property: bool = ':' in ''.join(self.df.word)
-
+        print('self.lines')
+        for _, g in self.lines:
+            print_panda(g)
+        input('!!!')
     def search_properties(self):
         if not self.has_property:
             return []
@@ -241,12 +258,15 @@ class Block:
             value = ':'.join(value)
             if is_property_line(' '.join(line.word)):
                 prop_val_list.append((prop, value))
+                print('is_property_line', (prop, value))
 
-            elif last_line and is_property_line(' '.join(last_line[1].word)):
-
+            elif last_line and len(prop_val_list) > 0:  # is_property_line(' '.join(last_line[1].word)):
+                # TODO: support properties over more than 2 lines
                 last_prop, last_val = prop_val_list[-1]
                 prop_val_list[-1] = (last_prop, ' '.join([last_val, prop]))
-
+                print('isELIF_property_line', (prop, value))
+            else:
+                print('isNOOOO_property_line', (prop, value))
         # for prop, value in prop_val_list:
         #    print(f'PROP: {prop}, VALUE: {value}')
         return prop_val_list
@@ -266,8 +286,7 @@ class ArticleParser:
 
         self.ofml_data = kn_data.token2article_data(article_number)
         self.ofml_data['selected'] = 0
-        # self.ofml_property_groups = self.ofml_data.groupby('property', sort=False, group_keys=False)
-        # self.assigned_props = None
+
         self.configuration = None
 
     def parse_configuration(self):
@@ -293,14 +312,13 @@ class ArticleParser:
     def assign_properties(self):
         rt = []
         for prop, val in self.prop_value_list:
-            def prepare_fuzzy(s: str):
-                pattern = r'[^a-zA-Z0-9]'
-                return re.sub(pattern, '', s)
+
+            print(self.article_number, prop, val)
 
             self.ofml_data['prop_similarity'] = self.ofml_data.apply(
-                lambda x: fuzz.ratio(prepare_fuzzy(x.prop_text), prepare_fuzzy(prop)), axis=1)
+                lambda x: fuzzy_compare(x.prop_text, prop), axis=1)
             self.ofml_data['val_similarity'] = self.ofml_data.apply(
-                lambda x: fuzz.ratio(prepare_fuzzy(x.pval_text), prepare_fuzzy(val)), axis=1)
+                lambda x: fuzzy_compare(x.pval_text, val), axis=1)
 
             max_prop_similarity = self.ofml_data.prop_similarity.max()
             prop_df = self.ofml_data[self.ofml_data.prop_similarity == max_prop_similarity]
@@ -349,6 +367,15 @@ class ArticleParser:
         # for k, v in statistics.items():
         #    print(f'{k}: {v}')
         return statistics
+
+    def has_configuration(self):
+        return not (self.configuration is None or self.configuration.empty)
+
+    def configuration_string(self):
+        article = f'{self.article_number}'
+        config = [f'{_[0]}: {_[1]}' for _ in self.configuration[
+            ['property', 'value_from']].values.tolist()] if self.has_configuration() else ''
+        return '\n'.join([article, *config])
 
 
 class OrderParser:
@@ -434,7 +461,7 @@ class OrderParser:
             counter_configurations = 0
             colors = constants.make_color_cycle()
 
-            for block_nr, block in enumerate(self.blocks):
+            for block_nr, block in self.blocks:
                 color = next(colors)
                 cv2.circle(self.image_cv[page_nr], center(block), 5, color, -1)
 
@@ -454,16 +481,17 @@ class OrderParser:
                 if article_number is not None:
                     print(f'parse configuration for _{article_number}_')
                     article_parser = ArticleParser(block, self.blocks, article_number)
-                    configuration = article_parser.parse_configuration()
+                    article_parser.parse_configuration()
                     # print_panda(configuration)
-                    if configuration is not None and not configuration.empty:
+                    if 1:  # configuration is not None and not configuration.empty:
                         counter_configurations += 1
-                        pretty_print = f'{article_number}\n' + '\n'.join([': '.join(_) for _ in configuration[['property', 'value_from']].values.tolist()])
-                        print(pretty_print)
+                        print(article_parser.configuration_string())
+                        print(article_parser.blocks_visited)
                         # print('article_parser.blocks_visited', len(article_parser.blocks_visited))
-                        for i, text in enumerate(pretty_print.split('\n')):
+                        for i, text in enumerate(article_parser.configuration_string().split('\n')):
                             x0, y0, x1, y1 = bbox(pd.concat(article_parser.blocks_visited[:1]))
-                            cv2.putText(self.image_cv[page_nr], text, (x1 // 2, y1 + i*35), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2)
+
+                            cv2.putText(self.image_cv[page_nr], text, (int(page.mediabox_size[0]*2.78*0.75), y1 + i*35), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
             if counter_configurations > 0:
                 self.show_page(page_nr)

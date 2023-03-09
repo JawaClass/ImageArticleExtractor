@@ -89,9 +89,9 @@ def main():
 
 
 if __name__ == '__main__':
-    pdfs = pdf_filenames()[2:3]
+    pdfs = pdf_filenames()#[2:]
     #pdfs = sample(pdfs, 2)  # len(pdfs)
-    #pdfs = [join('pdfs', 'BE89129-1.pdf'), join('pdfs', '20230227143641569.pdf'), join('pdfs', 'Bestellung BE2201331 vom 15.12.2022.pdf')]
+    pdfs = [join('pdfs', '822230096.pdf')]
     for _ in pdfs:  # sample(pdfs, len(pdfs) - 1): # ['pdfs\\Bestellung Nr. 2022100079 Capital.pdf']:#sample(pdfs, len(pdfs) - 1):  # ['pdfs\\Bestellung Nr. 2022100079 Capital.pdf']:
         parser = OrderParser(_)
         parser.parse_document()

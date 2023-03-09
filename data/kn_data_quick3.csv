@@ -1,11 +1,11 @@
 ,article_nr,art_type,manufacturer,series,rel_obj_x,pos_class,prop_class,property,pos_prop,need_input,restrictable,scope,pos_pval,is_default,value_from,value_to,prop_text,pval_text
 0,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,1,0,KS,,Farbe Gestell,Schwarz
-1,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,1,0,KS,,Farbe Gestell,Schwarz
-2,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,1,0,KS,,Farbe Gestell,Schwarz
-3,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,1,0,KS,,Farbe Gestell,Schwarz
-4,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,2,1,WI,,Farbe Gestell,Reinweiß
-5,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,2,1,WI,,Farbe Gestell,Reinweiß
-6,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,2,1,WI,,Farbe Gestell,Reinweiß
+1,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,2,1,WI,,Farbe Gestell,Reinweiß
+2,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,1,0,KS,,Farbe Gestell,Schwarz
+3,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,2,1,WI,,Farbe Gestell,Reinweiß
+4,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,1,0,KS,,Farbe Gestell,Schwarz
+5,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,2,1,WI,,Farbe Gestell,Reinweiß
+6,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,1,0,KS,,Farbe Gestell,Schwarz
 7,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F103,1,1,0,C,2,1,WI,,Farbe Gestell,Reinweiß
 8,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,STOFFKATEGORIE_1,2,1,0,R,1,1,ECONOMY,,Stoffkategorie,Economy
 9,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,STOFFKATEGORIE_1,2,1,0,R,1,1,ECONOMY,,Stoffkategorie,Economy
@@ -16,74 +16,78 @@
 14,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,STOFFGR_2,3,1,0,C,1,1,14,,Stoffgruppe,Polyester (14)
 15,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,STOFFGR_2,3,1,0,C,1,1,14,,Stoffgruppe,Polyester (14)
 16,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,1,0,1425,,Farbe Sitzpolster,1425 Beige
-17,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,1,0,1425,,Farbe Sitzpolster,1425 Beige
-18,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,1,0,1425,,Farbe Sitzpolster,1425 Beige
-19,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,1,0,1425,,Farbe Sitzpolster,1425 Beige
-20,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
-21,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
-22,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
-23,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
-24,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
-25,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
-26,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
-27,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
-28,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
-29,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
-30,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
-31,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
-32,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
-33,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
-34,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
-35,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
-36,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
-37,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
-38,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
-39,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
-40,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
-41,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
-42,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
-43,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
-44,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
-45,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
-46,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
-47,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
-48,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
-49,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
-50,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
-51,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
-52,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
-53,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
-54,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
-55,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
-56,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
-57,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
-58,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
-59,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
-60,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
-61,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
-62,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
-63,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
-64,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
-65,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
-66,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
-67,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
-68,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
-69,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
-70,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
-71,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
-72,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,15,0,1491,,Farbe Sitzpolster,1491 Anthrazit
-73,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,15,0,1491,,Farbe Sitzpolster,1491 Anthrazit
-74,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,15,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+17,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
+18,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
+19,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+20,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
+21,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+22,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
+23,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
+24,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
+25,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
+26,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
+27,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
+28,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
+29,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
+30,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,15,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+31,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,1,0,1425,,Farbe Sitzpolster,1425 Beige
+32,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
+33,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
+34,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+35,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
+36,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+37,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
+38,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
+39,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
+40,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
+41,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
+42,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
+43,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
+44,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
+45,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,15,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+46,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,1,0,1425,,Farbe Sitzpolster,1425 Beige
+47,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
+48,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
+49,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+50,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
+51,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+52,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
+53,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
+54,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
+55,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
+56,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
+57,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
+58,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
+59,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
+60,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,15,0,1491,,Farbe Sitzpolster,1491 Anthrazit
+61,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,1,0,1425,,Farbe Sitzpolster,1425 Beige
+62,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,2,0,1430,,Farbe Sitzpolster,1430 Seegrün
+63,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,3,1,1434,,Farbe Sitzpolster,1434 Apfelgrün
+64,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,4,0,1442,,Farbe Sitzpolster,1442 Dunkelblau
+65,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,5,0,1443,,Farbe Sitzpolster,1443 Hellblau
+66,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,6,0,1447,,Farbe Sitzpolster,1447 Petrolblau
+67,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,7,0,1453,,Farbe Sitzpolster,1453 Grau
+68,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,8,0,1461,,Farbe Sitzpolster,1461 Rot
+69,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,9,0,1462,,Farbe Sitzpolster,1462 Schwarz
+70,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,10,0,1467,,Farbe Sitzpolster,1467 Brombeer
+71,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,11,0,1470,,Farbe Sitzpolster,1470 Ocker
+72,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,12,0,1471,,Farbe Sitzpolster,1471 Gelb
+73,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,13,0,1482,,Farbe Sitzpolster,1482 Orange
+74,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,14,0,1485,,Farbe Sitzpolster,1485 Rose
 75,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,F100,4,1,0,C,15,0,1491,,Farbe Sitzpolster,1491 Anthrazit
 76,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,LF_DEMONT,5,1,0,C,1,1,LF5,,Lieferung,zerlegt und kartonverpackt
 77,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,LF_DEMONT,5,1,0,C,1,1,LF5,,Lieferung,zerlegt und kartonverpackt
 78,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,LF_DEMONT,5,1,0,C,1,1,LF5,,Lieferung,zerlegt und kartonverpackt
 79,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,LF_DEMONT,5,1,0,C,1,1,LF5,,Lieferung,zerlegt und kartonverpackt
 80,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,1,0,LKW,,Versandart,LKW
-81,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,1,0,LKW,,Versandart,LKW
-82,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,1,0,LKW,,Versandart,LKW
-83,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,1,0,LKW,,Versandart,LKW
-84,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,2,0,ASAP,,Versandart,DPD
-85,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,2,0,ASAP,,Versandart,DPD
-86,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,2,0,ASAP,,Versandart,DPD
+81,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,2,0,ASAP,,Versandart,DPD
+82,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,1,0,LKW,,Versandart,LKW
+83,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,2,0,ASAP,,Versandart,DPD
+84,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,1,0,LKW,,Versandart,LKW
+85,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,2,0,ASAP,,Versandart,DPD
+86,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,1,0,LKW,,Versandart,LKW
 87,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,VERSAND,6,1,0,R,2,0,ASAP,,Versandart,DPD
+88,Q3HO1SE,C,KN,quick3,0,1,STEHHILFE,ANZAHL_SP_NR,8,1,0,C,1,0,1,10000,Anzahl für Preisfindung (Staffelpreise),
+89,Q3HO1WE,C,KN,quick3,0,1,STEHHILFE,ANZAHL_SP_NR,8,1,0,C,1,0,1,10000,Anzahl für Preisfindung (Staffelpreise),
+90,Q3HO2SE,C,KN,quick3,0,1,STEHHILFE,ANZAHL_SP_NR,8,1,0,C,1,0,1,10000,Anzahl für Preisfindung (Staffelpreise),
+91,Q3HO2WE,C,KN,quick3,0,1,STEHHILFE,ANZAHL_SP_NR,8,1,0,C,1,0,1,10000,Anzahl für Preisfindung (Staffelpreise),

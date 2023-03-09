@@ -1,9 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c6c9aa99-cbd0-4d8f-be5b-90e832d54308" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OrderParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/OrderParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_activet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_activet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_agenda2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_agenda2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_astra.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_astra.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_auray.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_auray.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_balancechair.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_balancechair.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_balancedesk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_balancedesk.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_basic4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_basic4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_basic4bench.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_basic4bench.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_baukastenstuhl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_baukastenstuhl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_besprechungstische.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_besprechungstische.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_co2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_co2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_doit4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_doit4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_ecos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_ecos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_inside25.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_inside25.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_inside50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_inside50.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_insidebase.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_insidebase.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_insidecube.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_insidecube.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_jet2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_jet2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_jet2_holland.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_jet2_holland.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_jet3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_jet3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_lamiga.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_lamiga.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_lifes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_lifes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_lifes_camping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_lifes_camping.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_locker.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_locker.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_meetin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_meetin.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_memo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_memo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_moveme.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_moveme.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_movemedesk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_movemedesk.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_movemix.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_movemix.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_networkplace.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_networkplace.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_networkplaceorganic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_networkplaceorganic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_okay2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_okay2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_okay3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_okay3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_pensom.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_pensom.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_plenumk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_plenumk.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_podeste.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_podeste.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_publica.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_publica.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_quick3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_quick3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_quietbox.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_quietbox.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_quietboxduo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_quietboxduo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_quietboxduoxl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_quietboxduoxl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_s6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_s6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_s8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_s8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_screens.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_screens.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_standby2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_standby2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_summa.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_summa.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_table.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_table.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_tablehome.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_tablehome.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_talkbox.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_talkbox.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_talos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_talos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_teamworkspace.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_teamworkspace.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_tensanext.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_tensanext.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/kn_data_workplace.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/kn_data_workplace.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2022-12-15-K+N-Parker_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2022-12-15-K+N-Parker_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kn_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/kn_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +87,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Luc0CNwqJKP0gOhqKDEcDzJXbF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -223,7 +286,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -240,8 +302,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ImageArticleExtractor$main.coverage" NAME="main Coverage Results" MODIFIED="1678303553374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

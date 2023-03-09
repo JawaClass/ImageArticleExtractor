@@ -1,621 +1,621 @@
 ,article_nr,art_type,manufacturer,series,rel_obj_x,pos_class,prop_class,property,pos_prop,need_input,restrictable,scope,pos_pval,is_default,value_from,value_to,prop_text,pval_text
 0,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
-1,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
-2,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
-3,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
-4,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
-5,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
-6,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
-7,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
-8,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
-9,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
-10,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
-11,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
-12,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
-13,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
-14,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
-15,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
-16,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
+1,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
+2,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
+3,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
+4,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
+5,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
+6,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
+7,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
+8,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
+9,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
+10,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
+11,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
+12,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
+13,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
+14,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
+15,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,1,0,COMFORT,,Stoffkategorie f. Stuhl,Comfort
+16,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,2,0,PREMIUM,,Stoffkategorie f. Stuhl,Premium
 17,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFKATEGORIE_1,1,1,0,R,3,0,LEDER 3,,Stoffkategorie f. Stuhl,Velourleder
 18,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
-19,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
-20,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
-21,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
-22,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
-23,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
-24,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
-25,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
-26,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
-27,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
-28,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
-29,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
-30,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
-31,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
-32,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
-33,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
-34,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
-35,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
-36,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
-37,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
-38,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
-39,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
-40,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
-41,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
-42,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
-43,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
-44,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
-45,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
-46,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
-47,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
-48,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
-49,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
-50,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
-51,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
-52,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
-53,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
-54,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
-55,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
-56,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
-57,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
-58,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
-59,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
-60,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
-61,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
-62,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
-63,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
-64,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
-65,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
-66,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
-67,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
-68,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
-69,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
-70,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
-71,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
-72,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
-73,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
-74,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
-75,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
-76,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
-77,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
-78,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
-79,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
-80,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
-81,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
-82,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
-83,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
-84,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
-85,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
-86,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
-87,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
-88,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
-89,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
-90,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
-91,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
-92,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
-93,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
-94,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
-95,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
-96,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
-97,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
-98,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
-99,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
-100,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
-101,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
-102,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
-103,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
-104,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
-105,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
-106,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
-107,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
-108,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
-109,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
-110,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
-111,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
-112,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
-113,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
-114,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
-115,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
-116,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
-117,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
-118,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
-119,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
-120,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
-121,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
-122,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
-123,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
-124,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
-125,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
-126,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
-127,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
-128,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
-129,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
-130,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
-131,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
-132,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
-133,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
-134,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
-135,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
-136,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
-137,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
-138,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
-139,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
-140,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
-141,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
-142,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
-143,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
-144,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
-145,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
-146,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
-147,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
-148,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
-149,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
-150,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
-151,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
-152,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
-153,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
-154,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
-155,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
-156,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
-157,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
-158,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
-159,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
-160,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
-161,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
-162,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
-163,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
-164,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
-165,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
-166,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
-167,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
-168,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
-169,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
-170,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
-171,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
-172,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
-173,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
-174,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
-175,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
-176,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
-177,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
-178,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
-179,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
-180,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
-181,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
-182,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
-183,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
-184,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
-185,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
-186,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
-187,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
-188,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
-189,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
-190,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
-191,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
-192,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
-193,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
-194,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
-195,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
-196,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
-197,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
-198,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
-199,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
-200,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
-201,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
-202,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
-203,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
-204,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
-205,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
-206,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
-207,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
-208,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
-209,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
-210,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
-211,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
-212,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
-213,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
-214,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
-215,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
-216,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
-217,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
-218,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
-219,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
-220,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
-221,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
-222,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
-223,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
-224,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
-225,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
-226,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
-227,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
-228,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
-229,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
-230,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
-231,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
-232,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
-233,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
-234,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
-235,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
-236,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
-237,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
-238,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
-239,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
-240,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
-241,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
-242,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
-243,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
-244,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
-245,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
-246,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
-247,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
-248,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
-249,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
-250,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
-251,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
-252,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
-253,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
-254,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
-255,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
-256,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
-257,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
-258,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
-259,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
-260,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
-261,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
-262,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
+19,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
+20,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
+21,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
+22,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
+23,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
+24,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
+25,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
+26,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
+27,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
+28,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
+29,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
+30,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
+31,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
+32,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
+33,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
+34,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
+35,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
+36,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
+37,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
+38,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,1,1,31,,Stoffgruppe,Schurwolle (31)
+39,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,2,0,46,,Stoffgruppe,Schurwolle (46)
+40,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,3,0,49,,Stoffgruppe,Schurwolle/Nylon (49)
+41,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR,2,1,0,C,4,0,53,,Stoffgruppe,Velourleder
+42,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+43,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+44,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+45,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
+46,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+47,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+48,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
+49,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
+50,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
+51,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
+52,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+53,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
+54,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
+55,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
+56,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
+57,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
+58,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
+59,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
+60,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
+61,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
+62,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
+63,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
+64,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
+65,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
+66,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
+67,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
+68,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
+69,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
+70,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
+71,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
+72,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
+73,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
+74,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
+75,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
+76,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
+77,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
+78,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
+79,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
+80,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
+81,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
+82,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
+83,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+84,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+85,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+86,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
+87,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+88,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+89,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
+90,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
+91,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
+92,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
+93,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+94,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
+95,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
+96,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
+97,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
+98,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
+99,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
+100,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
+101,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
+102,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
+103,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
+104,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
+105,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
+106,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
+107,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
+108,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
+109,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
+110,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
+111,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
+112,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
+113,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
+114,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
+115,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
+116,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
+117,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
+118,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
+119,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
+120,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
+121,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
+122,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
+123,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
+124,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+125,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+126,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+127,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
+128,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+129,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+130,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
+131,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
+132,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
+133,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
+134,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+135,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
+136,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
+137,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
+138,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
+139,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
+140,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
+141,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
+142,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
+143,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
+144,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
+145,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
+146,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
+147,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
+148,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
+149,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
+150,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
+151,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
+152,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
+153,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
+154,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
+155,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
+156,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
+157,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
+158,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
+159,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
+160,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
+161,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
+162,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
+163,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
+164,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
+165,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+166,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+167,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+168,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
+169,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+170,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+171,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
+172,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
+173,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
+174,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
+175,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+176,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
+177,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
+178,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
+179,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
+180,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
+181,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
+182,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
+183,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
+184,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
+185,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
+186,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
+187,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
+188,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
+189,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
+190,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
+191,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
+192,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
+193,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
+194,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
+195,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
+196,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
+197,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
+198,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
+199,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
+200,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
+201,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
+202,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
+203,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
+204,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
+205,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
+206,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+207,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+208,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+209,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
+210,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+211,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+212,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
+213,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
+214,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
+215,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
+216,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+217,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
+218,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
+219,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
+220,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
+221,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
+222,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
+223,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
+224,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
+225,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
+226,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
+227,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
+228,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
+229,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
+230,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
+231,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
+232,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
+233,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
+234,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
+235,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
+236,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
+237,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
+238,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
+239,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
+240,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
+241,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
+242,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
+243,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
+244,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
+245,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
+246,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
+247,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,1,0,3121,,Farbe Sitzpolster,3121 Dunkelbeige Melange
+248,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,2,0,3123,,Farbe Sitzpolster,3123 Beige Melange
+249,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,3,0,3131,,Farbe Sitzpolster,3131 Hellgrün
+250,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,4,0,3143,,Farbe Sitzpolster,3143 Hellblau
+251,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,5,0,3146,,Farbe Sitzpolster,3146 Türkisblau
+252,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,6,0,3156,,Farbe Sitzpolster,3156 Mittelgrau Melange
+253,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,7,0,3161,,Farbe Sitzpolster,3161 Dunkelrot
+254,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,8,0,3162,,Farbe Sitzpolster,3162 Schwarz
+255,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,9,0,3171,,Farbe Sitzpolster,3171 Gelb
+256,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,10,1,3172,,Farbe Sitzpolster,3172 Gelb Melange
+257,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,11,0,3181,,Farbe Sitzpolster,3181 Orange Melange
+258,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,12,0,4628,,Farbe Sitzpolster,4628 Hellbeige
+259,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,13,0,4629,,Farbe Sitzpolster,4629 Dunkelbeige
+260,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,14,0,4631,,Farbe Sitzpolster,4631 Hellgrün
+261,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,15,0,4633,,Farbe Sitzpolster,4633 Dunkelgrün
+262,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,16,0,4634,,Farbe Sitzpolster,4634 Apfelgrün
 263,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,17,0,4643,,Farbe Sitzpolster,4643 Hellblau
-264,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
-265,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
-266,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
-267,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
-268,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
-269,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
-270,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
-271,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
-272,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
-273,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
-274,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
-275,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
-276,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
-277,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
-278,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
-279,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
-280,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
-281,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
-282,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
-283,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
-284,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
-285,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
-286,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
-287,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
-288,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
-289,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
-290,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
-291,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
-292,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
-293,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
-294,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
-295,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
-296,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
-297,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
-298,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
-299,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
-300,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
-301,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
-302,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
-303,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
-304,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
-305,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
-306,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
-307,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
-308,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
-309,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
-310,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
-311,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
-312,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
-313,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
-314,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
-315,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
-316,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
-317,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
-318,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
-319,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
-320,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
-321,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
-322,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
-323,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
-324,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
-325,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
-326,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
-327,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
-328,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
-329,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
-330,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
-331,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
-332,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
-333,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
-334,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
-335,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
-336,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
-337,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
-338,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
-339,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
-340,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
-341,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
-342,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
-343,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
-344,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
-345,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
-346,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
-347,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
-348,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
-349,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
-350,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
-351,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
-352,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
-353,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
-354,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
-355,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
-356,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
-357,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
-358,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
-359,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
-360,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
-361,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
-362,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
-363,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
-364,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
-365,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
-366,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
-367,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
-368,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
-369,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
-370,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
-371,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
-372,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
-373,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
-374,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
-375,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
-376,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
-377,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
-378,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
-379,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
-380,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
-381,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
-382,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
-383,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
-384,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
-385,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
-386,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
-387,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
-388,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
-389,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
-390,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
-391,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
-392,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
-393,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
-394,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
-395,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
-396,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
-397,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
-398,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
-399,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
-400,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
-401,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
-402,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
-403,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
-404,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
-405,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
-406,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
-407,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
-408,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
-409,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
-410,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
-411,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
-412,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
-413,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
-414,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
-415,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
-416,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
-417,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
-418,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
-419,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
-420,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
-421,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
-422,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
-423,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
-424,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
-425,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
-426,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
-427,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
-428,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
-429,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
-430,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
-431,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
-432,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
-433,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
-434,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
-435,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
-436,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
-437,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
-438,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
-439,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
-440,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
-441,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
-442,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
-443,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
-444,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
-445,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
-446,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
-447,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
-448,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
-449,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
-450,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
-451,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
-452,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
-453,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
-454,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
-455,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
-456,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
-457,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
-458,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
-459,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
-460,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
-461,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
-462,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
-463,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
-464,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
-465,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
-466,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
-467,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
-468,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
-469,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
-470,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
-471,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
-472,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
-473,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
-474,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
-475,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
-476,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
-477,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
-478,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
-479,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
-480,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
-481,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
-482,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
-483,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
-484,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
-485,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
-486,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
-487,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
-488,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
-489,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
-490,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
-491,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
-492,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
-493,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
-494,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
-495,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
-496,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
-497,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
-498,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
-499,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
-500,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
-501,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
-502,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
-503,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
-504,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
-505,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
-506,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
-507,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
-508,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
-509,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
-510,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
-511,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
-512,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
-513,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
-514,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
-515,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
-516,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
-517,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
-518,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
-519,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
-520,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
-521,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
-522,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
-523,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
-524,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
-525,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
-526,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
-527,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
-528,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
-529,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
-530,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
-531,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
-532,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
-533,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
-534,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
-535,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
-536,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
-537,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
-538,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
-539,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
-540,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
-541,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
-542,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
-543,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
-544,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
-545,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
-546,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
-547,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
-548,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
-549,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
-550,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
-551,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
-552,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
-553,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
-554,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
-555,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
-556,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
+264,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,18,0,4649,,Farbe Sitzpolster,4649 Blaugrün
+265,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,19,0,4653,,Farbe Sitzpolster,4653 Hellgrau
+266,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,20,0,4655,,Farbe Sitzpolster,4655 Dunkelgrau
+267,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,21,0,4662,,Farbe Sitzpolster,4662 Schwarz
+268,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,22,0,4666,,Farbe Sitzpolster,4666 Kirschrot
+269,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,23,0,4667,,Farbe Sitzpolster,4667 Brombeer
+270,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,24,0,4670,,Farbe Sitzpolster,4670 Ocker
+271,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,25,0,4685,,Farbe Sitzpolster,4685 Rose
+272,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,26,0,4925,,Farbe Sitzpolster,4925 Beige
+273,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,27,0,4929,,Farbe Sitzpolster,4929 Dunkelbeige
+274,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,28,0,4931,,Farbe Sitzpolster,4931 Hellgrün
+275,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,29,0,4942,,Farbe Sitzpolster,4942 Dunkelblau
+276,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,30,0,4944,,Farbe Sitzpolster,4944 Blaurot
+277,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,31,0,4948,,Farbe Sitzpolster,4948 Wasserblau
+278,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,32,0,4952,,Farbe Sitzpolster,4952 Mittelgrau
+279,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,33,0,4953,,Farbe Sitzpolster,4953 Hellgrau
+280,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,34,0,4961,,Farbe Sitzpolster,4961 Dunkelrot
+281,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,35,0,4969,,Farbe Sitzpolster,4969 Hellrot
+282,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,36,0,4970,,Farbe Sitzpolster,4970 Ocker
+283,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,37,0,4971,,Farbe Sitzpolster,4971 Gelb
+284,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,38,0,4975,,Farbe Sitzpolster,4975 Dunkelbraun
+285,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,39,0,4983,,Farbe Sitzpolster,4983 Orangebeige
+286,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,40,0,53VLG,,Farbe Sitzpolster,53VLG Veloursleder Grau
+287,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F100,3,1,0,C,41,0,53VLH,,Farbe Sitzpolster,53VLH Veloursleder Hellbraun
+288,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
+289,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
+290,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
+291,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
+292,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
+293,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
+294,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
+295,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
+296,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
+297,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
+298,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
+299,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
+300,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
+301,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
+302,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
+303,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
+304,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
+305,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
+306,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
+307,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
+308,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,1,1,31,,Stoffgruppe Rückenlehne,Schurwolle (31)
+309,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,2,0,46,,Stoffgruppe Rückenlehne,Schurwolle (46)
+310,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,3,0,49,,Stoffgruppe Rückenlehne,Schurwolle/Nylon (49)
+311,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,STOFFGR_3,4,0,0,R,4,0,53,,Stoffgruppe Rückenlehne,Velourleder
+312,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
+313,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
+314,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
+315,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
+316,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
+317,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
+318,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
+319,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
+320,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
+321,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
+322,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
+323,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
+324,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
+325,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
+326,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
+327,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
+328,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
+329,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
+330,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
+331,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
+332,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
+333,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
+334,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
+335,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
+336,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
+337,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
+338,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
+339,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
+340,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
+341,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
+342,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
+343,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
+344,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
+345,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
+346,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
+347,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
+348,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
+349,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
+350,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
+351,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
+352,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
+353,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
+354,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
+355,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
+356,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
+357,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
+358,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
+359,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
+360,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
+361,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
+362,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
+363,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
+364,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
+365,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
+366,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
+367,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
+368,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
+369,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
+370,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
+371,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
+372,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
+373,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
+374,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
+375,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
+376,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
+377,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
+378,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
+379,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
+380,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
+381,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
+382,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
+383,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
+384,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
+385,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
+386,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
+387,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
+388,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
+389,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
+390,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
+391,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
+392,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
+393,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
+394,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
+395,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
+396,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
+397,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
+398,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
+399,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
+400,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
+401,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
+402,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
+403,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
+404,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
+405,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
+406,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
+407,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
+408,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
+409,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
+410,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
+411,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
+412,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
+413,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
+414,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
+415,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
+416,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
+417,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
+418,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
+419,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
+420,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
+421,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
+422,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
+423,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
+424,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
+425,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
+426,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
+427,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
+428,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
+429,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
+430,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
+431,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
+432,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
+433,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
+434,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
+435,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
+436,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
+437,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
+438,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
+439,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
+440,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
+441,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
+442,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
+443,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
+444,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
+445,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
+446,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
+447,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
+448,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
+449,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
+450,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
+451,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
+452,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
+453,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
+454,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
+455,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
+456,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
+457,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
+458,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
+459,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
+460,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
+461,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
+462,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
+463,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
+464,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
+465,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
+466,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
+467,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
+468,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
+469,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
+470,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
+471,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
+472,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
+473,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
+474,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
+475,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
+476,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
+477,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
+478,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
+479,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
+480,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
+481,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
+482,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
+483,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
+484,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
+485,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
+486,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
+487,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
+488,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
+489,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
+490,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
+491,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
+492,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
+493,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
+494,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
+495,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
+496,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
+497,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
+498,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
+499,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
+500,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
+501,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
+502,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
+503,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
+504,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
+505,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
+506,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
+507,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
+508,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
+509,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
+510,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
+511,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
+512,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
+513,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
+514,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
+515,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
+516,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
+517,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,1,0,3121,,Farbe Rückenlehne,3121 Dunkelbeige Melange
+518,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,2,0,3123,,Farbe Rückenlehne,3123 Beige Melange
+519,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,3,0,3131,,Farbe Rückenlehne,3131 Hellgrün
+520,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,4,0,3143,,Farbe Rückenlehne,3143 Hellblau
+521,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,5,0,3146,,Farbe Rückenlehne,3146 Türkisblau
+522,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,6,0,3156,,Farbe Rückenlehne,3156 Mittelgrau Melange
+523,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,7,0,3161,,Farbe Rückenlehne,3161 Dunkelrot
+524,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,8,0,3162,,Farbe Rückenlehne,3162 Schwarz
+525,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,9,0,3171,,Farbe Rückenlehne,3171 Gelb
+526,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,10,1,3172,,Farbe Rückenlehne,3172 Gelb Melange
+527,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,11,0,3181,,Farbe Rückenlehne,3181 Orange Melange
+528,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,12,0,4628,,Farbe Rückenlehne,4628 Hellbeige
+529,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,13,0,4629,,Farbe Rückenlehne,4629 Dunkelbeige
+530,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,14,0,4631,,Farbe Rückenlehne,4631 Hellgrün
+531,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,15,0,4633,,Farbe Rückenlehne,4633 Dunkelgrün
+532,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,16,0,4634,,Farbe Rückenlehne,4634 Apfelgrün
+533,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,17,0,4643,,Farbe Rückenlehne,4643 Hellblau
+534,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,18,0,4649,,Farbe Rückenlehne,4649 Blaugrün
+535,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,19,0,4653,,Farbe Rückenlehne,4653 Hellgrau
+536,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,20,0,4655,,Farbe Rückenlehne,4655 Dunkelgrau
+537,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,21,0,4662,,Farbe Rückenlehne,4662 Schwarz
+538,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,22,0,4666,,Farbe Rückenlehne,4666 Kirschrot
+539,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,23,0,4667,,Farbe Rückenlehne,4667 Brombeer
+540,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,24,0,4670,,Farbe Rückenlehne,4670 Ocker
+541,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,25,0,4685,,Farbe Rückenlehne,4685 Rose
+542,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,26,0,4925,,Farbe Rückenlehne,4925 Beige
+543,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,27,0,4929,,Farbe Rückenlehne,4929 Dunkelbeige
+544,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,28,0,4931,,Farbe Rückenlehne,4931 Hellgrün
+545,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,29,0,4942,,Farbe Rückenlehne,4942 Dunkelblau
+546,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,30,0,4944,,Farbe Rückenlehne,4944 Blaurot
+547,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,31,0,4948,,Farbe Rückenlehne,4948 Wasserblau
+548,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,32,0,4952,,Farbe Rückenlehne,4952 Mittelgrau
+549,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,33,0,4953,,Farbe Rückenlehne,4953 Hellgrau
+550,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,34,0,4961,,Farbe Rückenlehne,4961 Dunkelrot
+551,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,35,0,4969,,Farbe Rückenlehne,4969 Hellrot
+552,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,36,0,4970,,Farbe Rückenlehne,4970 Ocker
+553,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,37,0,4971,,Farbe Rückenlehne,4971 Gelb
+554,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,38,0,4975,,Farbe Rückenlehne,4975 Dunkelbraun
+555,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,39,0,4983,,Farbe Rückenlehne,4983 Orangebeige
+556,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,40,0,53VLG,,Farbe Rückenlehne,53VLG Veloursleder Grau
 557,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F101,5,1,0,C,41,0,53VLH,,Farbe Rückenlehne,53VLH Veloursleder Hellbraun
 558,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
-559,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
-560,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
-561,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
-562,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
-563,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
-564,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
-565,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
-566,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
-567,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
-568,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
-569,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
-570,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
-571,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
-572,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
-573,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
-574,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
-575,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
-576,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
-577,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
-578,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
-579,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
-580,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
-581,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
-582,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
-583,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
-584,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
-585,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
-586,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
+559,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
+560,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
+561,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
+562,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
+563,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
+564,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
+565,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
+566,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
+567,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
+568,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
+569,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
+570,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
+571,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
+572,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
+573,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
+574,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
+575,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
+576,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
+577,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
+578,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
+579,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
+580,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
+581,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
+582,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
+583,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,1,0,AP,,Farbe Schale,Alu poliert
+584,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,2,0,KSS,,Farbe Schale,Schwarz/Strukturlack
+585,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,3,0,WIS,,Farbe Schale,Reinweiß/Strukturlack
+586,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,4,0,LBB,,Farbe Schale,Leder Boxmark braun
 587,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F125,6,1,0,C,5,0,LBS,,Farbe Schale,Leder Boxmark schwarz
 588,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
-589,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
-590,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
-591,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
-592,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
-593,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
-594,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
-595,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
-596,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
-597,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
-598,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
-599,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
-600,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
-601,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
-602,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
-603,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
-604,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
-605,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
-606,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
-607,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
-608,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
-609,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
-610,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
-611,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
-612,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
-613,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
-614,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
-615,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
-616,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
+589,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
+590,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
+591,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
+592,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
+593,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
+594,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
+595,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
+596,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
+597,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
+598,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
+599,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
+600,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
+601,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
+602,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
+603,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
+604,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
+605,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
+606,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
+607,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
+608,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
+609,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
+610,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
+611,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
+612,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
+613,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,1,0,AP,,Farbe Armlehnen,Alu poliert
+614,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,2,0,KSS,,Farbe Armlehnen,Schwarz/Strukturlack
+615,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,3,0,WIS,,Farbe Armlehnen,Reinweiß/Strukturlack
+616,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,4,0,LBB,,Farbe Armlehnen,Leder Boxmark braun
 617,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F104,7,1,0,C,5,0,LBS,,Farbe Armlehnen,Leder Boxmark schwarz
 618,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F105,8,1,0,C,1,1,50LS,,Farbe Armlehnenauflage,50LS Schwarz / Leder
 619,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F105,8,1,0,C,1,1,50LS,,Farbe Armlehnenauflage,50LS Schwarz / Leder
@@ -624,62 +624,62 @@
 622,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F105,8,1,0,C,1,1,50LS,,Farbe Armlehnenauflage,50LS Schwarz / Leder
 623,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F105,8,1,0,C,1,1,50LS,,Farbe Armlehnenauflage,50LS Schwarz / Leder
 624,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
-625,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
-626,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
-627,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
-628,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
-629,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
-630,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
-631,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
-632,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
-633,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
-634,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
-635,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
-636,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
-637,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
-638,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
-639,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
-640,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
+625,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
+626,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
+627,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
+628,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
+629,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
+630,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
+631,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
+632,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
+633,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
+634,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
+635,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
+636,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
+637,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
+638,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
+639,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,1,0,AP,,Farbe Fußkreuz,Alu poliert
+640,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,2,1,KSS,,Farbe Fußkreuz,Schwarz/Strukturlack
 641,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F102,9,1,0,C,3,0,WIS,,Farbe Fußkreuz,Reinweiß/Strukturlack
 642,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
-643,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
-644,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
-645,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
-646,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
-647,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
-648,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
-649,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
-650,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
-651,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
-652,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
-653,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
-654,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
-655,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
-656,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
-657,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
-658,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
-659,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
-660,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
-661,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
-662,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
-663,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
-664,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
+643,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
+644,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
+645,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
+646,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
+647,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
+648,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
+649,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
+650,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
+651,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
+652,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
+653,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
+654,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
+655,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
+656,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
+657,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
+658,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
+659,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
+660,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
+661,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
+662,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,1,1,SKT6,,Stuhlrollen,60er Rollen für Teppichboden
+663,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,2,0,SKK6,,Stuhlrollen,60er Rollen für Hartboden
+664,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,3,0,SKT65,,Stuhlrollen,65er Design-Rollen für Teppichboden
 665,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,S_ROLLEN,10,1,0,C,4,0,SKK65,,Stuhlrollen,65er Design-Rollen für Hartboden
 666,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
-667,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
-668,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
-669,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
-670,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
-671,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
-672,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
-673,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
-674,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
-675,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
-676,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
-677,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
-678,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
-679,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
-680,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
-681,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
-682,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
+667,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
+668,BCSS8C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
+669,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
+670,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
+671,BCSS8L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
+672,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
+673,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
+674,BCSS8P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
+675,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
+676,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
+677,BCSS9C,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
+678,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
+679,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
+680,BCSS9L3,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert
+681,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,1,1,KS,,Farbe Stuhlrollen,Schwarz
+682,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,2,0,WI,,Farbe Stuhlrollen,Reinweiß
 683,BCSS9P,C,KN,balancechair,0,1,DREHSTUHL119_A,F121,11,1,0,C,3,0,AP,,Farbe Stuhlrollen,Alu poliert

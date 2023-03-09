@@ -83,7 +83,13 @@ def token2article_data(article_id):
 
     if result_df.empty:
         return None
-    return result_df.sort_values(['pos_prop', 'pos_pval', 'is_default'], ascending=True)
+    else:
+        result_df = result_df\
+            .sort_values(['pos_prop', 'pos_pval', 'is_default'], ascending=True)\
+            .query('article_nr == @article_id')
+        result_df['prop_text'] = result_df['prop_text'].fillna(value='')
+        result_df['pval_text'] = result_df['pval_text'].fillna(value='')
+        return result_df
 
 
 def print_article_data(df, info_level=0):
